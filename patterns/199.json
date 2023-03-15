@@ -20,8 +20,7 @@
                         "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             },
                             {
                                 "name": "heading",
@@ -94,8 +93,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             },
                             {
                                 "name": "image",

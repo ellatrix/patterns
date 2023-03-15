@@ -15,8 +15,7 @@
         },
         "innerBlocks": [
             {
-                "name": "spacer",
-                "attributes": {}
+                "name": "spacer"
             },
             {
                 "name": "columns",
@@ -134,8 +133,7 @@
                 ]
             },
             {
-                "name": "spacer",
-                "attributes": {}
+                "name": "spacer"
             }
         ]
     }

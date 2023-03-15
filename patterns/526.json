@@ -1,7 +1,6 @@
 [
     {
         "name": "columns",
-        "attributes": {},
         "innerBlocks": [
             {
                 "name": "column",
@@ -32,8 +31,7 @@
                 "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "spacer",
-                        "attributes": {}
+                        "name": "spacer"
                     },
                     {
                         "name": "paragraph",

@@ -40,7 +40,6 @@
     },
     {
         "name": "columns",
-        "attributes": {},
         "innerBlocks": [
             {
                 "name": "column",

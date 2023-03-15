@@ -9,11 +9,9 @@
         "innerBlocks": [
             {
                 "name": "group",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "columns",
-                        "attributes": {},
                         "innerBlocks": [
                             {
                                 "name": "column",

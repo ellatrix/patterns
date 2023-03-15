@@ -47,7 +47,6 @@
                         "innerBlocks": [
                             {
                                 "name": "columns",
-                                "attributes": {},
                                 "innerBlocks": [
                                     {
                                         "name": "column",
@@ -86,8 +85,7 @@
                                 ]
                             },
                             {
-                                "name": "separator",
-                                "attributes": {}
+                                "name": "separator"
                             },
                             {
                                 "name": "heading",

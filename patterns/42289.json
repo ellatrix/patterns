@@ -25,7 +25,6 @@
         "innerBlocks": [
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
@@ -87,7 +86,6 @@
         "innerBlocks": [
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
@@ -150,7 +148,6 @@
                                     },
                                     {
                                         "name": "column",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "heading",
@@ -250,7 +247,6 @@
                                     },
                                     {
                                         "name": "column",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "heading",
@@ -350,7 +346,6 @@
                                     },
                                     {
                                         "name": "column",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "heading",

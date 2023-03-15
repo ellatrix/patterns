@@ -1,7 +1,6 @@
 [
     {
         "name": "group",
-        "attributes": {},
         "innerBlocks": [
             {
                 "name": "heading",

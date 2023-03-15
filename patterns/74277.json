@@ -30,7 +30,6 @@
             },
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
@@ -56,11 +55,9 @@
             },
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
-                        "attributes": {},
                         "innerBlocks": [
                             {
                                 "name": "cover",
@@ -148,7 +145,6 @@
             },
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",

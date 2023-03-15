@@ -14,8 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "column",
-                "attributes": {}
+                "name": "column"
             },
             {
                 "name": "column",

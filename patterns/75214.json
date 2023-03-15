@@ -31,7 +31,6 @@
                         "innerBlocks": [
                             {
                                 "name": "group",
-                                "attributes": {},
                                 "innerBlocks": [
                                     {
                                         "name": "heading",
@@ -126,7 +125,6 @@
                         "innerBlocks": [
                             {
                                 "name": "group",
-                                "attributes": {},
                                 "innerBlocks": [
                                     {
                                         "name": "gallery",

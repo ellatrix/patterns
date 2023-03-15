@@ -28,11 +28,9 @@
         "innerBlocks": [
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
-                        "attributes": {},
                         "innerBlocks": [
                             {
                                 "name": "heading",

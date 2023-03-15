@@ -1,7 +1,6 @@
 [
     {
         "name": "list",
-        "attributes": {},
         "innerBlocks": [
             {
                 "name": "list-item",

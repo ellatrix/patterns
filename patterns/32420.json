@@ -167,8 +167,7 @@
                 ]
             },
             {
-                "name": "spacer",
-                "attributes": {}
+                "name": "spacer"
             },
             {
                 "name": "gallery",

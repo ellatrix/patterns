@@ -154,7 +154,6 @@
                                 "innerBlocks": [
                                     {
                                         "name": "columns",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "column",
@@ -262,7 +261,6 @@
                                 "innerBlocks": [
                                     {
                                         "name": "columns",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "column",
@@ -370,7 +368,6 @@
                                 "innerBlocks": [
                                     {
                                         "name": "columns",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "column",
@@ -478,7 +475,6 @@
                                 "innerBlocks": [
                                     {
                                         "name": "columns",
-                                        "attributes": {},
                                         "innerBlocks": [
                                             {
                                                 "name": "column",

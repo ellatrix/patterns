@@ -19,8 +19,7 @@
         },
         "innerBlocks": [
             {
-                "name": "spacer",
-                "attributes": {}
+                "name": "spacer"
             },
             {
                 "name": "heading",
@@ -491,8 +490,7 @@
                 ]
             },
             {
-                "name": "spacer",
-                "attributes": {}
+                "name": "spacer"
             }
         ]
     }

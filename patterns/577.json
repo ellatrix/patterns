@@ -27,7 +27,6 @@
         "innerBlocks": [
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",
@@ -37,7 +36,6 @@
                     },
                     {
                         "name": "column",
-                        "attributes": {},
                         "innerBlocks": [
                             {
                                 "name": "spacer",

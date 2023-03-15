@@ -76,8 +76,7 @@
                                 }
                             },
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             },
                             {
                                 "name": "paragraph",

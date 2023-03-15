@@ -24,12 +24,10 @@
         },
         "innerBlocks": [
             {
-                "name": "separator",
-                "attributes": {}
+                "name": "separator"
             },
             {
                 "name": "columns",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "column",

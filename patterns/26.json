@@ -22,8 +22,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             }
                         ]
                     },
@@ -31,8 +30,7 @@
                         "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             },
                             {
                                 "name": "paragraph",
@@ -72,8 +70,7 @@
                                 ]
                             },
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             }
                         ]
                     },
@@ -84,8 +81,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "spacer",
-                                "attributes": {}
+                                "name": "spacer"
                             }
                         ]
                     }

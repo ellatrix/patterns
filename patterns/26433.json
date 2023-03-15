@@ -79,7 +79,6 @@
             },
             {
                 "name": "column",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "heading",

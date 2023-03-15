@@ -43,19 +43,22 @@ function removeAttrs( blocks ) {
 
         block.name = block.name.replace( 'core/', '' );
 
-        if ( block.attributes && Object.keys( block.attributes ).length ) {
-            for ( const [ key, value ] of Object.entries( block.attributes ) ) {
-                if ( new Set( [ 'className', 'id '] ).has( key ) ) {
-                    delete block.attributes[ key ];
-                    continue;
-                }
+        if ( block.attributes ) {
+            for ( const key in block.attributes ) {
+                const value = block.attributes[ key ];
 
-                if ( value === blockType.attributes[ key ]?.default || value?.length === 0 ) {
+                if (
+                    new Set( [ 'className', 'id '] ).has( key ) ||
+                    value === blockType.attributes[ key ]?.default ||
+                    value?.length === 0
+                ) {
                     delete block.attributes[ key ];
                 }
             }
-        } else {
-            delete block.attributes;
+
+            if ( ! Object.keys( block.attributes ).length ) {
+                delete block.attributes;
+            }
         }
 
         if ( block.innerBlocks && block.innerBlocks.length ) {

@@ -160,7 +160,6 @@
             },
             {
                 "name": "group",
-                "attributes": {},
                 "innerBlocks": [
                     {
                         "name": "paragraph",
