@@ -1,0 +1,130 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://pd.w.org/2022/01/40161f06da1ec4076.65504362.jpg",
+            "dimRatio": 70,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Subscribe to our Newsletter",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "44px",
+                                                    "lineHeight": "1.2",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "30px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "10px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "560px"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": 1.6
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/search",
+                                        "attributes": {
+                                            "placeholder": "Enter your email...",
+                                            "buttonText": "Subscribe",
+                                            "buttonPosition": "button-inside",
+                                            "textColor": "white",
+                                            "style": {
+                                                "border": {
+                                                    "radius": "3px",
+                                                    "width": "0px",
+                                                    "style": "none"
+                                                },
+                                                "color": {
+                                                    "background": "#6c63ff"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "align": "full",
+            "mediaId": 567,
+            "mediaUrl": "https://s.w.org/patterns/files/2021/06/bobolink-721x1024.jpg",
+            "mediaLink": "https://wordpress.org/patterns/bobolink/",
+            "mediaType": "image",
+            "mediaWidth": 30,
+            "verticalAlignment": "center",
+            "imageFill": true,
+            "style": {
+                "color": {
+                    "background": "#202d39",
+                    "text": "#ffffff"
+                },
+                "elements": {
+                    "link": {
+                        "color": {
+                            "text": "#ffffff"
+                        }
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "100px"
+                        }
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "40px"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>The Bobolink</strong>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "48px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "The bobolink is the only american bird with a white back and a black underbelly. In the past, this bird was sometimes referred to as “rice bird” due to its penchant for eating grains. It can be found throughout North America and Canada.<br><br>The first time I saw a bobolink, I thought it was flying upside-down! It is far more common for the underbelly of a bird to be lighter than its back.",
+                                    "fontSize": "small",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1.5"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn More",
+                                            "textColor": "black",
+                                            "style": {
+                                                "color": {
+                                                    "background": "#ffffff"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "40px"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "100px"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

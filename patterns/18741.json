@@ -1,0 +1,311 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "cyan-bluish-gray",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "48px",
+                        "right": "48px",
+                        "bottom": "48px",
+                        "left": "48px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Why choose us?",
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "bottom": "48px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>1</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>2</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>3</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>4</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>5</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "40px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "allowOrientation": false,
+                                        "flexWrap": "nowrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>6</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "72px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

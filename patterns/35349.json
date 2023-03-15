@@ -1,0 +1,245 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "verticalAlignment": "center",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    },
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#f9f9f9"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "width": "800px",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/media-text",
+                        "attributes": {
+                            "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-19-chim-02.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f7770b59c53df38c481dacaa06b7cc5f",
+                            "mediaType": "image"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "→ Feature",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "letterSpacing": "0.15em"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Just a short sentence. This is just a demo text you should overwrite.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#0\">Learn More →</a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "verticalAlignment": "center",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    },
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "width": "800px",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/media-text",
+                        "attributes": {
+                            "mediaPosition": "right",
+                            "mediaType": "image",
+                            "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0604-132-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=8e607d80878147ce00aeab397b61d9dc"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Service →",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "letterSpacing": "0.15em"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Just a short sentence. This is just a demo text you should overwrite.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#0\">Learn More →</a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#fafafa"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

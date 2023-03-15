@@ -1,0 +1,465 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "black",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "70px",
+                        "right": "0px",
+                        "left": "0px",
+                        "bottom": "0px"
+                    },
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "bottom": "50px",
+                                "right": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "wordpress",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "50px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "WordPress is open source software you can use to create a beautiful website, blog, or app.Beautiful designs, powerful features, and the freedom to build anything you want. WordPress is both free and priceless at the same time.",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<strong>Email us</strong> - simple@gmail.com",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "180px"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Quick Link",
+                                    "level": 4,
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "capitalize"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Home",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "About Us",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Shop",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Team",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Blog",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Contact Us",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "180px"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Products",
+                                    "level": 4,
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "capitalize"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Home",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "About Us",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Shop",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Services",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Blog",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Contact Us",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "textColor": "white"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Subscribe Newsletter",
+                                    "level": 4,
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Join 1,933,300 other subscribers",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/search",
+                                "attributes": {
+                                    "showLabel": false,
+                                    "placeholder": "Email address",
+                                    "width": 100,
+                                    "widthUnit": "%",
+                                    "buttonText": "Subscribe",
+                                    "backgroundColor": "luminous-vivid-orange",
+                                    "textColor": "white",
+                                    "style": {
+                                        "border": {
+                                            "width": "5px",
+                                            "color": "#9e4d14"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "white",
+                                    "iconColorValue": "#ffffff"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "instagram"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "linkedin"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "youtube"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "borderColor": "white",
+                    "style": {
+                        "border": {
+                            "style": "solid",
+                            "width": "1px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "right": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "contentSize": "1280px",
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "bottom": "0px",
+                                "top": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "30px",
+                                        "bottom": "30px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Copyright © 2022 wordpress.org",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

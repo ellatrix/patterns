@@ -1,0 +1,70 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/pattern-halftone-scaled-1.jpg",
+            "id": 515,
+            "dimRatio": 0,
+            "overlayColor": "gray",
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#fafaf8",
+                                    "text": "#d52f37"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "6rem",
+                                        "right": "2rem",
+                                        "bottom": "6rem",
+                                        "left": "2rem"
+                                    }
+                                },
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "#d52f37"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>Art &amp; Beauté</strong>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "48px",
+                                            "lineHeight": "1.2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Art that influences modern culture"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

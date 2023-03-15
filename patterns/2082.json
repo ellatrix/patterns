@@ -1,0 +1,81 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "textColor": "black",
+            "style": {
+                "color": {
+                    "gradient": "linear-gradient(180deg,rgb(223,146,125) 0%,rgb(255,255,255) 99%)"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "85%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "SUMMER READING LIST ",
+                                    "anchor": "summer-reading-list",
+                                    "textColor": "black",
+                                    "fontSize": "large",
+                                    "style": {
+                                        "typography": {
+                                            "fontWeight": "700",
+                                            "lineHeight": "1.15"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "15%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "right",
+                                    "content": "104<strong>°F</strong><br>40<strong>°C</strong>",
+                                    "textColor": "black",
+                                    "fontSize": "large"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "url": "https://s.w.org/patterns/files/2021/07/124516560-f6872780-ddaf-11eb-8426-5b8f665076b5-829x1024.png",
+                    "id": 2083,
+                    "sizeSlug": "large",
+                    "linkDestination": "none",
+                    "style": {
+                        "color": {
+                            "duotone": [
+                                "#fc5121",
+                                "#e4ae9f"
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/calendar"
+            }
+        ]
+    }
+]

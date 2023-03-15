@@ -1,0 +1,150 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "70px",
+                        "bottom": "40px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(90deg,rgb(199,30,56) 46%,rgb(0,0,0) 46%,rgb(0,0,0) 100%)"
+                }
+            },
+            "layout": {
+                "contentSize": "1170px",
+                "wideSize": "100%",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "33.33%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Contact Us",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "44px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Our Location Address:<br>152A Lorem Street,<br>Consectetur&nbsp;ON<br>Phone: 123-456-7890",
+                                    "textColor": "white"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "66.66%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#555272"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "70px",
+                                                "bottom": "70px",
+                                                "right": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ipsum dolor sit",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "fontSize": "large",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "600"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/search",
+                                                        "attributes": {
+                                                            "placeholder": "Enter Your Email...",
+                                                            "buttonText": "SUBMIT",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#c71e38"
+                                                                },
+                                                                "border": {
+                                                                    "width": "0px",
+                                                                    "style": "none",
+                                                                    "radius": "3px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor incididunt dolore",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

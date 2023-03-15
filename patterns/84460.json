@@ -1,0 +1,468 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "layout": {
+                "inherit": false,
+                "wideSize": "100%"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/Islands-2119-1.mp4",
+                    "id": 184,
+                    "dimRatio": 40,
+                    "overlayColor": "vivid-cyan-blue",
+                    "backgroundType": "video",
+                    "focalPoint": {
+                        "x": "0.50",
+                        "y": "0.50"
+                    },
+                    "minHeight": 550,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center center",
+                    "isDark": false,
+                    "align": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong>Welcome Intro Title</strong>",
+                                            "textColor": "white",
+                                            "fontSize": "x-large",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 0.4,
+                                                    "textTransform": "uppercase",
+                                                    "letterSpacing": "5px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "800"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "2022  |  Nature  |  Watch Now",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "40px"
+                                                    },
+                                                    "blockGap": "31px"
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "flex",
+                                                "justifyContent": "center"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Learn More",
+                                                    "backgroundColor": "white",
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "30px"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "40px",
+                                                                "bottom": "10px",
+                                                                "left": "40px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Contact Us",
+                                                    "backgroundColor": "white",
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "40px",
+                                                                "bottom": "10px",
+                                                                "left": "40px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": "30px"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/Lights-26607.mp4",
+                    "id": 185,
+                    "dimRatio": 10,
+                    "overlayColor": "luminous-vivid-amber",
+                    "backgroundType": "video",
+                    "minHeight": 450,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center center",
+                    "isDark": false,
+                    "align": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "50px",
+                                "bottom": "50px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.33%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Intro Title",
+                                            "fontSize": "x-large"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "left",
+                                            "content": "<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry."
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "66.66%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-12040825.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=fa18848d8bc2bf80df3713426b6e8d69",
+                                                            "width": 179,
+                                                            "height": 119,
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/columns",
+                                                        "attributes": {},
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/column",
+                                                                "innerBlocks": [
+                                                                    {
+                                                                        "name": "core/image",
+                                                                        "attributes": {
+                                                                            "url": "https://ids.si.edu/ids/deliveryService?id=SIA-SIA2010-1956",
+                                                                            "width": 182,
+                                                                            "height": 295,
+                                                                            "sizeSlug": "full",
+                                                                            "linkDestination": "none"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "5px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_1901_4487.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a7e09283f6c4ad102e92f21ad2c0e57b",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/columns",
+                                                        "attributes": {},
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/column",
+                                                                "attributes": {
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "0px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "innerBlocks": [
+                                                                    {
+                                                                        "name": "core/image",
+                                                                        "attributes": {
+                                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-sep18-film-014.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=d882a63044a03ff394f42df4b6a7ac9a",
+                                                                            "width": 184,
+                                                                            "height": 125,
+                                                                            "sizeSlug": "full",
+                                                                            "linkDestination": "none"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/Lights-26607.mp4",
+                    "id": 185,
+                    "dimRatio": 30,
+                    "overlayColor": "white",
+                    "backgroundType": "video",
+                    "minHeight": 570,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center center",
+                    "isDark": false,
+                    "align": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "50px",
+                                "bottom": "50px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "66.66%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0590.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a7a41a67e393c71925d38788e845c1b9",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/columns",
+                                                        "attributes": {},
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/column",
+                                                                "innerBlocks": [
+                                                                    {
+                                                                        "name": "core/image",
+                                                                        "attributes": {
+                                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-484.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4128c979ab20ff788e16eaf41802e2bc",
+                                                                            "sizeSlug": "full",
+                                                                            "linkDestination": "none"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "5px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-327.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=344aa06dffe446f29d6bd7f5d09cbecc",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/columns",
+                                                        "attributes": {},
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/column",
+                                                                "attributes": {
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "0px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "innerBlocks": [
+                                                                    {
+                                                                        "name": "core/image",
+                                                                        "attributes": {
+                                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-470.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a064f73ec5d5e229abe649febdba8988",
+                                                                            "width": 183,
+                                                                            "height": 102,
+                                                                            "sizeSlug": "full",
+                                                                            "linkDestination": "none"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.33%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "right",
+                                            "content": "Intro Title",
+                                            "fontSize": "x-large"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "right",
+                                            "content": "<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry."
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

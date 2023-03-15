@@ -1,0 +1,140 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "2rem",
+                        "left": "2rem"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "66.66%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "2rem",
+                                        "right": "2rem",
+                                        "bottom": "2rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Contact us",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "300"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "We are here to help you with any inquiry. Get in touch or visit us in person. The company values customer support satisfaction. No question has been left unanswered. We resolve everything!",
+                            "fontSize": "medium"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "5px",
+                    "backgroundColor": "black",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/column",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Visit us",
+                            "level": 3,
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Cork Street 123<br>Dublin, co. Dublin<br>98765 Ireland",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "16px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Get in touch",
+                            "level": 3,
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "example@example.com<br>+800 123 456 789",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "16px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

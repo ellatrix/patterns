@@ -1,0 +1,156 @@
+[
+    {
+        "name": "core/heading",
+        "attributes": {
+            "content": "Get In Touch",
+            "level": 1,
+            "align": "wide",
+            "style": {
+                "typography": {
+                    "fontStyle": "normal",
+                    "fontWeight": "300"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "70px"
+        }
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "verticalAlignment": "top",
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "width": "50%",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "10%"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "We are here to help you with any inquiry. Call us or visit us.",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "The company values customer support satisfaction. No question has been left unanswered. We resolve everything!"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Store",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Dublin Street 123<br>Cork, co. Cork<br>98765 Ireland<br>+800 123 456"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Office",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Cork Street 123<br>Dublin, co. Dublin<br>98765 Ireland<br>+800 123 456"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "70px"
+        }
+    },
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdmaps-beinecke-04-jite-nam_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b22c88d98744d8a9137115bfc0edd33e",
+            "dimRatio": 0,
+            "focalPoint": {
+                "x": "0.50",
+                "y": "0.50"
+            },
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "color": {
+                    "duotone": [
+                        "#000000",
+                        "#ffffff"
+                    ]
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "fontSize": "large"
+                }
+            }
+        ]
+    }
+]

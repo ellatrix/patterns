@@ -1,0 +1,238 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "black",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "20px",
+                        "bottom": "100px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "left",
+                    "url": "https://i.postimg.cc/tTpXR1bb/star-bg.webp",
+                    "alt": "Star Background",
+                    "width": 50,
+                    "height": 50,
+                    "sizeSlug": "large"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Creative Team</strong>",
+                    "level": 6,
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "18px",
+                            "fontStyle": "normal",
+                            "fontWeight": "700"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>We are a Professional&nbsp;Creative&nbsp;Team</strong>",
+                    "textColor": "luminous-vivid-amber",
+                    "style": {
+                        "typography": {
+                            "fontSize": "40px",
+                            "fontStyle": "normal",
+                            "fontWeight": "700"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://i.postimg.cc/BQKyDcjn/member6.jpg",
+                                    "alt": "Team Member",
+                                    "id": 111,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/43gTn2wG/member2.jpg",
+                                    "alt": "Team Member",
+                                    "id": 98,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/j523jzVK/member3.jpg",
+                                    "alt": "Team Member",
+                                    "id": 99,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/sDLjfJtf/member1.jpg",
+                                    "alt": "Team Member",
+                                    "id": 100,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/Hs1G6hDy/member4.jpg",
+                                    "alt": "Team Member",
+                                    "id": 113,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/BQ23sGcp/member7.jpg",
+                                    "alt": "Team Member",
+                                    "id": 115,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/d0LSs2cF/Pages-about-3.jpg",
+                                    "alt": "Team Member",
+                                    "id": 102,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "right",
+                    "url": "https://i.postimg.cc/tTpXR1bb/star-bg.webp",
+                    "alt": "Star Background",
+                    "width": 50,
+                    "height": 50,
+                    "sizeSlug": "large"
+                }
+            }
+        ]
+    }
+]

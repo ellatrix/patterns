@@ -1,0 +1,312 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    },
+                    "blockGap": "0px"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "top",
+                            "width": "33.33%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "bottom": "10%"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>A Small Heading</strong>",
+                                    "anchor": "a-small-heading",
+                                    "textColor": "black",
+                                    "fontSize": "x-large"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna.",
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Get Started",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "fontSize": "ext-medium",
+                                            "style": {
+                                                "border": {
+                                                    "radius": "100px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "66.66%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "0%",
+                                                        "left": "0%",
+                                                        "top": "0%",
+                                                        "bottom": "0%"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10%",
+                                                                "right": "10%",
+                                                                "bottom": "10%",
+                                                                "left": "10%"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "color": {
+                                                            "gradient": "linear-gradient(135deg,rgb(255,255,255) 37%,rgb(0,0,0) 37%)"
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-650-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7c0a87a7b87efb058e00d1a1726cf873",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "#000000",
+                                                                        "#ffffff"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/quote",
+                                                        "attributes": {
+                                                            "citation": "Author"
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/paragraph",
+                                                                "attributes": {
+                                                                    "content": "Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna."
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/quote",
+                                                        "attributes": {
+                                                            "citation": "Author"
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/paragraph",
+                                                                "attributes": {
+                                                                    "content": "Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna."
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10%",
+                                                                "right": "10%",
+                                                                "bottom": "10%",
+                                                                "left": "10%"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/quote",
+                                                        "attributes": {
+                                                            "citation": "Author"
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/paragraph",
+                                                                "attributes": {
+                                                                    "content": "Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna."
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10%",
+                                                                "right": "10%",
+                                                                "bottom": "10%",
+                                                                "left": "10%"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "color": {
+                                                            "gradient": "linear-gradient(135deg,rgb(255,255,255) 37%,rgb(0,0,0) 37%)"
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-044-num-piranga-rubra-summer-red-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ed404d87035bee00a846c625f1af5b04",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "#000000",
+                                                                        "#ffffff"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/quote",
+                                                        "attributes": {
+                                                            "citation": "Author"
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/paragraph",
+                                                                "attributes": {
+                                                                    "content": "Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna."
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "0%",
+                                                        "left": "0%",
+                                                        "top": "0%",
+                                                        "bottom": "0%"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/column"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

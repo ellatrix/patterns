@@ -1,0 +1,294 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "gradient": "linear-gradient(90deg,rgb(46,34,225) 50%,rgb(255,255,255) 50%)"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "70px",
+                        "right": "30px",
+                        "bottom": "70px",
+                        "left": "30px"
+                    }
+                }
+            },
+            "layout": {
+                "type": "constrained",
+                "contentSize": "1280px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/pexels-andrea-piacquadio-3771106.jpg",
+                                    "id": 6348,
+                                    "width": 300,
+                                    "height": 300,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none",
+                                    "borderColor": "white",
+                                    "style": {
+                                        "border": {
+                                            "width": "10px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "DESIGNERS HAVE A LOT OF THINGS TO FEEL HAPPY ABOUT",
+                                    "level": 4,
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "26px",
+                                            "lineHeight": "1.2",
+                                            "letterSpacing": "1px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "35px",
+                                                "right": "0px",
+                                                "bottom": "35px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Donec et odio pellentesque diam volutpat commodo sed egestas. Nisl condimentum id venenatis a. Proin nibh nisl condimentum id. Dictumst vestibulum rhoncus est .",
+                                    "textColor": "white",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/author.png",
+                                    "id": 6762,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "media",
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "border": {
+                                            "width": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Creative Blog is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission.",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "lineHeight": "1.2",
+                                            "fontSize": "26px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "35px",
+                                                "bottom": "35px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Contact us",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400",
+                                                    "fontSize": "16px",
+                                                    "textTransform": "uppercase"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "12px",
+                                                        "right": "35px",
+                                                        "bottom": "12px",
+                                                        "left": "35px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#2e22e1"
+                                                },
+                                                "border": {
+                                                    "radius": "50px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/images/core/5.8/portrait.jpg",
+                                    "alt": "A side profile of a woman in a russet-colored turtleneck and white bag. She looks up with her eyes closed.",
+                                    "width": 300,
+                                    "height": 300,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "width": "0px",
+                                            "style": "none"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

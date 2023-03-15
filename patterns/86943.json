@@ -1,0 +1,370 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "75%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "By The Water",
+                            "fontSize": "large",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "January 1, 2025",
+                            "fontSize": "small",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/vangogh-02-rob002.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7b81b51e9dad32297e6ef745e950bfce",
+                            "dimRatio": 20,
+                            "minHeight": 250,
+                            "isDark": false
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id pulvinar mauris. Mauris convallis consectetur hendrerit. Fusce consequat molestie ex, a tincidunt urna varius vel. Nullam eu mi vel ligula lobortis sollicitudin. Aenean consectetur velit sed risus vulputate placerat. Nunc dictum vulputate urna a iaculis. Duis porttitor neque non lacinia laoreet. Quisque nibh orci, mattis non consectetur et, fringilla vitae libero. Curabitur nisl leo, ultrices nec urna at, accumsan eleifend odio. Nunc nec dolor metus. Vivamus lacinia lorem vitae diam laoreet consequat."
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Sed tempor cursus laoreet. Etiam placerat eget ipsum at pellentesque. In vitae malesuada elit, mattis pretium erat. Donec sed turpis leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et faucibus risus. Fusce vestibulum fringilla est a accumsan. In elit velit, luctus quis convallis quis, suscipit ut nibh. Duis venenatis feugiat dui quis egestas. Praesent interdum sed mi gravida dapibus. Integer vel accumsan orci, a auctor nibh."
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Cras iaculis fermentum dolor a pretium. Ut lobortis felis id pellentesque interdum. Suspendisse id justo dui. Fusce commodo sem vel sapien suscipit commodo. Proin ornare, lorem dignissim sagittis venenatis, diam purus posuere quam, sed interdum dui lectus dignissim nisi. Duis lacus tortor, tincidunt vel risus ac, maximus bibendum diam. Morbi fringilla nisi a ultrices suscipit. Aliquam euismod dolor et fermentum cursus. Aliquam dictum gravida imperdiet. Praesent auctor dolor nec nisl ullamcorper, vel congue sapien placerat. Etiam diam mauris, eleifend nec pellentesque a, imperdiet sit amet arcu. Phasellus scelerisque orci eu finibus blandit. Aenean convallis at elit eget sollicitudin. Suspendisse enim neque, ultrices in erat sit amet, imperdiet accumsan odio."
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Sed eros tortor, iaculis quis consectetur vitae, hendrerit ut enim. Mauris tristique purus at leo cursus, et aliquam ipsum pharetra. Fusce pharetra purus neque, nec dapibus quam porttitor sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc porta ullamcorper sollicitudin. Nullam sit amet diam lacinia, volutpat sapien pretium, blandit leo. Donec id justo lacinia, condimentum libero consectetur, varius urna. Nam aliquet leo nec turpis suscipit, a venenatis risus facilisis."
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "In placerat ex eget tortor cursus, vitae consectetur nisl fermentum. Proin a suscipit nulla. Morbi eu pretium ipsum. Integer ac urna vitae dolor mollis tincidunt pretium ac ligula. Nulla dictum mi nec urna viverra, ultrices iaculis lorem varius. Suspendisse at congue turpis. Vivamus maximus quam lorem, vehicula blandit ante volutpat in. Donec in sem ut lectus egestas mattis. Nunc eget felis in libero volutpat accumsan. Nulla mauris arcu, cursus ac sapien a, mollis mollis dolor. "
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "25%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>About Me</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "align": "center",
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-self-portrait.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=134c64e48eade4dc9db1e4d3c92e706f",
+                            "caption": "Welcome to my blog! I'm Vincent, and I love to paint!",
+                            "width": 270,
+                            "height": 342,
+                            "sizeSlug": "full",
+                            "linkDestination": "none",
+                            "style": {
+                                "border": {
+                                    "radius": "0em"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#adadad"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>Follow ME</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/social-links",
+                        "attributes": {
+                            "iconColor": "white",
+                            "iconColorValue": "#ffffff",
+                            "customIconBackgroundColor": "#adadad",
+                            "iconBackgroundColorValue": "#adadad",
+                            "align": "center",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/social-link",
+                                "attributes": {
+                                    "url": "https://twitter.com",
+                                    "service": "twitter"
+                                }
+                            },
+                            {
+                                "name": "core/social-link",
+                                "attributes": {
+                                    "url": "https://instagram.com",
+                                    "service": "instagram"
+                                }
+                            },
+                            {
+                                "name": "core/social-link",
+                                "attributes": {
+                                    "url": "https://youtube.com",
+                                    "service": "youtube"
+                                }
+                            },
+                            {
+                                "name": "core/social-link",
+                                "attributes": {
+                                    "url": "https://wordpress.org",
+                                    "service": "wordpress"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#adadad"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>Categories</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/categories",
+                        "attributes": {
+                            "showPostCounts": true,
+                            "showEmpty": true
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#adadad"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>SEARCh</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/search",
+                        "attributes": {
+                            "label": "Search",
+                            "showLabel": false,
+                            "placeholder": "Search...",
+                            "buttonText": "Search",
+                            "buttonPosition": "no-button",
+                            "buttonUseIcon": true,
+                            "align": "center"
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#adadad"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>Gallery</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/gallery",
+                        "attributes": {
+                            "columns": 2,
+                            "linkTo": "none",
+                            "align": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-snvgrob.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=491cfa46244d55be4615ed0c1928752d"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-dt1947434.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=10c25589c429f3e49e7b09ab9114b763"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-dp130999.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=0f646d45878350773139a166fa6b99d7"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-dt1948.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=94c841b78117d2a09d0cad7932c5aefa"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#adadad"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>COmmunity</strong>",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "0.9rem",
+                                    "letterSpacing": "1px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/latest-comments",
+                        "attributes": {
+                            "commentsToShow": 3,
+                            "displayExcerpt": false
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

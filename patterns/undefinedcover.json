@@ -1,0 +1,27 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/images/core/5.3/Windbuchencom.jpg",
+            "dimRatio": 40,
+            "customOverlayColor": "#065174"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "<strong>Snow Patrol</strong>",
+                    "align": "center",
+                    "style": {
+                        "typography": {
+                            "fontSize": 48
+                        },
+                        "color": {
+                            "text": "white"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

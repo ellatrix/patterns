@@ -1,0 +1,730 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "margin": {
+                        "top": "0",
+                        "bottom": "0"
+                    },
+                    "padding": {
+                        "top": "var:preset|spacing|20",
+                        "right": "0",
+                        "bottom": "var:preset|spacing|20",
+                        "left": "0"
+                    }
+                },
+                "color": {
+                    "background": "#a97e72"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "100%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Home",
+                                            "level": 5,
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "left": "0",
+                                                        "bottom": "var:preset|spacing|20"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "About Us",
+                                            "level": 5,
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "var:preset|spacing|20",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Contact ",
+                                            "level": 5,
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "left": "0",
+                                                        "bottom": "var:preset|spacing|20"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0",
+                                                "right": "0",
+                                                "bottom": "0",
+                                                "left": "0"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Blog",
+                                            "level": 5,
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0",
+                                                "right": "0",
+                                                "bottom": "0",
+                                                "left": "0"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Portfolio",
+                                            "level": 5,
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQxOS0zLTA1ODcxYV8xLmpwZw.jpg",
+            "dimRatio": 70,
+            "overlayColor": "black",
+            "minHeight": 80,
+            "contentPosition": "center center",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "var:preset|spacing|20",
+                        "right": "var:preset|spacing|20",
+                        "bottom": "var:preset|spacing|20",
+                        "left": "var:preset|spacing|20"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>Home &gt;&gt; Contact</strong>",
+                    "placeholder": "Write title…",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "0.9",
+                            "fontSize": "23px"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#f2f2f2"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "bottom": "50px",
+                        "left": "var:preset|spacing|50",
+                        "right": "var:preset|spacing|50"
+                    }
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "30px",
+                                "right": "30px",
+                                "bottom": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "30px",
+                                        "right": "20px",
+                                        "bottom": "30px",
+                                        "left": "20px"
+                                    }
+                                },
+                                "border": {
+                                    "color": "#a97e72",
+                                    "width": "1px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": {
+                                                "top": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "100%",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/relaxing-spa-ornaments.png",
+                                                    "width": 55,
+                                                    "height": 55,
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Relaxation",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#a97e72"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "bottom": "2px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#8f9696"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "15px"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "5px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": {
+                                                "top": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "100%",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/spa-heating-stones-treatment.png",
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Hot stone",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#a97e72"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "bottom": "2px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#8f9696"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "15px"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "5px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": {
+                                                "top": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "100%",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/massage-spa-body-treatment.png",
+                                                    "width": 64,
+                                                    "height": 64,
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Massages",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#a97e72"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "bottom": "2px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#8f9696"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "15px"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "5px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "20px",
+                                        "right": "0px",
+                                        "bottom": "22px",
+                                        "left": "0px"
+                                    }
+                                },
+                                "border": {
+                                    "color": "#a97e72",
+                                    "width": "1px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Mon-Wed : 8 am to 5 pm",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#a97e72"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Thu-sat- 8 am to 5 pm",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "color": {
+                                            "text": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Sun- Off",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "color": {
+                                            "text": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#a97e72"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "isStackedOnMobile": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "verticalAlignment": "center",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "textAlign": "left",
+                                                            "text": "Book Now",
+                                                            "textColor": "white",
+                                                            "fontSize": "medium",
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "0px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "80px",
+                                                                        "right": "80px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#a97e72"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

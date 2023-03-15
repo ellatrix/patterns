@@ -1,0 +1,165 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "30px",
+                        "bottom": "30px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                },
+                "color": {
+                    "background": "#fafafa"
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "60%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10%",
+                                        "bottom": "10%",
+                                        "left": "5%"
+                                    }
+                                },
+                                "color": {
+                                    "gradient": "linear-gradient(90deg,rgb(0,208,132) 81%,rgba(0,209,132,0) 81%)"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "left",
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1015.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a347b73cca7b12937c799e14aedf156c",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "25px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "left": "3%",
+                                        "right": "3%"
+                                    }
+                                }
+                            },
+                            "layout": {
+                                "inherit": false
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>It's not what you did at school that matters</strong>",
+                                    "level": 3,
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "it's what you can do in life.",
+                                    "textColor": "vivid-green-cyan",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Donec erat nibh, efficitur eget convallis sed, dictum nec risus. Nulla laoreet vehicula lectus quis pretium. Aenean vel justo pulvinar, bibendum lorem sed, varius erat. ",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "400"
+                                        },
+                                        "color": {
+                                            "text": "#202020"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "READ MORE",
+                                            "textColor": "white",
+                                            "fontSize": "small",
+                                            "style": {
+                                                "color": {
+                                                    "gradient": "linear-gradient(90deg,rgb(155,225,93) 0%,rgb(0,217,166) 100%)"
+                                                },
+                                                "border": {
+                                                    "radius": "100px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "40px",
+                                                        "left": "40px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

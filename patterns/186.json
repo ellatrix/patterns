@@ -1,0 +1,76 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/images/core/5.8/art-01.jpg",
+            "hasParallax": true,
+            "dimRatio": 40,
+            "customOverlayColor": "#000000",
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "contentPosition": "center center",
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "<strong><em>Overseas:</em></strong><br><strong><em>1500 — 1960</em></strong>",
+                    "style": {
+                        "typography": {
+                            "fontSize": "48px",
+                            "lineHeight": "1.2"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "60%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "An exhibition about the different representations of the ocean throughout time, between the sixteenth and the twentieth century. Taking place in our Open Room in <em>Floor 2</em>.",
+                                    "style": {
+                                        "color": {
+                                            "text": "#ffffff"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Visit",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ffffff",
+                                                    "background": "#000000"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column"
+                    }
+                ]
+            }
+        ]
+    }
+]

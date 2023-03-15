@@ -1,0 +1,301 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Latest Post",
+                    "fontSize": "x-large",
+                    "style": {
+                        "typography": {
+                            "textTransform": "uppercase"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide",
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(90deg,rgb(255,255,255) 26%,rgb(169,184,195) 26%)"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "65%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/query",
+                                "attributes": {
+                                    "queryId": 17,
+                                    "query": {
+                                        "perPage": "1",
+                                        "pages": 0,
+                                        "offset": 0,
+                                        "postType": "post",
+                                        "order": "desc",
+                                        "orderBy": "date",
+                                        "author": "",
+                                        "search": "",
+                                        "exclude": [],
+                                        "sticky": "",
+                                        "inherit": false
+                                    },
+                                    "displayLayout": {
+                                        "type": "list"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/post-template",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/post-featured-image",
+                                                "attributes": {
+                                                    "isLink": true
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "textColor": "palette-color-8",
+                                    "style": {
+                                        "color": {
+                                            "background": "#97a2a8"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/query",
+                                        "attributes": {
+                                            "queryId": 16,
+                                            "query": {
+                                                "perPage": "1",
+                                                "pages": 0,
+                                                "offset": 0,
+                                                "postType": "post",
+                                                "order": "desc",
+                                                "orderBy": "date",
+                                                "author": "",
+                                                "search": "",
+                                                "exclude": [],
+                                                "sticky": "",
+                                                "inherit": false
+                                            },
+                                            "displayLayout": {
+                                                "type": "list"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/post-template",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/post-title",
+                                                        "attributes": {
+                                                            "level": 3,
+                                                            "isLink": true,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300",
+                                                                    "textTransform": "uppercase"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/separator",
+                                                        "attributes": {
+                                                            "backgroundColor": "white"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/post-excerpt",
+                                                        "attributes": {
+                                                            "moreText": "Read More →",
+                                                            "textColor": "white"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide",
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(90deg,rgb(170,185,195) 74%,rgb(255,255,255) 74%)"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "35%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "textColor": "palette-color-8",
+                                    "style": {
+                                        "color": {
+                                            "background": "#97a2a8"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/query",
+                                        "attributes": {
+                                            "queryId": 16,
+                                            "query": {
+                                                "perPage": "1",
+                                                "pages": 0,
+                                                "offset": "1",
+                                                "postType": "post",
+                                                "order": "desc",
+                                                "orderBy": "date",
+                                                "author": "",
+                                                "search": "",
+                                                "exclude": [],
+                                                "sticky": "",
+                                                "inherit": false
+                                            },
+                                            "displayLayout": {
+                                                "type": "list"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/post-template",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/post-title",
+                                                        "attributes": {
+                                                            "level": 3,
+                                                            "isLink": true,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textTransform": "uppercase",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/separator",
+                                                        "attributes": {
+                                                            "backgroundColor": "white"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/post-excerpt",
+                                                        "attributes": {
+                                                            "moreText": "Read More →",
+                                                            "textColor": "white"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/query",
+                                "attributes": {
+                                    "queryId": 17,
+                                    "query": {
+                                        "perPage": "1",
+                                        "pages": 0,
+                                        "offset": "1",
+                                        "postType": "post",
+                                        "order": "desc",
+                                        "orderBy": "date",
+                                        "author": "",
+                                        "search": "",
+                                        "exclude": [],
+                                        "sticky": "",
+                                        "inherit": false
+                                    },
+                                    "displayLayout": {
+                                        "type": "list"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/post-template",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/post-featured-image",
+                                                "attributes": {
+                                                    "isLink": true
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

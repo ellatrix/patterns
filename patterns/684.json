@@ -1,0 +1,128 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Before you arrive",
+                            "anchor": "before-you-arrive"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Want to have the best possible experience at the museum? Here's what to do before you arrive."
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Learn more",
+                                    "style": {
+                                        "border": {
+                                            "radius": "3px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "1. See what's on show",
+                            "level": 3,
+                            "anchor": "1-see-what-s-on-show"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "The museum has a handful of seasonal exhibitions, alongside permanent showings. <a href=\"#\">Explore what's on view this month</a>. "
+                        }
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "10px"
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "2. Get directions",
+                            "level": 3,
+                            "anchor": "2-get-directions"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Figure out the best way to <a href=\"#\">get to the museum</a>, whether by car, foot, or public transit. See a list of <a href=\"#\">our accessible entrances</a>.  "
+                        }
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "10px"
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "3. Buy your tickets",
+                            "level": 3,
+                            "anchor": "3-buy-your-tickets"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Save time by <a href=\"#\">buying your tickets</a> before you arrive. Show your printed or digital ticket to staff and then walk right in. "
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

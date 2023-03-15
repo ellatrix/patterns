@@ -1,0 +1,325 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    },
+                    "padding": {
+                        "top": "15px",
+                        "right": "0px",
+                        "bottom": "15px",
+                        "left": "0px"
+                    }
+                },
+                "border": {
+                    "width": "0px",
+                    "style": "none"
+                },
+                "color": {
+                    "background": "#fffcf9"
+                }
+            },
+            "layout": {
+                "type": "constrained",
+                "contentSize": "1200px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21batch3-rp-p-1935-977-jj_2_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=55f5fdcdc43c4775e7fe3995ea7300c1",
+                                    "width": 211,
+                                    "height": 65,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "color": []
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "textColor": "black"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Home</strong>",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        },
+                                        "color": {
+                                            "text": "#cfaa45"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>About us</strong>",
+                                    "textColor": "black",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Services</strong>",
+                                    "textColor": "black",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "textColor": "black"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong><strong>blog</strong></strong>",
+                                    "textColor": "black",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Contact Us</strong>",
+                                    "textColor": "black",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0245.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1498c55adc4473f5bb5179ef571be040",
+                    "dimRatio": 70,
+                    "overlayColor": "black",
+                    "focalPoint": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "minHeight": 644,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center center",
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<strong>― 20 years in Stock Market <strong>―</strong></strong>",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.1"
+                                },
+                                "color": {
+                                    "background": "#ffffff00",
+                                    "text": "#cfaa45"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "Manage Your Invesments Easily and Effectively",
+                            "placeholder": "Write title…",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "900",
+                                    "lineHeight": "1.1",
+                                    "letterSpacing": "1px",
+                                    "fontSize": "40px"
+                                },
+                                "spacing": {
+                                    "margin": {
+                                        "bottom": "35px"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                            "placeholder": "Write title…",
+                            "textColor": "white",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "400",
+                                    "lineHeight": "1.4",
+                                    "fontSize": "18px"
+                                },
+                                "spacing": {
+                                    "margin": {
+                                        "bottom": "35px"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "<strong>Get a Quote ⪼</strong>",
+                                    "textColor": "white",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "border": {
+                                            "radius": "5px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "right": "40px",
+                                                "bottom": "10px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#cfaa45"
+                                        },
+                                        "typography": {
+                                            "textTransform": "capitalize"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

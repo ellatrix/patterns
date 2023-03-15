@@ -1,0 +1,248 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "right": "30px",
+                        "bottom": "301px",
+                        "left": "30px"
+                    },
+                    "blockGap": "0px",
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(172deg,rgb(28,56,141) 70%,rgb(255,255,255) 70%)"
+                }
+            },
+            "layout": {
+                "type": "constrained",
+                "contentSize": "1170px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "contentSize": "450px",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "An arweave community fund a",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "textTransform": "capitalize",
+                                                    "fontSize": "72px",
+                                                    "lineHeight": "1"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "40px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "400px",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "1.5"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "45px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "join us",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "right": "48px",
+                                                                        "bottom": "10px",
+                                                                        "left": "48px"
+                                                                    }
+                                                                },
+                                                                "border": {
+                                                                    "radius": "5px"
+                                                                },
+                                                                "typography": {
+                                                                    "textTransform": "capitalize",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700"
+                                                                },
+                                                                "color": {
+                                                                    "background": "#58950c"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/app-1.png",
+                                    "width": 490,
+                                    "height": 383,
+                                    "sizeSlug": "large"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

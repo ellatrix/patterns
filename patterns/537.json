@@ -1,0 +1,105 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/CHSDM-1966-55-19EllenMcDermott-1-scaled.jpg",
+            "id": 536,
+            "dimRatio": 0,
+            "focalPoint": {
+                "x": "0.49",
+                "y": "0.42"
+            },
+            "contentPosition": "center center",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "1em",
+                        "right": "1em",
+                        "bottom": "1em",
+                        "left": "1em"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "400px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "1em",
+                                        "right": "1em",
+                                        "bottom": "1em",
+                                        "left": "1em"
+                                    }
+                                },
+                                "color": {
+                                    "background": "#ffffff",
+                                    "text": "#000000"
+                                },
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "#0078bb"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>Vintage Vases</strong>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "48px"
+                                        },
+                                        "color": {
+                                            "text": "#000000"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {}
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"http://wp.org\" data-type=\"URL\" data-id=\"wp.org\"><strong>Shop the Collection</strong></a>",
+                                    "style": {
+                                        "color": {
+                                            "text": "#0078bb"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "60%"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

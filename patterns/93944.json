@@ -1,0 +1,179 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/5ee89432-721a-080b-11f5-c12e12456935.jpg",
+            "id": 25,
+            "dimRatio": 50,
+            "contentPosition": "center center",
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>COMMUNITY &amp; INSPIRATION</strong>",
+                    "textColor": "white",
+                    "fontSize": "medium"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong><a href=\"https://loremipsum.io/#what-is-lorem-ipsum\">What is Lorem Ipsum?</a></strong>",
+                    "textColor": "white"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "white"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "33.33%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "SALE",
+                                                    "level": 6,
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "66.66%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "right",
+                                                    "content": "<em>4013 Jarvis Street</em><br><em>Buffalo,&nbsp;New York</em><br><em>14202</em>",
+                                                    "textColor": "black"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {}
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "MINIMALIST LIVING",
+                                    "level": 3,
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<em>Lorem ipsum</em>&nbsp;is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<em>Lorem ipsum</em>&nbsp;is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "15px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/ds.jpg",
+                                    "id": 34,
+                                    "width": 350,
+                                    "height": 280,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/67.jpg",
+                                    "id": 35,
+                                    "width": 350,
+                                    "height": 280,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

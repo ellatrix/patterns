@@ -1,0 +1,101 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/07/124517546-39e29580-ddb2-11eb-8e23-fa3309b495c2.jpg",
+            "id": 2076,
+            "dimRatio": 0,
+            "overlayColor": "purple",
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "color": {
+                            "background": "#d1dfe4"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/cover",
+                                        "attributes": {
+                                            "url": "https://s.w.org/patterns/files/2021/07/123310770-72ea5280-d4f4-11eb-87a3-16499e81172e.jpg",
+                                            "id": 2077,
+                                            "dimRatio": 0,
+                                            "minHeight": 716,
+                                            "minHeightUnit": "px",
+                                            "contentPosition": "top left",
+                                            "isDark": false
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "left",
+                                                    "content": "<strong>Ship in Ice</strong><br>by Isaac Israel Hayes",
+                                                    "placeholder": "Write title…",
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "13px",
+                                                            "lineHeight": "1.25"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong>404</strong>",
+                                            "level": 1,
+                                            "anchor": "404",
+                                            "textColor": "black"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "<strong>We're a little lost.</strong><br>(Not shipwrecked-in-the-Arctic lost, though.)",
+                                            "textColor": "black",
+                                            "fontSize": "extra-small"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

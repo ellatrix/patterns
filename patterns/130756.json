@@ -1,0 +1,205 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    },
+                    "padding": {
+                        "bottom": "2%"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(135deg,rgba(237,237,237,0) 38%,rgb(180,194,169) 38%)"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "border": {
+                                    "radius": {
+                                        "topLeft": "500px",
+                                        "bottomLeft": "500px",
+                                        "topRight": "500px"
+                                    },
+                                    "color": "#b4c2a9",
+                                    "width": "5px"
+                                },
+                                "color": {
+                                    "gradient": "linear-gradient(135deg,rgb(245,236,228) 55%,rgb(180,194,169) 55%)"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "gradient": "linear-gradient(135deg,rgba(241,228,201,0.56) 20%,rgb(253,224,174) 50%,rgba(150,178,129,0.4) 81%)"
+                                        },
+                                        "border": {
+                                            "radius": {
+                                                "topLeft": "500px",
+                                                "bottomLeft": "500px",
+                                                "bottomRight": "500px",
+                                                "topRight": "500px"
+                                            }
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "right": "10px",
+                                                "bottom": "10px",
+                                                "left": "10px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd24-0028-jj.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f3f81e43293664418491d438313e3fab",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": [],
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": null,
+                                                        "topRight": null,
+                                                        "bottomRight": null
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "15%",
+                                        "right": "10%",
+                                        "bottom": "15%",
+                                        "left": "15%"
+                                    }
+                                }
+                            },
+                            "layout": {
+                                "type": "default"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Animals Artist.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "lineHeight": "1.2",
+                                            "fontSize": "72px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Just a short sentence. This is just a demo text you should overwrite.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "24px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500",
+                                            "lineHeight": "1.4"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence.",
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "right",
+                                        "flexWrap": "wrap"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Book Now →",
+                                            "textColor": "black",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "2px",
+                                                        "right": "17px",
+                                                        "bottom": "2px",
+                                                        "left": "17px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": "100px"
+                                                },
+                                                "color": {
+                                                    "background": "#f5ece4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "10px"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

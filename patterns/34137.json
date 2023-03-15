@@ -1,0 +1,201 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "30px",
+                        "bottom": "30px",
+                        "right": "30px",
+                        "left": "30px"
+                    },
+                    "blockGap": "0",
+                    "margin": {
+                        "top": "0",
+                        "bottom": "0"
+                    }
+                },
+                "color": {
+                    "background": "#fafafa"
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "60px",
+                                "left": "60px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "60%",
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "var:preset|spacing|20"
+                                }
+                            },
+                            "layout": {
+                                "inherit": false
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "20 Years Of Coding Experience",
+                                    "textColor": "vivid-green-cyan",
+                                    "style": {
+                                        "typography": {
+                                            "letterSpacing": "5px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "uppercase",
+                                            "fontSize": "12px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "We Code",
+                                    "level": 1,
+                                    "style": {
+                                        "color": {
+                                            "text": "#202020"
+                                        },
+                                        "typography": {
+                                            "lineHeight": "0.8",
+                                            "fontSize": "50px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Your Future",
+                                    "level": 1,
+                                    "textColor": "vivid-green-cyan",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "60px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Donec erat nibh, efficitur eget convallis sed, dictum nec risus. Nulla laoreet vehicula lectus quis pretium. Aenean vel justo pulvinar, bibendum lorem sed, varius erat. Integer feugiat efficitur purus. Curabitur ac tellus rutrum, varius ex id, congue metus. In eget mollis mauris, sed hendrerit nibh.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "400"
+                                        },
+                                        "color": {
+                                            "text": "#202020"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "READ MORE",
+                                            "textColor": "white",
+                                            "style": {
+                                                "color": {
+                                                    "gradient": "linear-gradient(90deg,rgb(71,71,71) 0%,rgb(12,12,12) 100%)"
+                                                },
+                                                "border": {
+                                                    "radius": "100px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "40px",
+                                                        "left": "40px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Facebook - Instagram - YouTube",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "letterSpacing": "5px",
+                                            "fontSize": "12px"
+                                        },
+                                        "color": {
+                                            "text": "#202020"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0136.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b8fc3067842e1810bf10b2b86a120cb1",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": {
+                                                "topLeft": "500px",
+                                                "topRight": null,
+                                                "bottomLeft": "500px",
+                                                "bottomRight": null
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

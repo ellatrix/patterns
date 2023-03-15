@@ -1,0 +1,138 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-sep18-1808-6358.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=39fb2ee80f04dac766360b9a656d10ed",
+            "dimRatio": 50,
+            "minHeight": 212,
+            "minHeightUnit": "px",
+            "isDark": false
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "𝒞ℴ𝒻𝒻ℯℯ ℬ𝒶𝓀ℯ𝓇",
+                    "level": 3
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "𝘐'𝘮 𝘨𝘰𝘪𝘯𝘨 𝘵𝘰 𝘨𝘦𝘵 𝘤𝘰𝘧𝘧𝘦𝘦 𝘣𝘺 𝘸𝘩𝘢𝘵𝘦𝘷𝘦𝘳 𝘣𝘦𝘢𝘯𝘴 𝘯𝘦𝘤𝘦𝘴𝘴𝘢𝘳𝘺",
+            "fontSize": "medium"
+        }
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "To be honest, you turn off your alarms and roll out of your sheets because you know your morning will get so much better when you make eye contact with your coffee maker. Go explore for more!",
+            "fontSize": "small"
+        }
+    },
+    {
+        "name": "core/buttons",
+        "innerBlocks": [
+            {
+                "name": "core/button",
+                "attributes": {
+                    "text": "Learn More",
+                    "align": "center",
+                    "fontSize": "small",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "10px",
+                                "right": "30px",
+                                "bottom": "10px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "30px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0231.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee837e3ac0f1d86bbd30dfe5afb1b03e",
+                            "caption": "<strong>𝓐𝓶𝓮𝓻𝓲𝓬𝓪𝓷𝓸</strong>",
+                            "width": 245,
+                            "height": 368,
+                            "sizeSlug": "full",
+                            "linkDestination": "none",
+                            "style": {
+                                "border": {
+                                    "radius": "44px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0595.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=e2b32f2abdb904303fc57640aa5799a8",
+                            "caption": "<strong>𝓒𝓪𝓯é 𝓪𝓾 𝓛𝓪𝓲𝓽</strong>",
+                            "width": 245,
+                            "height": 368,
+                            "sizeSlug": "full",
+                            "linkDestination": "none",
+                            "style": {
+                                "border": {
+                                    "radius": "44px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0024.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=03b0c4d94ac26ec0884c6bcb9e8a712b",
+                            "caption": "<strong>𝓒𝓪𝓹𝓹𝓾𝓬𝓬𝓲𝓷𝓸</strong>",
+                            "width": 245,
+                            "height": 368,
+                            "sizeSlug": "full",
+                            "linkDestination": "none",
+                            "style": {
+                                "border": {
+                                    "radius": "44px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

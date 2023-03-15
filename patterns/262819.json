@@ -1,0 +1,353 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODc2MDQxLXdpa2ltZWRpYS1pbWFnZS1rcDY4dmQ5Yi1remVsMmx2di5qcGc.jpg",
+            "hasParallax": true,
+            "isRepeated": true,
+            "customGradient": "linear-gradient(135deg,rgba(75,235,221,0) 0%,rgba(1,1,1,0) 33%,rgb(0,0,0) 44%,rgb(0,0,0) 60%,rgb(0,0,0) 80%,rgb(0,0,0) 100%)",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "default"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "isStackedOnMobile": false,
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0",
+                                        "bottom": "0"
+                                    },
+                                    "margin": {
+                                        "top": "0",
+                                        "bottom": "var:preset|spacing|60"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "65%",
+                                    "layout": {
+                                        "type": "default"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "right",
+                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
+                                            "width": 64,
+                                            "height": 64,
+                                            "sizeSlug": "large",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "#07ded0",
+                                                        "#ffffff"
+                                                    ]
+                                                },
+                                                "border": {
+                                                    "color": "#5b6666",
+                                                    "width": "2px",
+                                                    "radius": "10px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "35%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "200 + Projects",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.5"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "bottom": "0"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem IThere are many variations of  ",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    },
+                                                    "padding": {
+                                                        "bottom": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "1px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "isStackedOnMobile": false,
+                            "style": {
+                                "spacing": {
+                                    "margin": {
+                                        "top": "0",
+                                        "bottom": "var:preset|spacing|60"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "45%",
+                                    "layout": {
+                                        "type": "default"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "right",
+                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/fast-filtering-icon@2x.png",
+                                            "width": 64,
+                                            "height": 64,
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "#07ded0",
+                                                        "#ffffff"
+                                                    ]
+                                                },
+                                                "border": {
+                                                    "color": "#5b6666",
+                                                    "width": "2px",
+                                                    "radius": "10px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "35%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "10 +  Services",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.5"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem IThere are many variations of  ",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    },
+                                                    "padding": {
+                                                        "bottom": "0",
+                                                        "top": "0px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "1px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "isStackedOnMobile": false
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "30%",
+                                    "layout": {
+                                        "type": "default"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "right",
+                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
+                                            "width": 64,
+                                            "height": 64,
+                                            "sizeSlug": "large",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "#07ded0",
+                                                        "#ffffff"
+                                                    ]
+                                                },
+                                                "border": {
+                                                    "radius": "10px",
+                                                    "color": "#5b6666",
+                                                    "width": "2px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "35%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "50 + Clients",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.5"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem IThere are many variations of passages of  ",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    },
+                                                    "padding": {
+                                                        "bottom": "0",
+                                                        "top": "0px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "1px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

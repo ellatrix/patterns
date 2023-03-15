@@ -1,0 +1,95 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "20px",
+                        "right": "20px",
+                        "bottom": "20px",
+                        "left": "20px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>The simplified solution for freelancers </strong>",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "32px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Beautiful designs, powerful features, and the freedom to build anything you want. WordPress is both free and priceless at the same time."
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Learn more",
+                                    "textColor": "white",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "bottom": "10px",
+                                                "left": "20px",
+                                                "right": "20px"
+                                            }
+                                        },
+                                        "border": {
+                                            "radius": "25px"
+                                        },
+                                        "color": {
+                                            "background": "#0745e3d1"
+                                        },
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://core.oxyninja.com/wp-content/uploads/2020/04/Black-Man-_-Black-Woman-Using-Laptop-F.svg",
+                            "width": 387,
+                            "height": 387,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

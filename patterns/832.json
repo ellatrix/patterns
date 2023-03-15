@@ -1,0 +1,98 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/08/image-from-rawpixel-id-1207192-jpeg-1-scaled-1.jpg",
+            "id": 833,
+            "hasParallax": true,
+            "dimRatio": 30,
+            "overlayColor": "black",
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "contentPosition": "bottom center",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column"
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "45%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "overlayColor": "white",
+                                    "minHeight": 100,
+                                    "minHeightUnit": "vh",
+                                    "isDark": false,
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "3em",
+                                                "left": "3em"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Hello Rover",
+                                            "anchor": "hello-rover",
+                                            "textColor": "black"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "The Lunar Roving Vehicle (LRV) was designed to transport astronauts and materials on the Moon. Original from NASA.",
+                                            "textColor": "black"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong><a href=\"#\">Learn More</a></strong>",
+                                            "textColor": "black",
+                                            "style": {
+                                                "elements": {
+                                                    "link": {
+                                                        "color": {
+                                                            "text": "var:preset|color|black"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

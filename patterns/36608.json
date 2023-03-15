@@ -1,0 +1,256 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "left": "30px",
+                        "right": "30px",
+                        "top": "0px",
+                        "bottom": "0px"
+                    },
+                    "blockGap": "0px",
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "inherit": false,
+                "contentSize": "1170px",
+                "wideSize": "1200px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#f9f8f4"
+                        },
+                        "border": {
+                            "radius": "30px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "80px",
+                                "right": "50px",
+                                "bottom": "80px",
+                                "left": "50px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "60%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "30px"
+                                    }
+                                }
+                            },
+                            "layout": {
+                                "inherit": false,
+                                "contentSize": "",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "contentSize": "575px",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum",
+                                            "level": 6,
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1",
+                                                    "fontSize": "22px",
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600",
+                                                    "letterSpacing": "3px"
+                                                },
+                                                "color": {
+                                                    "text": "#4dd11e"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum Emit Doller",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.3",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600",
+                                                    "fontSize": "50px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "right": "0px",
+                                                        "bottom": "35px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. Lorem Ipsum has been the industry's standard dummy text.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "40px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Shop Now",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "color": {
+                                                            "gradient": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(77,209,30) 0%,rgb(77,209,30) 66%)"
+                                                        },
+                                                        "border": {
+                                                            "radius": "50px"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "18px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "13px",
+                                                                "right": "45px",
+                                                                "bottom": "13px",
+                                                                "left": "45px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "40%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "left": "30px"
+                                    }
+                                }
+                            },
+                            "layout": {
+                                "inherit": false,
+                                "contentSize": ""
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "right",
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdwatercolorfruitbatch1-94-gloy-a_1_2.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=d2d509805a9b4c5e1ed033feffde2289",
+                                    "width": 400,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

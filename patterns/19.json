@@ -1,0 +1,29 @@
+[
+    {
+        "name": "core/gallery",
+        "attributes": {
+            "linkTo": "none",
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/image",
+                "attributes": {
+                    "url": "https://s.w.org/images/core/5.8/nature-above-01.jpg",
+                    "alt": "An aerial view of waves crashing against a shore.",
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "url": "https://s.w.org/images/core/5.8/nature-above-02.jpg",
+                    "alt": "An aerial view of a field. A road runs through the upper right corner.",
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            }
+        ]
+    }
+]

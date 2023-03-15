@@ -1,0 +1,152 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "right": "10px",
+                        "bottom": "0px",
+                        "left": "10px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "center",
+                    "url": "https://s.w.org/patterns/files/2021/06/img_3-1024x1024.jpg",
+                    "alt": "Illustration of a royal figure.",
+                    "id": 846,
+                    "width": 200,
+                    "height": 200,
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Jen Gravings",
+                    "anchor": "jen-gravings"
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "13px"
+                }
+            },
+            {
+                "name": "core/gallery",
+                "attributes": {
+                    "linkTo": "none"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-556578-jpeg-1-1-1024x1024.jpg",
+                            "id": 620,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-572893-jpeg-1024x1024.jpg",
+                            "id": 606,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-556532-jpeg-1024x1024.jpg",
+                            "id": 607,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-573354-jpeg-1024x1024.jpg",
+                            "id": 608,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-556581-jpeg-1-1-1024x1024.jpg",
+                            "id": 619,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-573505-jpeg-1024x1024.jpg",
+                            "id": 610,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "iconColor": "black",
+                    "iconColorValue": "#000000",
+                    "size": "has-large-icon-size",
+                    "align": "center",
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "http://instagram.com",
+                            "service": "instagram"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "http://twitter.com",
+                            "service": "twitter"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "http://wordpress.com",
+                            "service": "wordpress"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "45px"
+                }
+            }
+        ]
+    }
+]

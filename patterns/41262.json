@@ -1,0 +1,151 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg3Njg1NTgtaW1hZ2Uta3d2djExN3QuanBn.jpg",
+            "hasParallax": true,
+            "dimRatio": 0,
+            "overlayColor": "black",
+            "minHeightUnit": "vh",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0"
+                    }
+                },
+                "color": {
+                    "duotone": [
+                        "#000000",
+                        "#ffffff"
+                    ]
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#3f5ae0cc"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "600px",
+                            "textColor": "white",
+                            "style": {
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "var:preset|color|white"
+                                        }
+                                    }
+                                },
+                                "color": {
+                                    "background": "#3f5ae0cc"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "200px",
+                                        "right": "2em",
+                                        "bottom": "200px",
+                                        "left": "2em"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Write Some Title Here",
+                                    "level": 1,
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "50px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Write your own copy text here. This is just a demo text you should overwrite. Write your own copy text here. This is just a demo text you should overwrite."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "DETAILS",
+                                            "backgroundColor": "white",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "PRICES",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "600px"
+                        }
+                    },
+                    {
+                        "name": "core/column"
+                    }
+                ]
+            }
+        ]
+    }
+]

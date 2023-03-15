@@ -1,0 +1,106 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://drscdn.500px.org/photo/185456795/m%3D1080_k%3D1_a%3D1/4898d431c1c4f0294137f2ac39a5e9aa",
+            "dimRatio": 70,
+            "overlayColor": "black",
+            "minHeight": 850,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "15px",
+                        "right": "15px",
+                        "bottom": "15px",
+                        "left": "15px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Repeat Predefined",
+                    "placeholder": "Write title…",
+                    "style": {
+                        "typography": {
+                            "fontSize": "16px",
+                            "textTransform": "uppercase",
+                            "letterSpacing": "5px",
+                            "fontStyle": "normal",
+                            "fontWeight": "600"
+                        },
+                        "color": {
+                            "text": "#ff841b"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Developing Your Opportunities within your Business",
+                    "level": 1,
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "600",
+                            "textTransform": "capitalize",
+                            "fontSize": "52px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised....",
+                    "style": {
+                        "typography": {
+                            "fontSize": "16px",
+                            "fontStyle": "normal",
+                            "fontWeight": "400"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "View More",
+                            "rel": "#",
+                            "textColor": "white",
+                            "style": {
+                                "color": {
+                                    "background": "#ff841b"
+                                },
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontSize": "16px"
+                                },
+                                "border": {
+                                    "radius": "5px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

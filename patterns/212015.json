@@ -1,0 +1,598 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "bottom": "30px",
+                        "top": "40px"
+                    },
+                    "blockGap": "0"
+                }
+            },
+            "layout": {
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>Blog Post</strong>",
+                    "style": {
+                        "color": {
+                            "text": "#1488ff"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>Latest From Blog</strong>",
+                    "fontSize": "x-large",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "1.1"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "bottom": "40px"
+                    }
+                }
+            },
+            "layout": {
+                "type": "constrained",
+                "contentSize": "1100px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "0"
+                                },
+                                "color": {
+                                    "background": "#14133b"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-04246a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=0c3ba7222b77a92751bbd4e64b56429f",
+                                    "dimRatio": 0,
+                                    "minHeight": 238,
+                                    "minHeightUnit": "px"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "placeholder": "Write title…",
+                                            "fontSize": "large"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "20px"
+                                            },
+                                            "blockGap": "0"
+                                        },
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>What we are capable of usually discovered.</strong>",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.1",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "left": "0px",
+                                                        "bottom": "12px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Our offices are located on the traditional, unced.",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0",
+                                                        "right": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "18px",
+                                                    "lineHeight": "1.3"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0",
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "flex",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "<strong>Read More</strong>",
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "5px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "5px",
+                                                                "right": "30px",
+                                                                "bottom": "5px",
+                                                                "left": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "align": "full",
+                                            "backgroundColor": "black",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Medeno 13 Oct 2022</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "0"
+                                },
+                                "color": {
+                                    "background": "#14133b"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-39207a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9f8581de1bb6e7724eabda3aaacadb80",
+                                    "dimRatio": 0,
+                                    "minHeight": 238,
+                                    "minHeightUnit": "px"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "placeholder": "Write title…",
+                                            "fontSize": "large"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "20px"
+                                            },
+                                            "blockGap": "0"
+                                        },
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>What Walking Helper Heal And Strains</strong>.",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.1",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "left": "0px",
+                                                        "bottom": "12px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Our offices are located on the traditional, unced.",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0",
+                                                        "right": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "18px",
+                                                    "lineHeight": "1.3"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0",
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "flex",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "<strong>Read More</strong>",
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "5px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "5px",
+                                                                "right": "30px",
+                                                                "bottom": "5px",
+                                                                "left": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "align": "full",
+                                            "backgroundColor": "black",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Medeno 13 Oct 2022</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "0"
+                                },
+                                "color": {
+                                    "background": "#14133b"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-41559a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=707e793acb720713bec528942913147e",
+                                    "dimRatio": 0,
+                                    "minHeight": 238,
+                                    "minHeightUnit": "px"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "placeholder": "Write title…",
+                                            "fontSize": "large"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "20px"
+                                            },
+                                            "blockGap": "0"
+                                        },
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Six Tips For Boosting Your Safe System.</strong>",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.1",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "left": "0px",
+                                                        "bottom": "12px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Our offices are located on the traditional, unced.",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0",
+                                                        "bottom": "0",
+                                                        "right": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "18px",
+                                                    "lineHeight": "1.3"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0",
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "flex",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "<strong>Read More</strong>",
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white",
+                                                    "fontSize": "medium",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "5px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "5px",
+                                                                "right": "30px",
+                                                                "bottom": "5px",
+                                                                "left": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "align": "full",
+                                            "backgroundColor": "black",
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Medeno 13 Oct 2022</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "color": {
+                                                    "text": "#888888"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

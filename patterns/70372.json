@@ -1,0 +1,238 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    },
+                    "blockGap": "0px"
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/jazz.jpg",
+                    "id": 137,
+                    "hasParallax": true,
+                    "dimRatio": 40,
+                    "minHeight": 779,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center right",
+                    "isDark": false,
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "50px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<em>Fancy Top Title</em>",
+                            "level": 6,
+                            "style": {
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>THIS IS A SIMPLE BANNER</strong>",
+                            "level": 3,
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "800",
+                                    "letterSpacing": "1px"
+                                },
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+                            "style": {
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Shop Now",
+                                    "backgroundColor": "background",
+                                    "textColor": "primary",
+                                    "width": 50,
+                                    "fontSize": "small",
+                                    "style": {
+                                        "border": {
+                                            "radius": "50px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "0px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    },
+                    "blockGap": "0px"
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/fashion-1000x530-1.jpg",
+                    "id": 150,
+                    "hasParallax": true,
+                    "dimRatio": 40,
+                    "minHeight": 777,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center left",
+                    "isDark": false,
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "50px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<em>Fancy Top Title</em>",
+                            "level": 6,
+                            "style": {
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "<strong>THIS IS A SIMPLE BANNER</strong>",
+                            "level": 3,
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "800",
+                                    "letterSpacing": "1px"
+                                },
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+                            "style": {
+                                "color": {
+                                    "text": "#f1f1f1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Shop Now",
+                                    "backgroundColor": "background",
+                                    "textColor": "primary",
+                                    "width": 50,
+                                    "fontSize": "small",
+                                    "style": {
+                                        "border": {
+                                            "radius": "50px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

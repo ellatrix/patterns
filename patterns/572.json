@@ -1,0 +1,61 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "mediaId": 569,
+            "mediaUrl": "https://s.w.org/patterns/files/2021/06/meteor-shower-768x1024.jpg",
+            "mediaLink": "https://wordpress.org/patterns/meteor-shower/",
+            "mediaType": "image",
+            "verticalAlignment": "bottom",
+            "style": {
+                "color": {
+                    "background": "#f6f6f6",
+                    "text": "#161616"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0em",
+                                "right": "1em",
+                                "bottom": "1em",
+                                "left": "1em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Meteor Shower</strong>",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "48px",
+                                    "lineHeight": "1.2"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "I looked up at the night sky to find the stars performing a remarkable silent ballet. I watched alone for a few moments before waking my partner. The two of us quickly pulled on our slippers and walked into the backyard for a better view.",
+                            "fontSize": "small",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.6"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "20px",
+                        "right": "20px",
+                        "bottom": "20px",
+                        "left": "20px"
+                    }
+                },
+                "color": {
+                    "background": "#0a1819"
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "40px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "25%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "LOGO",
+                                    "textColor": "vivid-cyan-blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "24.4%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>Links</strong>",
+                                    "level": 5,
+                                    "style": {
+                                        "color": {
+                                            "text": "#11a2fc"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Home"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "About"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Services"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Contact",
+                                    "textColor": "white"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>Address</strong>",
+                                    "level": 5,
+                                    "style": {
+                                        "color": {
+                                            "text": "#11a2fc"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "2215 S 11th St, Philadelphia, PA 19148, United States"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Find us on the web",
+                                    "level": 5,
+                                    "style": {
+                                        "color": {
+                                            "text": "#11a2fc"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "pale-cyan-blue",
+                                    "iconColorValue": "#8ed1fc"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "google"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "2022 © Copyright All Rights Reserved | example.com"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "30px"
+                }
+            }
+        ]
+    }
+]

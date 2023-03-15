@@ -1,0 +1,64 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/08/bird-pattern-scaled-1.jpg",
+            "id": 764,
+            "alt": "A container with an image background with an angled red overlay atop it. A heading and paragraph are aligned to the top left of the container.",
+            "minHeight": 700,
+            "customGradient": "linear-gradient(135deg,rgb(54,6,6) 0%,rgb(54,6,6) 50%,rgba(155,82,224,0) 50%,rgba(155,82,224,0) 100%)",
+            "contentPosition": "top left",
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "2em",
+                        "right": "2em",
+                        "bottom": "2em",
+                        "left": "2em"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "<strong>Art Nouveau:<br>Patterns</strong>",
+                    "anchor": "art-nouveau-patterns",
+                    "textColor": "white",
+                    "fontSize": "huge",
+                    "style": {
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "var:preset|color|white"
+                                }
+                            }
+                        },
+                        "typography": {
+                            "lineHeight": "1"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "July 14-24, 2021",
+                    "textColor": "white",
+                    "fontSize": "normal",
+                    "style": {
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "var:preset|color|white"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

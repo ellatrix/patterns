@@ -1,0 +1,191 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#f2f2f2"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "70px",
+                        "bottom": "70px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(90deg,rgb(242,242,242) 21%,rgb(242,25,25) 21%,rgb(242,24,24) 50%,rgb(242,242,242) 50%)"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "40px",
+                                "bottom": "40px",
+                                "left": "0px",
+                                "right": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0335.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=335fbe5746f3a47283678e7ccac8f0ba",
+                                    "style": {
+                                        "color": []
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "left": "50px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "We Create Digital",
+                                    "style": {
+                                        "color": {
+                                            "text": "#111111"
+                                        },
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "bottom": "35px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "left",
+                                        "contentSize": "415px"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "40px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "<strong>Learn More</strong>",
+                                            "textColor": "white",
+                                            "style": {
+                                                "color": {
+                                                    "background": "#111111"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "12px",
+                                                        "bottom": "12px",
+                                                        "left": "30px",
+                                                        "right": "30px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

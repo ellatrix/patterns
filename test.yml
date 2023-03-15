@@ -1,0 +1,76 @@
+- name: core/columns
+  attributes:
+    isStackedOnMobile: true
+    align: wide
+    style:
+      spacing:
+        blockGap: 10px
+  innerBlocks:
+    - name: core/column
+      attributes:
+        width: 50%
+      innerBlocks:
+        - name: core/heading
+          attributes:
+            content: <strong>VIP</strong>
+            level: 2
+            style:
+              typography:
+                fontSize: 48px
+        - name: core/paragraph
+          attributes:
+            content: <strong>10+</strong>
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $10
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $25
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $50
+            dropCap: false
+        - name: core/heading
+          attributes:
+            content: <strong>Premium</strong>
+            level: 3
+            style:
+              typography:
+                fontSize: 48px
+        - name: core/paragraph
+          attributes:
+            content: <strong>10-24</strong>
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $10
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $25
+            dropCap: false
+        - name: core/heading
+          attributes:
+            content: Premium: $50
+            level: 4
+            style:
+              typography:
+                fontSize: 48px
+        - name: core/paragraph
+          attributes:
+            content: Regular: $10
+            dropCap: false
+        - name: core/paragraph
+          attributes:
+            content: Regular: $25
+            dropCap: false
+        - name: core/heading
+          attributes:
+            content: Premium: $50
+            level: 4
+            style:
+              typography:
+                fontSize: 48px

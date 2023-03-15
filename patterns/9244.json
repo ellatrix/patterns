@@ -1,0 +1,100 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://live.staticflickr.com/5067/5660731304_477cb03038_b.jpg",
+            "dimRatio": 0,
+            "overlayColor": "foreground",
+            "minHeight": 50,
+            "minHeightUnit": "vh",
+            "contentPosition": "center center",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "color": {
+                    "duotone": [
+                        "#000000",
+                        "#ffffff"
+                    ]
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "bottom": "50px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "borderColor": "black",
+                    "style": {
+                        "border": {
+                            "width": "6px",
+                            "style": "solid"
+                        }
+                    },
+                    "layout": {
+                        "inherit": true,
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "overlayColor": "white",
+                            "contentPosition": "center center",
+                            "isDark": false,
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Investing in Happiness",
+                                    "anchor": "investing-in-happiness",
+                                    "textColor": "black",
+                                    "fontSize": "x-large"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Discover a happier, healthier you.",
+                                    "textColor": "black",
+                                    "fontSize": "medium"
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center",
+                                        "orientation": "horizontal"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "width": 50
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

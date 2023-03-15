@@ -1,0 +1,122 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-495947-jpeg-scaled.jpg",
+            "id": 863,
+            "dimRatio": 0,
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "backgroundColor": "white",
+                    "style": {
+                        "color": {
+                            "text": "#28303d"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "6em",
+                                "right": "4em",
+                                "bottom": "6em",
+                                "left": "4em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.33%",
+                                    "backgroundColor": "white"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "center",
+                                            "url": "https://s.w.org/patterns/files/2021/06/dracaena-updated-1024x1024.jpg",
+                                            "id": 862,
+                                            "width": 300,
+                                            "height": 300,
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "66.66%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<strong>A day in nature</strong>",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#28303d"
+                                                },
+                                                "typography": {
+                                                    "fontSize": "48px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "The word&nbsp;<em>nature</em>&nbsp;is borrowed from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Old_French\">Old French</a>&nbsp;<em>nature</em>&nbsp;and is derived from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Latin\">Latin</a>&nbsp;word&nbsp;<em>natura</em>, or \"essential qualities, innate disposition\", and in ancient times, literally meant \"birth\".",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#39414d"
+                                                },
+                                                "typography": {
+                                                    "lineHeight": "1.7"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Read More",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "color": {
+                                                            "background": "#28303d"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

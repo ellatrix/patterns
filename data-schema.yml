@@ -1,0 +1,144 @@
+- name: core/paragraph
+  attributes:
+    - align
+    - content
+    - style
+- name: core/image
+  attributes:
+    - align
+    - url
+    - alt
+    - caption
+    - style
+- name: core/heading
+  attributes:
+    - content
+    - align
+    - style
+- name: core/gallery
+  attributes:
+    - caption
+    - align
+    - style
+    - layout
+- name: core/list
+  attributes:
+    - style
+- name: core/list-item
+  attributes:
+    - content
+    - style
+- name: core/quote
+  attributes:
+    - align
+    - style
+- name: core/audio
+  attributes:
+    - caption
+    - align
+    - style
+- name: core/button
+  attributes:
+    - url
+    - style
+- name: core/buttons
+  attributes:
+    - align
+    - style
+    - layout
+- name: core/code
+  attributes:
+    - content
+    - style
+- name: core/column
+  attributes:
+    - style
+    - layout
+- name: core/columns
+  attributes:
+    - align
+    - style
+    - layout
+- name: core/cover
+  attributes:
+    - url
+    - alt
+    - align
+    - style
+- name: core/file
+  attributes:
+    - align
+    - style
+- name: core/group
+  attributes:
+    - align
+    - style
+    - layout
+- name: core/media-text
+  attributes:
+    - align
+    - style
+- name: core/missing
+  attributes: []
+- name: core/more
+  attributes: []
+- name: core/nextpage
+  attributes: []
+- name: core/preformatted
+  attributes:
+    - content
+    - style
+- name: core/pullquote
+  attributes:
+    - align
+    - style
+- name: core/separator
+  attributes:
+    - align
+    - style
+- name: core/spacer
+  attributes:
+    - style
+- name: core/table
+  attributes:
+    - caption
+    - align
+    - style
+- name: core/text-columns
+  attributes:
+    - content
+- name: core/verse
+  attributes:
+    - content
+    - style
+- name: core/video
+  attributes:
+    - caption
+    - align
+    - style
+- name: core/navigation-link
+  attributes:
+    - url
+    - style
+- name: core/navigation-submenu
+  attributes:
+    - url
+- name: core/comment-template
+  attributes:
+    - align
+    - style
+- name: core/home-link
+  attributes:
+    - style
+
+The style attribute can have the following properties:
+    - color, which can have the following sub-properties:
+        - text
+        - background
+        - gradient
+    - typography, which can have the following sub-properties:
+        - fontSize
+        - lineHeight
+        - fontFamily
+        - letterSpacing
+        - textTransform

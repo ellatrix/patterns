@@ -1,0 +1,250 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "100px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(90deg,rgb(255,33,71) 0%,rgb(255,33,71) 35%,rgb(28,74,97) 35%)"
+                }
+            },
+            "layout": {
+                "contentSize": "1170px",
+                "wideSize": "1280%",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://drscdn.500px.org/photo/180822421/m%3D1080_k%3D1_a%3D1/f20fc3c16b538f5e2cee2c476337f657",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "20px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            },
+                            "layout": {
+                                "contentSize": "500px",
+                                "justifyContent": "left"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "left",
+                                        "contentSize": "400px"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "our top services",
+                                            "level": 6,
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "fontSize": "16px",
+                                                    "lineHeight": "1"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Our Best Services",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "textTransform": "capitalize",
+                                                    "fontSize": "40px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "10px",
+                                                        "right": "0px",
+                                                        "bottom": "20px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                            "level": 6,
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "lineHeight": "1.5"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "right": "0px",
+                                                        "bottom": "35px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "ABOUT US",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "13px",
+                                                                "bottom": "13px",
+                                                                "left": "40px",
+                                                                "right": "40px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#ff2143"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

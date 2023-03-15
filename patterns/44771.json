@@ -1,0 +1,123 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://pd.w.org/2022/02/248620d3c0599f031.95641147.jpg",
+            "dimRatio": 80,
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "bottom": "50px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "―――",
+                    "level": 4,
+                    "fontSize": "x-large",
+                    "style": {
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "700",
+                            "lineHeight": "1"
+                        },
+                        "color": {
+                            "text": "#ce1446"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "We Are Creative<br><mark style=\"background-color:#000000;color:#ce1446\" class=\"has-inline-color\">DIGITAL</mark>&nbsp;Agency",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "72px",
+                            "fontStyle": "normal",
+                            "fontWeight": "800"
+                        },
+                        "spacing": {
+                            "margin": {
+                                "bottom": "50px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained",
+                        "contentSize": "240px"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "DISCOVER MORE",
+                                    "textColor": "white",
+                                    "style": {
+                                        "color": {
+                                            "background": "#ce1446"
+                                        },
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "15px",
+                                                "bottom": "15px",
+                                                "left": "45px",
+                                                "right": "45px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "gradient": "pale-ocean",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "30px",
+                        "right": "30px",
+                        "bottom": "30px",
+                        "left": "30px"
+                    },
+                    "blockGap": "10px"
+                }
+            },
+            "layout": {
+                "inherit": false,
+                "wideSize": "50%"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Search</strong>",
+                    "level": 4,
+                    "backgroundColor": "black",
+                    "fontSize": "medium",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "0",
+                            "textTransform": "uppercase"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/search",
+                "attributes": {
+                    "showLabel": false,
+                    "width": 100,
+                    "widthUnit": "%",
+                    "buttonText": "Search",
+                    "buttonPosition": "button-inside",
+                    "buttonUseIcon": true,
+                    "backgroundColor": "black",
+                    "textColor": "white",
+                    "style": {
+                        "border": {
+                            "radius": "0px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Archives</strong>",
+                    "level": 4,
+                    "backgroundColor": "black",
+                    "fontSize": "medium",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "0",
+                            "textTransform": "uppercase"
+                        },
+                        "spacing": {
+                            "margin": {
+                                "top": "20px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/archives",
+                "attributes": {
+                    "showPostCounts": true,
+                    "type": "yearly"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Recent News</strong>",
+                    "level": 4,
+                    "backgroundColor": "black",
+                    "fontSize": "medium",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "0",
+                            "textTransform": "uppercase"
+                        },
+                        "spacing": {
+                            "margin": {
+                                "top": "20px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/latest-posts",
+                "attributes": {
+                    "postsToShow": 3,
+                    "displayPostDate": true,
+                    "displayFeaturedImage": true,
+                    "featuredImageAlign": "left",
+                    "featuredImageSizeWidth": 40,
+                    "featuredImageSizeHeight": 40,
+                    "addLinkToFeaturedImage": true,
+                    "align": "wide"
+                }
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "align": "wide",
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd58batch1-20026_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1506f57e3444fd8fef51f758a3bd8906",
+                            "sizeSlug": "full",
+                            "linkDestination": "custom",
+                            "style": {
+                                "color": {
+                                    "duotone": [
+                                        "#000000",
+                                        "#d38484"
+                                    ]
+                                },
+                                "border": {
+                                    "radius": "0px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "10px"
+                                }
+                            },
+                            "layout": {
+                                "type": "flex",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "url": "https://wordpress.org/",
+                                    "text": "Volunteer",
+                                    "linkTarget": "_blank",
+                                    "rel": "noreferrer noopener",
+                                    "backgroundColor": "black",
+                                    "textColor": "white",
+                                    "width": 100
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "70px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                },
+                "color": {
+                    "background": "#2a2a2a"
+                }
+            },
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/separator",
+                "attributes": {}
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "LOGO",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Donec malesuada eros eu dictum tristique. Maecenas nec mollis urna. Nunc dui ex, cursus non mollis et, accumsan nec tellus. Pellentesque accumsan lacinia felis nec viverra.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Copyright © 2022 - Company Ltd."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Newsletter",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/search",
+                                "attributes": {
+                                    "label": "SUBSCRIBE",
+                                    "placeholder": "Enter Your Email...",
+                                    "buttonText": "Subscribe",
+                                    "buttonPosition": "button-inside",
+                                    "borderColor": "pale-cyan-blue",
+                                    "backgroundColor": "pale-cyan-blue",
+                                    "textColor": "white",
+                                    "style": {
+                                        "border": {
+                                            "width": "2px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Pellentesque lobortis, tortor quis finibus lobortis, nulla metus porta enim, euismod hendrerit dolor leo a nunc.&nbsp;",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Contact Us",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "30px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "123 London, United Kingdom<br><br>+ 44 (0) 7 123-456-789",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1.2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "hi@example.com",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Opening Hours: 9:00am - 17:00pm <sup>| MON. - THUR.</sup>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "white",
+                                    "iconColorValue": "#ffffff",
+                                    "openInNewTab": true,
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": {
+                                                "top": "15px",
+                                                "left": "15px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "wordpress"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "instagram"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "linkedin"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "tiktok"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "#",
+                                            "service": "pinterest"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

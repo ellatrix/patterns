@@ -1,0 +1,231 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-428.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=56fec4d724b34bca29e5130338297cd3",
+                            "dimRatio": 0,
+                            "minHeight": 40,
+                            "minHeightUnit": "vh",
+                            "isDark": false,
+                            "style": {
+                                "color": []
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "placeholder": "Write title…",
+                                    "fontSize": "large"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "1000px",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "blockGap": {
+                                        "top": "0px",
+                                        "left": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "33.33%",
+                                    "style": {
+                                        "color": {
+                                            "gradient": "linear-gradient(90deg,rgba(238,238,238,0) 50%,rgba(255,128,0,0.06) 50%)"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/cover",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-428.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=56fec4d724b34bca29e5130338297cd3",
+                                            "dimRatio": 0,
+                                            "minHeight": 40,
+                                            "minHeightUnit": "vh",
+                                            "contentPosition": "center center",
+                                            "isDark": false,
+                                            "style": {
+                                                "color": [],
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "placeholder": "Write title…",
+                                                    "fontSize": "large"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "66.66%",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0%",
+                                                "right": "5%",
+                                                "bottom": "3em",
+                                                "left": "5%"
+                                            }
+                                        },
+                                        "color": {
+                                            "gradient": "linear-gradient(180deg,rgba(238,238,238,0) 40%,rgba(255,128,0,0.06) 40%)"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "• • • • • •<br>• • • • • •<br>• • • • • •"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Creatively<br>Unique Design",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.2"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "50px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Important: For the best results enable “Fixed background” option for each of the two Cover blocks in this pattern."
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "50px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "More Info",
+                                                    "backgroundColor": "black",
+                                                    "textColor": "white"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        },
+                        "color": {
+                            "gradient": "linear-gradient(180deg,rgba(238,238,238,0) 40%,rgba(255,128,0,0.06) 40%)"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

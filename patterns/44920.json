@@ -1,0 +1,99 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "bottom",
+                    "width": "25%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "right",
+                            "content": "We",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "100px",
+                                    "lineHeight": ".8",
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "300",
+                                    "letterSpacing": "0.05em"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-201107210002hq.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee99aedf415952ed5f56b876439597f6",
+                            "focalPoint": {
+                                "x": "0.50",
+                                "y": "0.90"
+                            },
+                            "minHeight": 320,
+                            "customGradient": "linear-gradient(90deg,rgb(255,255,255) 2%,rgba(0,0,0,0.25) 2%)",
+                            "contentPosition": "bottom left",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Design",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "100px",
+                                            "textTransform": "uppercase",
+                                            "lineHeight": ".8",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "letterSpacing": "0.05em"
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "0",
+                                                "right": "0",
+                                                "bottom": "0",
+                                                "left": "0"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "backgroundColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "var:preset|spacing|80",
+                        "right": "0",
+                        "bottom": "var:preset|spacing|80",
+                        "left": "0"
+                    }
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/site-title",
+                "attributes": {
+                    "textAlign": "center",
+                    "fontSize": "medium",
+                    "style": {
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "700"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/site-tagline",
+                "attributes": {
+                    "textAlign": "center"
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "20px"
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Watch my latest videos",
+                            "width": 100
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Buy merch",
+                            "width": 100
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Support me on Patreon",
+                            "width": 100
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Get tickets for my show",
+                            "width": 100
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "iconColor": "black",
+                    "iconColorValue": "#000000",
+                    "iconBackgroundColor": "white",
+                    "iconBackgroundColorValue": "#ffffff",
+                    "size": "has-normal-icon-size",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "0",
+                                "left": "0"
+                            },
+                            "padding": {
+                                "top": "var:preset|spacing|60",
+                                "bottom": "var:preset|spacing|60"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://wordpress.org/patterns/",
+                            "service": "instagram"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://wordpress.org/patterns/",
+                            "service": "bandcamp"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://wordpress.org/patterns/",
+                            "service": "twitter"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://wordpress.org/patterns/",
+                            "service": "twitch"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

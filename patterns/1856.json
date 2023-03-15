@@ -1,0 +1,35 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "10em",
+                        "bottom": "0px"
+                    }
+                },
+                "color": {
+                    "background": "#15151a"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "wide",
+                    "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-2776944-jpeg-1-1024x696.jpg",
+                    "id": 1857,
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {}
+    }
+]

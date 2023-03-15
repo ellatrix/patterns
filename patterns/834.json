@@ -1,0 +1,138 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/SK-A-1363-1.jpg",
+            "id": 835,
+            "dimRatio": 0,
+            "focalPoint": {
+                "x": "0.43",
+                "y": "0.77"
+            },
+            "minHeight": 75,
+            "minHeightUnit": "vh",
+            "contentPosition": "center center",
+            "isDark": false,
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "75%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Plan Your Visit",
+                                    "anchor": "plan-your-visit",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1.2"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "33.33%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">What's On</a>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": 1.4
+                                        },
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|black"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Getting Here</a>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": 1.4
+                                        },
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|black"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Accessibility</a>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": 1.4
+                                        },
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|black"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Buying Tickets</a>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": 1.4
+                                        },
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|black"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "150px"
+                }
+            }
+        ]
+    }
+]

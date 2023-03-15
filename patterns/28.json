@@ -1,0 +1,108 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Which treats of the character and pursuits of the famous Don Quixote of La Mancha."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Chapter One",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ba0c49"
+                                                },
+                                                "border": {
+                                                    "radius": "50px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Which treats of the first sally the ingenious Don Quixote made from home."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Chapter Two",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ba0c49"
+                                                },
+                                                "border": {
+                                                    "radius": "50px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Wherein is related the droll way in which Don Quixote had himself dubbed a knight."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Chapter Three",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ba0c49"
+                                                },
+                                                "border": {
+                                                    "radius": "50px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/08/Fishing-Boats-Key-West-Winslow-Homer-scaled-1.jpg",
+            "id": 2170,
+            "dimRatio": 0,
+            "focalPoint": {
+                "x": 0.5,
+                "y": "1.00"
+            },
+            "minHeight": 63,
+            "minHeightUnit": "vw",
+            "contentPosition": "bottom center",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "600px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "backgroundColor": "black",
+                    "style": {
+                        "color": {
+                            "text": "#ffffff"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "3em",
+                                "bottom": "2em",
+                                "left": "3em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "FISHING BOATS",
+                            "align": "wide",
+                            "anchor": "fishing-boats",
+                            "fontSize": "extra-large",
+                            "style": {
+                                "typography": {
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "textColor": "black",
+                    "style": {
+                        "color": {
+                            "background": "#ffffff"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "3em",
+                                "right": "3em",
+                                "bottom": "3em",
+                                "left": "3em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Winslow Homer</strong>, 1903",
+                                            "placeholder": "Write title…",
+                                            "textColor": "black"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Winslow Homer</strong> was an American landscape painter best known for his marine subjects. He is considered one of the foremost painters in 19th-century America.",
+                                            "textColor": "black"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong><a href=\"#\">Learn More →</a></strong>",
+                                            "textColor": "black"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

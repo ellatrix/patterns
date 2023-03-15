@@ -1,0 +1,203 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-14.jpg",
+            "id": 146,
+            "hasParallax": true,
+            "isRepeated": true,
+            "dimRatio": 0,
+            "contentPosition": "center center",
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "tagName": "section",
+                    "align": "wide",
+                    "layout": {
+                        "inherit": false
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "center",
+                                            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-07.jpg.jpg",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "22%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-04-1.jpg.jpg",
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Relax with face massage",
+                                                            "level": 5,
+                                                            "textColor": "black",
+                                                            "fontSize": "normal"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor consectetur adipiscing elit sed do eiusmod tempor incididunt.",
+                                                            "textColor": "black",
+                                                            "fontSize": "small"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "22%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-05-1.jpg.jpg",
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Relax with luxury spa",
+                                                            "level": 5,
+                                                            "textColor": "black",
+                                                            "fontSize": "normal"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor consectetur adipiscing elit sed do eiusmod tempor incididunt.",
+                                                            "textColor": "black",
+                                                            "fontSize": "small"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "22%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-06-1.jpg.jpg",
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Ayurvedic treatments",
+                                                            "level": 5,
+                                                            "textColor": "black",
+                                                            "fontSize": "normal"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor consectetur adipiscing elit sed do eiusmod tempor incididunt.",
+                                                            "textColor": "black",
+                                                            "fontSize": "small"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

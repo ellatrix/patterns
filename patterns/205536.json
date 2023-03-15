@@ -1,0 +1,691 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "bottom": "300px",
+                        "left": "20px",
+                        "right": "20px",
+                        "top": "100px"
+                    },
+                    "blockGap": "0rem"
+                },
+                "color": {
+                    "gradient": "linear-gradient(185deg,rgb(255,255,255) 11%,rgb(48,48,158) 11%,rgb(48,48,158) 77%,rgb(255,255,255) 77%)"
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "isStackedOnMobile": false,
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "0px",
+                                "top": "0px",
+                                "bottom": "50px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        },
+                        "border": {
+                            "radius": "0px"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "What we do",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "fontSize": "50px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "isStackedOnMobile": false,
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "0px",
+                                "bottom": "0px",
+                                "top": "0px",
+                                "left": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        },
+                        "border": {
+                            "radius": "0px"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": {
+                                                "top": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "width": "0px",
+                                                    "style": "none"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "15px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "30px",
+                                                                "bottom": "30px",
+                                                                "left": "20px",
+                                                                "right": "20px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            },
+                                                            "blockGap": "0px"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "contentSize": ""
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "url": "https://i.postimg.cc/d3n1b30y/Email-Blast.png",
+                                                            "alt": "Team Accounts",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "rgb(5, 73, 192)",
+                                                                        "#0549c0"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Email Marketing",
+                                                            "level": 5,
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textTransform": "capitalize",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "fontSize": "24px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "20px",
+                                                                        "right": "0px",
+                                                                        "bottom": "20px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#30309e"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": 1.6
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px",
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "20px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#555555"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "learn more",
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "10px",
+                                                                                "right": "28px",
+                                                                                "bottom": "10px",
+                                                                                "left": "28px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": {
+                                                                                "topLeft": "30px",
+                                                                                "bottomLeft": "30px",
+                                                                                "bottomRight": "30px",
+                                                                                "topRight": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "uppercase",
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "color": {
+                                                                            "background": "#30309e"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "width": "0px",
+                                                    "style": "none"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "15px",
+                                                            "width": "0px",
+                                                            "style": "none"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "38px",
+                                                                "bottom": "30px",
+                                                                "left": "20px",
+                                                                "right": "20px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            },
+                                                            "blockGap": "0px"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "contentSize": ""
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "url": "https://i.postimg.cc/bJgpJMjX/Budget-promotion.png",
+                                                            "alt": "Team Accounts",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "#0549c0",
+                                                                        "rgb(5, 73, 192)"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "digital Marketing",
+                                                            "level": 5,
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textTransform": "capitalize",
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px",
+                                                                        "right": "0px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "20px",
+                                                                        "right": "0px",
+                                                                        "bottom": "20px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#30309e"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": 1.6
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px",
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "20px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#555555"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "learn more",
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "10px",
+                                                                                "right": "28px",
+                                                                                "bottom": "10px",
+                                                                                "left": "28px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": {
+                                                                                "topLeft": "30px",
+                                                                                "bottomLeft": "30px",
+                                                                                "bottomRight": "30px",
+                                                                                "topRight": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "uppercase",
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "color": {
+                                                                            "background": "#30309e"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "width": "0px",
+                                                    "style": "none"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "15px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "40px",
+                                                                "bottom": "30px",
+                                                                "left": "20px",
+                                                                "right": "20px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            },
+                                                            "blockGap": "0px"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "contentSize": ""
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "url": "https://i.postimg.cc/3JtMvp6G/Smartphone-Marketing.png",
+                                                            "alt": "Team Accounts",
+                                                            "sizeSlug": "full",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "border": {
+                                                                    "width": "0px",
+                                                                    "style": "none"
+                                                                },
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "#0549c0",
+                                                                        "#0549c0"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": " web development",
+                                                            "level": 5,
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textTransform": "capitalize",
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px",
+                                                                        "right": "0px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "19px",
+                                                                        "right": "0px",
+                                                                        "bottom": "20px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#30309e"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": 1.6
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px",
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "left": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "21px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#555555"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "learn more",
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "10px",
+                                                                                "right": "28px",
+                                                                                "bottom": "10px",
+                                                                                "left": "28px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": {
+                                                                                "topLeft": "30px",
+                                                                                "bottomLeft": "30px",
+                                                                                "bottomRight": "30px",
+                                                                                "topRight": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "uppercase",
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "color": {
+                                                                            "background": "#30309e"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8783.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6945c5434af9266e1389e693eb695dc6",
+            "dimRatio": 50,
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "color": {
+                    "duotone": [
+                        "#000000",
+                        "#00a5ff"
+                    ]
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "right": "30px",
+                        "bottom": "50px",
+                        "left": "30px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Lorem ipsum dolor sit amet",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "15px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        },
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "300"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Exclusive Digital Services?",
+                    "style": {
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "700",
+                            "fontSize": "40px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "25px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                    "style": {
+                        "typography": {
+                            "fontSize": "16px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "40px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Lets Talk",
+                            "backgroundColor": "vivid-cyan-blue",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "fontSize": "18px"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10px",
+                                        "right": "35px",
+                                        "bottom": "10px",
+                                        "left": "35px"
+                                    }
+                                },
+                                "border": {
+                                    "radius": "50px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

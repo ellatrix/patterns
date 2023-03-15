@@ -1,0 +1,232 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "color": {
+                    "gradient": "linear-gradient(135deg,rgb(7,40,80) 0%,rgb(155,81,224) 100%)"
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Our Services",
+                    "textColor": "background"
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "33.34%",
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "25px",
+                                        "right": "25px",
+                                        "bottom": "25px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Sample Heading",
+                                    "level": 4
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Read More<strong>&nbsp;→</strong>",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "bottom": "10px",
+                                                        "left": "25px",
+                                                        "right": "25px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "33.33%",
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "25px",
+                                        "right": "25px",
+                                        "bottom": "25px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Sample Heading",
+                                    "level": 4
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Read More<strong>&nbsp;→</strong>",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "bottom": "10px",
+                                                        "left": "25px",
+                                                        "right": "25px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "33.33%",
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "25px",
+                                        "right": "25px",
+                                        "bottom": "25px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Sample Heading",
+                                    "level": 4
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Read More<strong>&nbsp;→</strong>",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "25px",
+                                                        "bottom": "10px",
+                                                        "left": "25px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            }
+        ]
+    }
+]

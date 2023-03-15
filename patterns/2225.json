@@ -1,0 +1,129 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "150px",
+                        "bottom": "150px",
+                        "right": "50px",
+                        "left": "50px"
+                    }
+                },
+                "color": {
+                    "background": "#f4f3ef",
+                    "text": "#3d3d48"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "top",
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "wide",
+                                    "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-3063927-jpeg-1-449x1024.jpg",
+                                    "id": 2223,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "150px"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom",
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Works of Hiroaki Takahashi",
+                                    "level": 1,
+                                    "anchor": "works-of-hiroaki-takahashi",
+                                    "style": {
+                                        "typography": {
+                                            "fontWeight": "900",
+                                            "fontSize": "50px",
+                                            "lineHeight": "1.1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "70%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>A 20th-century Japanese woodblock artist in the shin-hanga art movement.</em>",
+                                                    "fontSize": "small",
+                                                    "style": {
+                                                        "typography": {
+                                                            "lineHeight": "1.4"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "left",
+                                                    "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-3064481-jpeg-1-600x1024.jpg",
+                                                    "id": 2224,
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "30%"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "50px"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

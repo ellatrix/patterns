@@ -1,0 +1,313 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-nov18-10484_003-032_100mm_kodak_color_400.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=680762a921fef9c2fa50097ddcf9679c",
+            "dimRatio": 50,
+            "align": "full",
+            "style": {
+                "color": []
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Christmas Collection",
+                    "fontSize": "large",
+                    "style": {
+                        "typography": {
+                            "letterSpacing": "1.8px",
+                            "textTransform": "uppercase",
+                            "fontStyle": "normal",
+                            "fontWeight": "600"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "flexWrap": "wrap",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Go to Shop",
+                            "textColor": "white",
+                            "fontSize": "medium",
+                            "style": {
+                                "border": {
+                                    "radius": "0px"
+                                },
+                                "typography": {
+                                    "letterSpacing": "1.6px"
+                                },
+                                "color": {
+                                    "background": "#ffffff00"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "layout": {
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-oct18-046.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=d48423e4a4c454bf5f2d0eb9743fbac0",
+                                    "dimRatio": 30,
+                                    "minHeight": 251,
+                                    "minHeightUnit": "px",
+                                    "contentPosition": "bottom center",
+                                    "isDark": false,
+                                    "style": {
+                                        "color": {
+                                            "duotone": "unset"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Premium Trees",
+                                            "textColor": "white",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.8",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400",
+                                                    "textTransform": "uppercase",
+                                                    "letterSpacing": "6px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "backgroundColor": "white"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "layout": {
+                                                "type": "flex",
+                                                "flexWrap": "wrap",
+                                                "justifyContent": "center"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Shop Now",
+                                                    "textColor": "white",
+                                                    "fontSize": "small",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "typography": {
+                                                            "letterSpacing": "1.6px"
+                                                        },
+                                                        "color": {
+                                                            "background": "#ffffff00"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0729.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a1b559bee024740f366e16cf04e7b04c",
+                                    "dimRatio": 30,
+                                    "minHeight": 251,
+                                    "minHeightUnit": "px",
+                                    "contentPosition": "bottom center",
+                                    "style": {
+                                        "color": []
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Decorations",
+                                            "textColor": "white",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.8",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400",
+                                                    "textTransform": "uppercase",
+                                                    "letterSpacing": "6px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "backgroundColor": "white"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "layout": {
+                                                "type": "flex",
+                                                "flexWrap": "wrap",
+                                                "justifyContent": "center"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Shop Now",
+                                                    "textColor": "white",
+                                                    "fontSize": "small",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "typography": {
+                                                            "letterSpacing": "1.6px"
+                                                        },
+                                                        "color": {
+                                                            "background": "#ffffff00"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0730.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=bc8974c05b29597084233b81559a7c41",
+                                    "dimRatio": 30,
+                                    "focalPoint": {
+                                        "x": 0.48,
+                                        "y": 0.41
+                                    },
+                                    "minHeight": 251,
+                                    "minHeightUnit": "px",
+                                    "contentPosition": "bottom center",
+                                    "style": {
+                                        "color": []
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Baubles",
+                                            "textColor": "white",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.8",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400",
+                                                    "textTransform": "uppercase",
+                                                    "letterSpacing": "6px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "backgroundColor": "white"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "attributes": {
+                                            "layout": {
+                                                "type": "flex",
+                                                "flexWrap": "wrap",
+                                                "justifyContent": "center"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Shop Now",
+                                                    "textColor": "white",
+                                                    "fontSize": "small",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "typography": {
+                                                            "letterSpacing": "1.6px"
+                                                        },
+                                                        "color": {
+                                                            "background": "#ffffff00"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-420162-jpeg-scaled-1.jpg",
+                            "id": 3080,
+                            "dimRatio": 40,
+                            "minHeight": 100,
+                            "minHeightUnit": "vh",
+                            "align": "full"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Flowers</strong>",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "64px"
+                                        },
+                                        "color": {
+                                            "text": "#ffffff"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center",
+                                        "orientation": "horizontal"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "<strong>SHOP NOW</strong>",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ffffff"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-420225-jpeg-scaled-1.jpg",
+                            "id": 3081,
+                            "dimRatio": 40,
+                            "minHeight": 100,
+                            "minHeightUnit": "vh",
+                            "align": "full"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Seaweed</strong>",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "64px"
+                                        },
+                                        "color": {
+                                            "text": "#ffffff"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center",
+                                        "orientation": "horizontal"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "<strong>SHOP NOW</strong>",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#ffffff"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

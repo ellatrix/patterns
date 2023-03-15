@@ -1,0 +1,35 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "align": "full",
+            "mediaAlt": "Close-up, abstract view of architecture.",
+            "mediaUrl": "https://s.w.org/images/core/5.8/architecture-04.jpg",
+            "mediaType": "image",
+            "verticalAlignment": "center"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Open Spaces</strong>",
+                    "level": 3,
+                    "style": {
+                        "color": {
+                            "text": "#000000"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<a href=\"#\">See case study ↗</a>",
+                    "fontSize": "extra-small"
+                }
+            }
+        ]
+    }
+]

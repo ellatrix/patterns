@@ -1,0 +1,87 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "bottom",
+                    "width": "60%",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/pullquote",
+                        "attributes": {
+                            "value": "<strong>A truly unique artistic experience. Each piece in this exhibition is absolutely magical. Bravo!</strong>",
+                            "citation": "PHAM NGUYEN",
+                            "textAlign": "left",
+                            "backgroundColor": "black",
+                            "textColor": "white"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Buy your ticket</strong>",
+                            "anchor": "buy-your-ticket",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "32px",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Reserve a ticket today, before the exhibition sells out."
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Tickets →"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

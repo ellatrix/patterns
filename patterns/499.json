@@ -1,0 +1,154 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "text": "#000000",
+                    "background": "#e9e1da"
+                },
+                "elements": {
+                    "link": {
+                        "color": {
+                            "text": "#000000"
+                        }
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "1",
+                                    "fontSize": "huge"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Caterpillar",
+                                    "level": 3,
+                                    "fontSize": "extra-large"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "After hatching, the caterpillar is a voracious eater. It's common for it to double its size every few days."
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Learn more</a>"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "3em",
+                                        "right": "3em",
+                                        "bottom": "3em",
+                                        "left": "3em"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "2",
+                                    "fontSize": "huge"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Chrysalis",
+                                    "level": 3,
+                                    "fontSize": "extra-large"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "After a week or two, the caterpillar enters its pupal phase. It forms a hard outer shell called a chrysalis."
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Learn more</a>"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "6em"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "3",
+                                    "fontSize": "huge"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Butterfly",
+                                    "level": 3,
+                                    "fontSize": "extra-large"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Five to seven days after forming the chrysalis, a butterfly emerges and unfolds its wings. "
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Learn more</a>"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "10px"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

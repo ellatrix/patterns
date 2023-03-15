@@ -1,0 +1,647 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "bottom": "50px"
+                    }
+                },
+                "color": {
+                    "background": "#e7f1f7"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "100%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Our World Wide Offices",
+                                    "level": 5,
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "textTransform": "uppercase"
+                                        },
+                                        "color": {
+                                            "text": "#172646"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                    "style": {
+                                        "color": {
+                                            "text": "#172545d1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "align": "full",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "bottom": "2px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#55328b"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "<strong>New York</strong>",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/CWaE8t7Vycxnxqe58",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "linkTarget": "_blank",
+                                                            "rel": "noreferrer noopener",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#3d6f42"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "<strong>Washington</strong>",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/p81sUBZtgkjafRc66",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "linkTarget": "_blank",
+                                                            "rel": "noreferrer noopener",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#ffa737"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "<strong>Boston</strong>",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/FJnRr7tLCG8dd9Eh8",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "align": "full",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "20px",
+                                                "top": "2px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#e23d31"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Ahmedabad",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/BG7mavLucn61wAzRA",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "linkTarget": "_blank",
+                                                            "rel": "noreferrer noopener",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#182c45"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "<strong>Mumbai</strong>",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/BMryQm18HQv1DB7q6",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "linkTarget": "_blank",
+                                                            "rel": "noreferrer noopener",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "50px",
+                                                        "bottom": "50px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#2176ff"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Australia",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700",
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "26px",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.5"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "center"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "https://goo.gl/maps/8mxfF6sic1H4kjnd7",
+                                                            "text": "<strong>View Map</strong>",
+                                                            "linkTarget": "_blank",
+                                                            "rel": "noreferrer noopener",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff03"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "10px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

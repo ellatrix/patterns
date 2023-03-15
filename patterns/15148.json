@@ -1,0 +1,305 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "verticalAlignment": "center",
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "color": {
+                            "background": "#eeeeee"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "bottom": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "Basic",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "lineHeight": 1
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "$69",
+                            "textColor": "palette-1",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "60px",
+                                    "lineHeight": 0.8
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<em>Per week</em>"
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "backgroundColor": "palette-4",
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "☑ Home decorations<br>☑ Room planning<br>☒ <s>Custom furniture</s><br>☒ <s>Vases and pottery</s>"
+                        }
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "20px"
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "url": "#0",
+                                    "text": "Buy now",
+                                    "textColor": "black"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "backgroundColor": "luminous-vivid-amber",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "4em",
+                                "bottom": "4em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "Advanced",
+                            "textColor": "palette-5",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "lineHeight": 1
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "$149",
+                            "textColor": "palette-5",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "60px",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "lineHeight": 0.8
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<em>Per week</em>",
+                            "textColor": "palette-5"
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "backgroundColor": "palette-2",
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "☑ Home decorations<br>☑ Room planning<br>☑ Custom furniture<br>☒ <s>Vases and pottery</s>",
+                            "textColor": "palette-3"
+                        }
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "20px"
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "url": "#0",
+                                    "text": "Buy now",
+                                    "backgroundColor": "black",
+                                    "textColor": "white"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "color": {
+                            "background": "#eeeeee"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "bottom": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "Profi",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700",
+                                    "lineHeight": 1
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "$299",
+                            "textColor": "palette-1",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "60px",
+                                    "lineHeight": 0.8
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<em>Per week</em>",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": 1.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "backgroundColor": "palette-4",
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "☑ Home decorations<br>☑ Room planning<br>☑ Custom furniture<br>☑ Vases and pottery"
+                        }
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "20px"
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "url": "#0",
+                                    "text": "Buy now",
+                                    "textColor": "black"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

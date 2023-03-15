@@ -1,0 +1,164 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "blockGap": "10px",
+                    "margin": {
+                        "top": "30px",
+                        "bottom": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "Search through our catalog of posts.",
+                    "style": {
+                        "typography": {
+                            "fontStyle": "normal",
+                            "fontWeight": "800",
+                            "lineHeight": 1
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase."
+                }
+            },
+            {
+                "name": "core/search",
+                "attributes": {
+                    "label": "Search",
+                    "showLabel": false,
+                    "placeholder": "Enter search terms...",
+                    "width": 610,
+                    "widthUnit": "px",
+                    "buttonText": "Search",
+                    "buttonPosition": "button-inside",
+                    "buttonUseIcon": true,
+                    "align": "left",
+                    "borderColor": "primary",
+                    "style": {
+                        "border": {
+                            "radius": "51px"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/heading",
+        "attributes": {
+            "content": "Choose a topic",
+            "level": 4,
+            "fontSize": "medium",
+            "style": {
+                "typography": {
+                    "fontStyle": "normal",
+                    "fontWeight": "800"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/buttons",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "blockGap": "10px",
+                    "margin": {
+                        "top": "5px",
+                        "bottom": "30px"
+                    }
+                }
+            },
+            "layout": {
+                "type": "flex",
+                "flexWrap": "wrap",
+                "justifyContent": "left"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/button",
+                "attributes": {
+                    "url": "#",
+                    "text": "Category 1",
+                    "style": {
+                        "border": {
+                            "radius": "58px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "5px",
+                                "bottom": "5px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/button",
+                "attributes": {
+                    "url": "#",
+                    "text": "Category 2",
+                    "style": {
+                        "border": {
+                            "radius": "67px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "5px",
+                                "bottom": "5px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/button",
+                "attributes": {
+                    "url": "#",
+                    "text": "Category 3",
+                    "style": {
+                        "border": {
+                            "radius": "67px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "5px",
+                                "bottom": "5px"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/button",
+                "attributes": {
+                    "url": "#",
+                    "text": "Category 4",
+                    "style": {
+                        "border": {
+                            "radius": "62px"
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "5px",
+                                "bottom": "5px"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

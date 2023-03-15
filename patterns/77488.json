@@ -1,0 +1,159 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/min.jpg",
+            "id": 375,
+            "dimRatio": 50,
+            "focalPoint": {
+                "x": "0.50",
+                "y": "0.00"
+            },
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide",
+                    "backgroundColor": "white",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "100px",
+                                "bottom": "100px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/golden-sunset_181624-18805.jpg",
+                                    "id": 376,
+                                    "width": 255,
+                                    "height": 255,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "TRAVEL",
+                                    "level": 6,
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "100",
+                                            "letterSpacing": "5px",
+                                            "lineHeight": "1.5",
+                                            "fontSize": "60px"
+                                        },
+                                        "color": {
+                                            "text": "#111111"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong><strong>Pharetra magna ac placerat vestibulum lectus mauris ultrices. Ut pharetra sit amet aliquam id.</strong></strong>",
+                                    "level": 5,
+                                    "fontSize": "normal",
+                                    "style": {
+                                        "color": {
+                                            "text": "#808080"
+                                        },
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "900",
+                                            "lineHeight": "1.8"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Sollicitudin ac orci phasellus egestas tellus rutrum. Venenatis cras sed felis eget. Amet risus nullam eget felis eget nunc. Lacus vestibulum sed arcu non odio euismod. ",
+                                    "style": {
+                                        "color": {
+                                            "text": "#808080"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a target=\"_blank\" href=\"https://website485810.nicepage.io/Contact.html?version=df05ac26-bdab-4410-8379-833838df950b\" rel=\"noreferrer noopener\"></a><a target=\"_blank\" href=\"https://website485810.nicepage.io/Contact.html?version=df05ac26-bdab-4410-8379-833838df950b\" rel=\"noreferrer noopener\"></a><a target=\"_blank\" href=\"https://website485810.nicepage.io/Contact.html?version=df05ac26-bdab-4410-8379-833838df950b\" rel=\"noreferrer noopener\"></a>",
+                                    "style": {
+                                        "color": {
+                                            "text": "#808080"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "black",
+                                    "iconColorValue": "#000000",
+                                    "openInNewTab": true,
+                                    "size": "has-large-icon-size",
+                                    "align": "center",
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center",
+                                        "orientation": "horizontal"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://www.facebook.com/",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://twitter.com/",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://www.instagram.com/",
+                                            "service": "instagram"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

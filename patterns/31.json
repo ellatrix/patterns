@@ -1,0 +1,21 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {},
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "<span style=\"color:#ba0c49\" class=\"has-inline-color\"><strong>2</strong>.</span><br>Which treats of the first sally the ingenious Don Quixote made from home",
+                    "fontSize": "large"
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "right": "20px",
+                        "bottom": "40px",
+                        "left": "20px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(360deg,rgba(255,255,255,0) 23%,rgb(5,5,5) 23%)"
+                }
+            },
+            "layout": {
+                "wideSize": "1200px",
+                "contentSize": "1000px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "40px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "We Are Best",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "64px",
+                                            "lineHeight": 0.8,
+                                            "fontStyle": "normal",
+                                            "fontWeight": "600"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Digital Agency",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "64px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "600",
+                                            "lineHeight": 0.8
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "bottom": "40px"
+                                            }
+                                        },
+                                        "color": {
+                                            "text": "#e3a701"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "400"
+                                        },
+                                        "color": {
+                                            "text": "#b4b4b4"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Contact Us",
+                                            "textColor": "black",
+                                            "style": {
+                                                "border": {
+                                                    "radius": "50px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "12px",
+                                                        "bottom": "12px",
+                                                        "left": "40px",
+                                                        "right": "40px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "color": {
+                                                    "background": "#e3a701"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-651-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=acf83012e8429e286a63d350c5452485",
+                                    "width": 420,
+                                    "height": 600,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": {
+                                                "topLeft": "50em",
+                                                "topRight": "50em",
+                                                "bottomLeft": null,
+                                                "bottomRight": null
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://pd.w.org/2021/12/83261cb2b23b76048.23421582.jpg",
+            "dimRatio": 50,
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "100px",
+                        "right": "0px",
+                        "left": "0px"
+                    }
+                },
+                "color": {
+                    "duotone": [
+                        "rgb(0, 10, 98)",
+                        "rgb(190, 202, 255)"
+                    ]
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "layout": {
+                        "contentSize": "1280px",
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Services<br>We Offer",
+                                            "level": 1,
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "fontSize": "80px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "right",
+                                            "content": "• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/spacer",
+                        "attributes": {}
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "backgroundColor": "white",
+                                    "textColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "left",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-pd43-05-eye_1_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=17c46d1d6f85d33f2acbe37d5edf151d",
+                                            "width": 100,
+                                            "height": 100,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "rgb(62, 88, 225)",
+                                                        "rgb(255, 255, 255)"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">Service Title</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "fontSize": "24px",
+                                                    "textTransform": "uppercase"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "backgroundColor": "white",
+                                    "textColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "left",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-19-chim-02.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f7770b59c53df38c481dacaa06b7cc5f",
+                                            "width": 100,
+                                            "height": 100,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "rgb(62, 88, 225)",
+                                                        "rgb(255, 255, 255)"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">Service Title</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "fontSize": "24px",
+                                                    "textTransform": "uppercase"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "backgroundColor": "white",
+                                    "textColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "left",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-31-eye.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=47d800a56fe1c560cf36685009501737",
+                                            "width": 100,
+                                            "height": 100,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "rgb(62, 88, 225)",
+                                                        "rgb(255, 255, 255)"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">Service Title</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "fontSize": "24px",
+                                                    "textTransform": "uppercase"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "backgroundColor": "white",
+                                    "textColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "left",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0604-132-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=8e607d80878147ce00aeab397b61d9dc",
+                                            "width": 100,
+                                            "height": 100,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "color": {
+                                                    "duotone": [
+                                                        "rgb(62, 88, 225)",
+                                                        "rgb(255, 255, 255)"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">Service Title</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "fontSize": "24px",
+                                                    "textTransform": "uppercase"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "20px",
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

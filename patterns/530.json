@@ -1,0 +1,178 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/Wild_Flower_149652485-1.jpg",
+            "id": 531,
+            "dimRatio": 50,
+            "focalPoint": {
+                "x": "0.97",
+                "y": "0.93"
+            },
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "80px"
+                }
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "center",
+                    "url": "https://s.w.org/patterns/files/2021/06/4051848937_80b2e27c51_o-1021x1024-1-150x150.jpg",
+                    "id": 532,
+                    "width": 120,
+                    "height": 120,
+                    "sizeSlug": "thumbnail",
+                    "linkDestination": "none"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Peach Bloom</strong>",
+                    "style": {
+                        "typography": {
+                            "fontSize": "48px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "A Plant Podcast"
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "60px"
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center",
+                        "orientation": "horizontal"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Listen on iTunes",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#fefefe",
+                                    "text": "#111111"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Listen on Spotify",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#fefefe",
+                                    "text": "#111111"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Donate",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#fefefe",
+                                    "text": "#111111"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "About the Hosts",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#fefefe",
+                                    "text": "#111111"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "60px"
+                }
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "customIconColor": "#111111",
+                    "iconColorValue": "#111111",
+                    "customIconBackgroundColor": "#fefefe",
+                    "iconBackgroundColorValue": "#fefefe",
+                    "align": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://wordpress.org",
+                            "service": "wordpress"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://facebook.com",
+                            "service": "facebook"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://twitter.com",
+                            "service": "twitter"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://instagram.com",
+                            "service": "instagram"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "90px"
+                }
+            }
+        ]
+    }
+]

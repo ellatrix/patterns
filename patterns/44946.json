@@ -1,0 +1,76 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-542.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4c9a2d8a1e68f709b73336d6edd26d6b",
+                    "focalPoint": {
+                        "x": "0.50",
+                        "y": "0.00"
+                    },
+                    "minHeight": 90,
+                    "minHeightUnit": "vh",
+                    "customGradient": "linear-gradient(180deg,rgb(255,255,255) 8%,rgba(255,255,255,0) 8%)",
+                    "contentPosition": "top left",
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "5%",
+                                "bottom": "10%",
+                                "left": "5%"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Modern Design",
+                            "level": 1,
+                            "textColor": "black",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase",
+                                    "fontStyle": "normal",
+                                    "fontWeight": "500",
+                                    "lineHeight": "1",
+                                    "letterSpacing": "-0.05em",
+                                    "fontSize": "100px"
+                                },
+                                "spacing": {
+                                    "margin": {
+                                        "top": "0",
+                                        "right": "0",
+                                        "bottom": "0",
+                                        "left": "0"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

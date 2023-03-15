@@ -1,0 +1,241 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "align": "full",
+            "mediaPosition": "right",
+            "mediaId": 440,
+            "mediaType": "image",
+            "mediaUrl": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/image-1.png",
+            "mediaLink": "https://testingmayur.ussl.co.il/third-pattern/image-1/",
+            "mediaSizeSlug": "full",
+            "imageFill": false,
+            "backgroundColor": "white"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "ZARA WAS FOUNDED IN 1975",
+                    "placeholder": "Content…",
+                    "fontSize": "large",
+                    "style": {
+                        "color": {
+                            "text": "#858e99"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "New Collection"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Spring-Summer, 2022",
+                    "level": 6,
+                    "style": {
+                        "typography": {
+                            "fontStyle": "italic",
+                            "fontWeight": "600"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/buttons",
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "VIEW ALL",
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "align": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "5px",
+                                        "bottom": "5px",
+                                        "left": "40px",
+                                        "right": "40px"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "150px",
+                        "bottom": "100px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/179_2-1.png",
+                            "id": 444,
+                            "sizeSlug": "full",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "About New Collection"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Zara is a Spanish clothes and accessories brand, it is the flagship brand of the Inditex group.&nbsp;Few clothing brands keep up with the latest fashion, are of high quality and yet, affordable. It is probably the amalgamation of all these qualities that made Zara."
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "left"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "VIEW ALL",
+                                    "backgroundColor": "black",
+                                    "textColor": "white",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "6px",
+                                                "bottom": "6px",
+                                                "left": "40px",
+                                                "right": "40px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "black",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "100px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Zara is part of the biggest fashion company in the world"
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Zara is one of the world’s most successful fashion retail brands – if not the most successful one. With its dramatic introduction of the concept of “fast fashion” retail since it was founded in 1975 in Spain, Zara aspires to create responsible passion for fashion a broad spectrum of consumers, spread across different cultures and age groups."
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "left",
+                                "flexWrap": "wrap"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "READ ALL",
+                                    "backgroundColor": "white",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "6px",
+                                                "bottom": "6px",
+                                                "left": "40px",
+                                                "right": "40px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/New-Project-1024x1024.png",
+                            "id": 472,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

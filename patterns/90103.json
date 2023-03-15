@@ -1,0 +1,139 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "fontSize": "small",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "right": "80px",
+                        "bottom": "100px",
+                        "left": "80px"
+                    },
+                    "blockGap": "0px"
+                },
+                "color": {
+                    "gradient": "linear-gradient(360deg,rgb(255,255,255) 42%,rgb(0,0,0) 42%)"
+                }
+            },
+            "layout": {
+                "wideSize": "100%"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Adventures With Lorem Ipsum</strong>",
+                    "align": "wide",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "lineHeight": 2
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Looking Back on Love",
+                    "align": "wide",
+                    "textColor": "luminous-vivid-amber",
+                    "fontSize": "medium"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "100px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0159.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=70ee16211abf08751df43d4ef96d2cbb",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-oct18-033.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=70487222d70c25760a26b47da2d91646",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0308.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=40111256e224ac932f446f66d9236129",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0158.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=81db7591c3f006b266037d363ff339d9",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

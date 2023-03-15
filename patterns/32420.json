@@ -1,0 +1,222 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "130px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    }
+                },
+                "color": {
+                    "background": "#111111"
+                }
+            },
+            "layout": {
+                "contentSize": "1000px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "backgroundColor": "luminous-vivid-amber",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "16px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "16px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "right": "10%",
+                                                        "bottom": "30px",
+                                                        "left": "10%"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#111111"
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Gallery",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Vitae ultrices consectetuer feugiat leo ridiculus eleifend bibendum.",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "24px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column"
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column"
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "20px",
+                                        "bottom": "0px",
+                                        "left": "20px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet mattis. Penatibus hendrerit egestas commodo vel condimentum. Ultricies nulla himenaeos risus lectus gravida euismod condimentum.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {}
+            },
+            {
+                "name": "core/gallery",
+                "attributes": {
+                    "linkTo": "none",
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0833-pasta-fusilli-prepared-for-cooking1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6d8bcb2358053bd60bf1e0534bb31e14"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0393-pasta-asparagus.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7104f38452e51828c7f5c2a0d271922b"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0406-foodiesfeed.com-pasta-photos-circles-3_low.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=923b1e445174df1e101aaa5314393ee6"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0943-pasta-tagliatelle-asparagus-tomatoes.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=59f8072cca902a42d5bee6031e0795e1"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0919-pasta-fusilli-prepared-for-cooking.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3777c35a83e6ac39e3505822fe2222e5"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

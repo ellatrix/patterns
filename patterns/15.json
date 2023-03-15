@@ -1,0 +1,58 @@
+[
+    {
+        "name": "core/buttons",
+        "attributes": {
+            "layout": {
+                "type": "flex",
+                "justifyContent": "center"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/button",
+                "attributes": {
+                    "text": "About Cervantes",
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(135deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)",
+                            "text": "#fffffa"
+                        },
+                        "border": {
+                            "radius": "50px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/button",
+                "attributes": {
+                    "text": "Contact us",
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(317deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)",
+                            "text": "#fffffa"
+                        },
+                        "border": {
+                            "radius": "50px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/button",
+                "attributes": {
+                    "text": "Books",
+                    "style": {
+                        "color": {
+                            "gradient": "linear-gradient(42deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)",
+                            "text": "#fffffa"
+                        },
+                        "border": {
+                            "radius": "50px"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

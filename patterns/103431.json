@@ -1,0 +1,357 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "right": "15px",
+                        "left": "15px",
+                        "top": "100px",
+                        "bottom": "100px"
+                    }
+                },
+                "border": {
+                    "radius": "10px"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#ffb25900"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "border": {
+                                                    "radius": "15px"
+                                                },
+                                                "color": {
+                                                    "background": "#f86635"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "contentSize": ""
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://i.postimg.cc/q7Nq6pvs/Affiliate-Marketing.png",
+                                                    "alt": "Team Accounts",
+                                                    "width": 50,
+                                                    "height": 50,
+                                                    "sizeSlug": "full",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Team Accounts",
+                                                    "level": 5,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "18px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#ffffffc9"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#ffb25900"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "5%"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "border": {
+                                                    "radius": "15px"
+                                                },
+                                                "color": {
+                                                    "background": "#001733"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "contentSize": ""
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://i.postimg.cc/d3n1b30y/Email-Blast.png",
+                                                    "alt": "Team Accounts",
+                                                    "width": 50,
+                                                    "height": 50,
+                                                    "sizeSlug": "full",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "Email Marketing",
+                                                    "level": 5,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "18px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#ffffffc9"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#ffb25900"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "border": {
+                                                    "radius": "15px"
+                                                },
+                                                "color": {
+                                                    "background": "#01808c"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "contentSize": ""
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://i.postimg.cc/bJgpJMjX/Budget-promotion.png",
+                                                    "alt": "Team Accounts",
+                                                    "width": 50,
+                                                    "height": 50,
+                                                    "sizeSlug": "full",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": "API Reference",
+                                                    "level": 5,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "18px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#ffffffc9"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#ffb25900"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "5%"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "border": {
+                                                    "radius": "15px"
+                                                },
+                                                "color": {
+                                                    "background": "#7854f7"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "contentSize": ""
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "url": "https://i.postimg.cc/3JtMvp6G/Smartphone-Marketing.png",
+                                                    "alt": "Team Accounts",
+                                                    "width": 50,
+                                                    "height": 50,
+                                                    "sizeSlug": "full",
+                                                    "linkDestination": "none"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "center",
+                                                    "content": " Strategy",
+                                                    "level": 5,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "textTransform": "uppercase",
+                                                            "fontSize": "18px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "center",
+                                                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
+                                                    "style": {
+                                                        "color": {
+                                                            "text": "#ffffffc9"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

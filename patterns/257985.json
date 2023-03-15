@@ -1,0 +1,702 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "customOverlayColor": "#151920",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "right": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "15px",
+                                "left": "15px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained",
+                        "contentSize": "1080px"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "30px",
+                                        "left": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    },
+                                    "blockGap": {
+                                        "top": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong>Our Process</strong>",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "italic",
+                                                    "fontWeight": "500",
+                                                    "fontSize": "22px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#c59d5f"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong>Healthy &amp;&nbsp;Improves Your Mood</strong>",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "fontSize": "32px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/separator",
+                                        "attributes": {
+                                            "style": {
+                                                "color": {
+                                                    "background": "#c59d5f"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "bottom": "40px",
+                                        "right": "0px",
+                                        "left": "0px",
+                                        "top": "40px"
+                                    },
+                                    "blockGap": {
+                                        "top": "10px",
+                                        "left": "10px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "backgroundColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "0px",
+                                            "padding": {
+                                                "right": "10px",
+                                                "left": "10px",
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/r-icons-5.png",
+                                                            "width": 75,
+                                                            "height": 75,
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "verticalAlignment": "center"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "01",
+                                                            "fontSize": "x-large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "text": "#70767a"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Clean Bar",
+                                            "level": 4,
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "22px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "12px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#ababab"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/clean-bar-1.jpg",
+                                            "width": 405,
+                                            "height": 95,
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "backgroundColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "0px",
+                                            "padding": {
+                                                "right": "10px",
+                                                "left": "10px",
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/restaurant-1.png",
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "verticalAlignment": "center"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "02",
+                                                            "fontSize": "x-large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "text": "#70767a"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Skilled Chefs",
+                                            "level": 4,
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "22px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "12px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#ababab"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/great-chefs-1.jpg",
+                                            "width": 406,
+                                            "height": 95,
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "backgroundColor": "black",
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "0px",
+                                            "padding": {
+                                                "right": "10px",
+                                                "left": "10px",
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/r-icons-6.png",
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "verticalAlignment": "center"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "03",
+                                                            "fontSize": "x-large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "text": "#70767a"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Fresh Products",
+                                            "level": 4,
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "22px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": 1.3,
+                                                    "fontSize": "12px",
+                                                    "textTransform": "capitalize",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#ababab"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/healthy-foods1-1.jpg",
+                                            "width": 406,
+                                            "height": 95,
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "bottom": "40px",
+                                        "right": "0px",
+                                        "left": "0px",
+                                        "top": "40px"
+                                    },
+                                    "blockGap": {
+                                        "top": "10px",
+                                        "left": "10px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "12%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "right",
+                                            "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/elementor/thumbs/meat-1-1-pwvftov0oevxravsmeoqvlhq2qbgpb6hp2zlxoppyg.png",
+                                            "sizeSlug": "large",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "65%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "We Have 5+ Years of Experience, Give Better Quality",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "22px"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Perspiciatis unde omnis iste natus error sit voluptatem laudantium, totam rem, eaque ipsa",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400",
+                                                    "fontSize": "14px"
+                                                },
+                                                "color": {
+                                                    "text": "#ababab"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "2px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "23%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "text": "Contact Us",
+                                                    "style": {
+                                                        "border": {
+                                                            "radius": "0px"
+                                                        },
+                                                        "color": {
+                                                            "background": "#c59d5f"
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "18px"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

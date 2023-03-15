@@ -1,0 +1,278 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "style": {
+                        "color": {
+                            "background": "#eee9e5"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "customOverlayColor": "#eee9e5",
+                            "contentPosition": "center center",
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "40px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Quotes-1-683x1024.jpg",
+                                    "alt": "Image of lotus flower bud.",
+                                    "id": 510,
+                                    "width": 200,
+                                    "height": 300,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Just an ounce of prevention makes perfect.</strong>",
+                                    "style": {
+                                        "color": {
+                                            "text": "#4c3843"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "— Margarit Avagyan",
+                                    "style": {
+                                        "color": {
+                                            "text": "#4c3843"
+                                        },
+                                        "typography": {
+                                            "fontSize": "14px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css",
+                                    "style": {
+                                        "color": {
+                                            "background": "#ceaf9b"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "style": {
+                        "color": {
+                            "background": "#e3ead2"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "customOverlayColor": "#e3ead2",
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "40px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Quotes-2-683x1024.jpg",
+                                    "alt": "Image of lotus flowers.",
+                                    "id": 509,
+                                    "width": 200,
+                                    "height": 300,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Curiosity is as good as a wink to a blind horse.</strong>",
+                                    "style": {
+                                        "color": {
+                                            "text": "#535148"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "— Rūta Eglītis",
+                                    "style": {
+                                        "color": {
+                                            "text": "#535148"
+                                        },
+                                        "typography": {
+                                            "fontSize": "14px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css",
+                                    "style": {
+                                        "color": {
+                                            "background": "#a3ba6c"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "style": {
+                        "color": {
+                            "background": "#eee7ce"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "customOverlayColor": "#eee7ce",
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "40px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Quotes-3-683x1024.jpg",
+                                    "alt": "Image of lotus flower.",
+                                    "id": 511,
+                                    "width": 200,
+                                    "height": 300,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "5px"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Wednesday's child is certain to have nine lives.</strong>",
+                                    "style": {
+                                        "color": {
+                                            "text": "#54483d"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "— Nevra Badem",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "14px"
+                                        },
+                                        "color": {
+                                            "text": "#54483d"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css",
+                                    "style": {
+                                        "color": {
+                                            "background": "#ccb974"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

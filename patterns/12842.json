@@ -1,0 +1,118 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide",
+            "textColor": "white",
+            "style": {
+                "color": {
+                    "gradient": "linear-gradient(135deg,rgb(0,0,0) 90%,rgba(0,0,0,0) 90%)"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "4em",
+                        "bottom": "4em",
+                        "right": "2em",
+                        "left": "2em"
+                    }
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "68%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "6%"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Get In Touch",
+                                    "fontSize": "extra-large",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Why hesitate? Jump on the opportunity to make your project stand out of the crowd! Let's work together."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "Contact Me →",
+                                            "textColor": "black",
+                                            "style": {
+                                                "border": {
+                                                    "radius": "100px"
+                                                },
+                                                "color": {
+                                                    "background": "#ff4747"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0603-015-jj_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f005f73247220587cb82a92900008e13",
+                                    "alt": "Vintage hare illustration",
+                                    "width": 160,
+                                    "height": 160,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "color": {
+                                            "duotone": [
+                                                "#000097",
+                                                "#ff4747"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

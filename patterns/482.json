@@ -1,0 +1,131 @@
+[
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "<em>Introducing</em>",
+            "style": {
+                "color": {
+                    "text": "#050c35"
+                },
+                "typography": {
+                    "lineHeight": "1",
+                    "fontSize": "20px"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "Ukiyo-e Prints",
+            "style": {
+                "typography": {
+                    "fontSize": "96px",
+                    "lineHeight": "1"
+                },
+                "color": {
+                    "text": "#050c35"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "Printed in Tokyo, Japan and made of <br>100% organic cotton rag paper. <br>Available for a limited time.",
+            "style": {
+                "color": {
+                    "text": "#050c35"
+                },
+                "typography": {
+                    "fontSize": "22px"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "30px"
+        }
+    },
+    {
+        "name": "core/buttons",
+        "attributes": {
+            "layout": {
+                "type": "flex",
+                "justifyContent": "center",
+                "orientation": "horizontal"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/button",
+                "attributes": {
+                    "text": "Shop Now",
+                    "style": {
+                        "color": {
+                            "background": "#050c35"
+                        },
+                        "border": {
+                            "radius": 0
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "60px"
+        }
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/spacer",
+                        "attributes": {
+                            "height": "90px"
+                        }
+                    },
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-525466-jpeg-684x1024-1.jpg",
+                            "alt": "Japanese woodblock print of shapes by Taguchi Tomoki",
+                            "id": 3072,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-525439-jpeg-684x1024-1.jpg",
+                            "alt": "Japanese woodblock print of shapes by Taguchi Tomoki",
+                            "id": 3071,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

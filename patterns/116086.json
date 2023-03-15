@@ -1,0 +1,206 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "layout": {
+                "wideSize": "1200px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8783.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6945c5434af9266e1389e693eb695dc6",
+                    "dimRatio": 50,
+                    "customOverlayColor": "#323232",
+                    "isDark": false,
+                    "align": "full",
+                    "style": {
+                        "color": {
+                            "duotone": [
+                                "#000000",
+                                "#00a5ff"
+                            ]
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "40px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "inherit": false,
+                                "wideSize": ""
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "width": "50%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/columns",
+                                                "attributes": {},
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/column",
+                                                        "attributes": {
+                                                            "verticalAlignment": "center",
+                                                            "style": {
+                                                                "border": {
+                                                                    "top": {
+                                                                        "color": "#ffffff78",
+                                                                        "width": "2px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/spacer",
+                                                                "attributes": {
+                                                                    "height": "20px"
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "core/image",
+                                                                "attributes": {
+                                                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8832.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=81b80c4b527f7afa9ceed195f02d27f3",
+                                                                    "sizeSlug": "full",
+                                                                    "linkDestination": "none"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "name": "core/column",
+                                                        "attributes": {
+                                                            "style": {
+                                                                "border": {
+                                                                    "bottom": {
+                                                                        "color": "#ffffff78",
+                                                                        "width": "2px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/image",
+                                                                "attributes": {
+                                                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0248.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6ca008ffc32a5ea17ae3aa6208fb2af4",
+                                                                    "sizeSlug": "full",
+                                                                    "linkDestination": "none"
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "core/spacer",
+                                                                "attributes": {
+                                                                    "height": "20px"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "width": "50%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "right",
+                                                    "content": "YOUR TITLE HERE",
+                                                    "level": 3,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "600"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "align": "right",
+                                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non metus rhoncus, rhoncus dui id, ullamcorper tellus. Maecenas tincidunt dignissim lacinia.",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "18px"
+                                                        },
+                                                        "color": {
+                                                            "text": "#d8d8d8"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "right",
+                                                        "orientation": "horizontal",
+                                                        "flexWrap": "nowrap"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Button Text",
+                                                            "backgroundColor": "white",
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": {
+                                                                        "bottomLeft": "50px",
+                                                                        "bottomRight": "50px",
+                                                                        "topLeft": "50px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "text": "#102a40"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

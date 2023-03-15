@@ -1,0 +1,101 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "mediaPosition": "right",
+            "mediaType": "image",
+            "mediaWidth": 49,
+            "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-425-tong-calypte-anna-columbian-humming-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=98d2bd15da0cdcbecafd46b007c86573",
+            "linkDestination": "none",
+            "verticalAlignment": "bottom",
+            "style": {
+                "color": {
+                    "background": "#ffffff",
+                    "text": "#000000"
+                },
+                "elements": {
+                    "link": {
+                        "color": {
+                            "text": "#000000"
+                        }
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "60px"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "Contact us",
+                    "style": {
+                        "typography": {
+                            "fontWeight": "700",
+                            "fontSize": "3em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "1111 Seabury Heights, South Australia, Australia",
+                    "style": {
+                        "typography": {
+                            "fontSize": "1.1em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "Phone: +1<br>Email: <a href=\"mailto:example@example.com\" data-type=\"mailto\" data-id=\"mailto:example@example.com\">email@email.com</a>",
+                    "style": {
+                        "typography": {
+                            "fontSize": "1.1em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "customIconColor": "#FFFFFF",
+                    "iconColorValue": "#FFFFFF",
+                    "customIconBackgroundColor": "#000000",
+                    "iconBackgroundColorValue": "#000000",
+                    "size": "has-normal-icon-size"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://facebook.com",
+                            "service": "facebook"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://instagram.com",
+                            "service": "instagram"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://twitter.com",
+                            "service": "twitter"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "mediaPosition": "right",
+            "mediaId": 5263,
+            "mediaType": "image",
+            "mediaUrl": "https://s.w.org/patterns/files/2021/06/pear-1-1024x1024.png",
+            "mediaLink": "https://wordpress.org/patterns/pattern/image-and-quote-on-a-background/pear-3/",
+            "verticalAlignment": "center",
+            "style": {
+                "color": {
+                    "background": "#f1f5c7"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>Even the bitterest fruit has sugar in it.</strong>",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.2",
+                                    "fontSize": "36px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "– Terry a O'Neal",
+                            "fontSize": "extra-small"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "mediaId": 673,
+            "mediaUrl": "https://s.w.org/patterns/files/2021/06/pear-half-1024x1024.png",
+            "mediaLink": "https://wordpress.org/patterns/pear-half/",
+            "mediaType": "image",
+            "verticalAlignment": "center",
+            "style": {
+                "color": {
+                    "background": "#fffdea"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>The trees that are slow to grow bear the best fruit.</strong>",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.2",
+                                    "fontSize": "36px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "– Molière",
+                            "fontSize": "extra-small"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

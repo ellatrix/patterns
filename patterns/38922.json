@@ -1,0 +1,600 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    },
+                    "blockGap": "0px",
+                    "padding": {
+                        "right": "15px",
+                        "left": "15px",
+                        "bottom": "40px",
+                        "top": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "550px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Recent blog Post",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "600",
+                                            "fontSize": "40px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "15px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "right": "30px",
+                        "left": "30px",
+                        "top": "0px",
+                        "bottom": "0px"
+                    },
+                    "blockGap": "0px",
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1170px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "radius": {
+                                                "bottomLeft": "15px",
+                                                "bottomRight": "15px",
+                                                "topLeft": "15px",
+                                                "topRight": "15px"
+                                            },
+                                            "style": "solid",
+                                            "width": "1px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "35px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-684.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f205a7e00d65b4c29072aa1abe420c6b",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "15px",
+                                                        "bottomLeft": null,
+                                                        "bottomRight": null
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Dec. 09, 20203 Comments",
+                                            "level": 6,
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "30px",
+                                                        "right": "20px",
+                                                        "bottom": "0px",
+                                                        "left": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum is simply dummy text",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "26px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "right": "20px",
+                                                        "left": "20px",
+                                                        "top": "10px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "left": "20px",
+                                                        "right": "20px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between",
+                                                        "orientation": "horizontal",
+                                                        "flexWrap": "nowrap"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#32a602"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "style": "solid",
+                                            "width": "1px",
+                                            "radius": {
+                                                "topLeft": "15px",
+                                                "topRight": "15px",
+                                                "bottomLeft": "15px",
+                                                "bottomRight": "15px"
+                                            }
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "35px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-24525a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1fa3268525b62d094b11aeeff2f0b271",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "15px",
+                                                        "bottomLeft": null,
+                                                        "bottomRight": null
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Dec. 09, 20203 Comments",
+                                            "level": 6,
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "right": "20px",
+                                                        "left": "20px",
+                                                        "top": "30px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum is simply dummy text",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "26px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "right": "20px",
+                                                        "left": "20px",
+                                                        "top": "10px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "20px",
+                                                        "left": "20px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "background": "#32a602"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "style": "solid",
+                                            "radius": {
+                                                "topLeft": "15px",
+                                                "topRight": "15px",
+                                                "bottomLeft": "15px",
+                                                "bottomRight": "15px"
+                                            },
+                                            "width": "1px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "35px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-201107210002hq.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee99aedf415952ed5f56b876439597f6",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "15px",
+                                                        "bottomLeft": null,
+                                                        "bottomRight": null
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Dec. 09, 20203 Comments",
+                                            "level": 6,
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "400"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "right": "20px",
+                                                        "left": "20px",
+                                                        "top": "30px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Lorem Ipsum is simply dummy text",
+                                            "level": 4,
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "26px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "right": "20px",
+                                                        "left": "20px",
+                                                        "top": "10px",
+                                                        "bottom": "30px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "20px",
+                                                        "left": "20px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "color": {
+                                                                    "background": "#32a602"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

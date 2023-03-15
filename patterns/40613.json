@@ -1,0 +1,742 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "bottom": "50px",
+                        "right": "30px",
+                        "left": "30px"
+                    },
+                    "blockGap": "0px",
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "inherit": false,
+                "contentSize": "1170px",
+                "wideSize": "100%",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "textColor": "black",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "bottom": "20px",
+                                "top": "0px",
+                                "right": "0px",
+                                "left": "0px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "contentSize": "550px",
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    },
+                                    "blockGap": {
+                                        "top": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Featured Product",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "textTransform": "capitalize",
+                                                    "fontSize": "50px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "10px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "30px",
+                                "left": "0px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    },
+                                    "blockGap": {
+                                        "top": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "blockGap": "0px"
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "570px"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "blockGap": "30px"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between",
+                                                        "orientation": "horizontal"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "All",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "5px",
+                                                                        "right": "15px",
+                                                                        "bottom": "5px",
+                                                                        "left": "15px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Vegetables",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px",
+                                                                        "right": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Fast Food",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px",
+                                                                        "right": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Fresh Meat",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Fruits",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Grocer",
+                                                            "backgroundColor": "white",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "50px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0265-paleo-ground-beef-vegetables.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=387b8c21f58dd12ae61f44866f28b6e2",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "lorem Ipsum test",
+                                    "level": 4,
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "bottom": "0px",
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "left": "0px"
+                                            },
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "20px",
+                                                "left": "0px"
+                                            }
+                                        },
+                                        "typography": {
+                                            "fontSize": "24px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "$35.00",
+                                    "level": 6,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "900"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0875-pork-meat-with-green-vegetables.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=5b12921f1ab9aea3b3fd4b63b824f08f",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "lorem ipsum test",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "24px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "20px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "$28.00",
+                                    "level": 6,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "900"
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0567-paleo-ground-beef-vegetables1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=730d19ef2b9b9068117ba973d3c7d3aa",
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "lorem ipsum text",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "24px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "20px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "$30.00",
+                                    "level": 6,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "900"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained",
+                        "contentSize": "155px"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    },
+                                    "blockGap": "0px"
+                                }
+                            },
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "View All",
+                                    "textColor": "white",
+                                    "style": {
+                                        "color": {
+                                            "background": "#599400"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "13px",
+                                                "bottom": "13px",
+                                                "left": "45px",
+                                                "right": "45px"
+                                            }
+                                        },
+                                        "border": {
+                                            "radius": "50px"
+                                        },
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

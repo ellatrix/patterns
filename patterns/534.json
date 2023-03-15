@@ -1,0 +1,150 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "minHeight": 100,
+            "minHeightUnit": "vh",
+            "customGradient": "linear-gradient(135deg,rgb(244,237,225) 0%,rgb(178,191,173) 100%)",
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "80px"
+                }
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "center",
+                    "url": "https://s.w.org/patterns/files/2021/06/Solar-Eclipse.jpg",
+                    "id": 533,
+                    "width": 120,
+                    "height": 120,
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Solar Eclipse</strong>",
+                    "style": {
+                        "typography": {
+                            "fontSize": "48px"
+                        },
+                        "color": {
+                            "text": "#111111"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "60px"
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center",
+                        "orientation": "horizontal"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Watch my videos",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#111111",
+                                    "text": "#fefefe"
+                                },
+                                "border": {
+                                    "radius": "6px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Buy prints of my work",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#111111",
+                                    "text": "#fefefe"
+                                },
+                                "border": {
+                                    "radius": "6px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "My wish list",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#111111",
+                                    "text": "#fefefe"
+                                },
+                                "border": {
+                                    "radius": "6px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Follow me on Twitter",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#111111",
+                                    "text": "#fefefe"
+                                },
+                                "border": {
+                                    "radius": "6px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Visit my Instagram",
+                            "width": 100,
+                            "style": {
+                                "color": {
+                                    "background": "#111111",
+                                    "text": "#fefefe"
+                                },
+                                "border": {
+                                    "radius": "6px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "90px"
+                }
+            }
+        ]
+    }
+]

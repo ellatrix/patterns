@@ -1,0 +1,445 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjM3NDk4LWltYWdlLWt3dnhzZWs5LmpwZw.jpg",
+            "dimRatio": 80,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "blockGap": "0px",
+                            "padding": {
+                                "top": "0px",
+                                "right": "30px",
+                                "bottom": "0px",
+                                "left": "30px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained",
+                        "contentSize": "1280px"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "full"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "blockGap": {
+                                                        "top": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/group",
+                                                        "attributes": {
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "15px",
+                                                                    "color": "#1900d8",
+                                                                    "width": "1px"
+                                                                },
+                                                                "spacing": {
+                                                                    "blockGap": "0px",
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "bottom": "40px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "40px",
+                                                                        "right": "10px",
+                                                                        "bottom": "40px",
+                                                                        "left": "10px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "gradient": "linear-gradient(135deg,rgb(25,0,216) 19%,rgba(151,119,209,0) 20%,rgba(207,41,185,0) 40%,rgba(237,43,130,0.09) 60%,rgba(250,105,97,0) 80%,rgba(25,0,217,0) 86%,rgba(25,0,217,0) 100%)"
+                                                                }
+                                                            },
+                                                            "layout": {
+                                                                "type": "constrained"
+                                                            }
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/image",
+                                                                "attributes": {
+                                                                    "align": "center",
+                                                                    "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
+                                                                    "width": 85,
+                                                                    "height": 85,
+                                                                    "sizeSlug": "large",
+                                                                    "style": {
+                                                                        "color": {
+                                                                            "duotone": [
+                                                                                "#ffffff",
+                                                                                "#ffa96b"
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "core/heading",
+                                                                "attributes": {
+                                                                    "textAlign": "center",
+                                                                    "content": "+91 1234567891",
+                                                                    "level": 3,
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "20px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            },
+                                                                            "margin": {
+                                                                                "top": "0px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "capitalize",
+                                                                            "fontStyle": "normal",
+                                                                            "fontWeight": "600",
+                                                                            "fontSize": "18px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "name": "core/group",
+                                                        "attributes": {
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "15px",
+                                                                    "color": "#1900d8",
+                                                                    "width": "1px"
+                                                                },
+                                                                "spacing": {
+                                                                    "blockGap": "0px",
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "40px",
+                                                                        "right": "10px",
+                                                                        "bottom": "40px",
+                                                                        "left": "10px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "gradient": "linear-gradient(135deg,rgb(25,0,216) 19%,rgba(151,119,209,0) 20%,rgba(207,41,185,0) 40%,rgba(237,43,130,0) 60%,rgba(250,105,97,0) 80%,rgba(255,249,77,0.15) 100%)"
+                                                                }
+                                                            },
+                                                            "layout": {
+                                                                "type": "constrained"
+                                                            }
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/image",
+                                                                "attributes": {
+                                                                    "align": "center",
+                                                                    "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
+                                                                    "width": 85,
+                                                                    "height": 85,
+                                                                    "sizeSlug": "large",
+                                                                    "style": {
+                                                                        "color": {
+                                                                            "duotone": [
+                                                                                "#ffffff",
+                                                                                "#ffa96b"
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "core/heading",
+                                                                "attributes": {
+                                                                    "textAlign": "center",
+                                                                    "content": "A-10, city road",
+                                                                    "level": 3,
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "20px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            },
+                                                                            "margin": {
+                                                                                "top": "0px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "capitalize",
+                                                                            "fontStyle": "normal",
+                                                                            "fontWeight": "600",
+                                                                            "fontSize": "18px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "110px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px"
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/group",
+                                                        "attributes": {
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "15px",
+                                                                    "color": "#1900d8",
+                                                                    "width": "1px"
+                                                                },
+                                                                "spacing": {
+                                                                    "blockGap": "0px",
+                                                                    "margin": {
+                                                                        "top": "0px",
+                                                                        "bottom": "0px"
+                                                                    },
+                                                                    "padding": {
+                                                                        "top": "40px",
+                                                                        "right": "10px",
+                                                                        "bottom": "40px",
+                                                                        "left": "10px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "gradient": "linear-gradient(135deg,rgb(25,0,216) 18%,rgba(151,119,209,0) 20%,rgba(207,41,185,0) 40%,rgba(237,43,130,0) 60%,rgba(250,105,97,0) 80%,rgba(25,0,217,0.25) 100%)"
+                                                                }
+                                                            },
+                                                            "layout": {
+                                                                "type": "constrained"
+                                                            }
+                                                        },
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/image",
+                                                                "attributes": {
+                                                                    "align": "center",
+                                                                    "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
+                                                                    "width": 85,
+                                                                    "height": 85,
+                                                                    "style": {
+                                                                        "color": {
+                                                                            "duotone": [
+                                                                                "#ffffff",
+                                                                                "#ffa96b"
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                }
+                                                            },
+                                                            {
+                                                                "name": "core/heading",
+                                                                "attributes": {
+                                                                    "textAlign": "center",
+                                                                    "content": "abc@gmail.com",
+                                                                    "level": 3,
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "20px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            },
+                                                                            "margin": {
+                                                                                "top": "0px",
+                                                                                "right": "0px",
+                                                                                "bottom": "0px",
+                                                                                "left": "0px"
+                                                                            }
+                                                                        },
+                                                                        "typography": {
+                                                                            "textTransform": "capitalize",
+                                                                            "fontStyle": "normal",
+                                                                            "fontWeight": "600",
+                                                                            "fontSize": "18px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "layout": {
+                                                "type": "constrained"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Contact Us",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        },
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "600",
+                                                            "lineHeight": "1.3"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "We are happy to help you",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "700"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "35px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Contrary to popular belief, Lorem Ipsum is not simply.",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "40px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "18px",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "500"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

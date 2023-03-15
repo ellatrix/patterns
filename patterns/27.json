@@ -1,0 +1,41 @@
+[
+    {
+        "name": "core/separator",
+        "attributes": {
+            "opacity": "css"
+        }
+    },
+    {
+        "name": "core/image",
+        "attributes": {
+            "align": "center",
+            "url": "https://s.w.org/images/core/5.8/portrait.jpg",
+            "alt": "A side profile of a woman in a russet-colored turtleneck and white bag. She looks up with her eyes closed.",
+            "width": 150,
+            "height": 150,
+            "sizeSlug": "large",
+            "linkDestination": "none"
+        }
+    },
+    {
+        "name": "core/quote",
+        "attributes": {
+            "citation": "— Anna Wong, <em>Volunteer</em>",
+            "align": "center"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "\"Contributing makes me feel like I'm being useful to the planet.\""
+                }
+            }
+        ]
+    },
+    {
+        "name": "core/separator",
+        "attributes": {
+            "opacity": "css"
+        }
+    }
+]

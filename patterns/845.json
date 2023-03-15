@@ -1,0 +1,77 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/Apollo.jpg",
+            "id": 843,
+            "dimRatio": 0,
+            "focalPoint": {
+                "x": 0.5,
+                "y": "0.50"
+            },
+            "minHeight": 853,
+            "minHeightUnit": "px",
+            "isDark": false,
+            "style": {
+                "color": []
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "40px"
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>TRAVELOGUE EP. 5</strong>",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "18px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "2px"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<a href=\"http://example-post\" data-type=\"URL\" data-id=\"example-post\">One small step</a>",
+                    "anchor": "one-small-step",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "48px",
+                            "lineHeight": "1.3"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "460px"
+                }
+            },
+            {
+                "name": "core/audio",
+                "attributes": {
+                    "src": "https://s.w.org/patterns/files/2021/06/one-small-step-short.mp3",
+                    "id": 844,
+                    "autoplay": false,
+                    "loop": false
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "layout": {
+                "type": "flex",
+                "justifyContent": "center"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://images.unsplash.com/photo-1609743522653-52354461eb27",
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Oh No! Error 404"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Sorry, the page you're looking for couldn't be found.",
+                                    "level": 4
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Back to Homepage",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "bottom": "10px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Get in Touch",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "bottom": "10px",
+                                                        "left": "15px",
+                                                        "right": "15px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

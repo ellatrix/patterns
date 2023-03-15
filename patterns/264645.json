@@ -1,0 +1,575 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "overlayColor": "black",
+            "align": "full",
+            "style": {
+                "color": {
+                    "duotone": [
+                        "#a60072",
+                        "#67ff66"
+                    ]
+                },
+                "spacing": {
+                    "padding": {
+                        "bottom": "0"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "A Bit About Me",
+                    "style": {
+                        "typography": {
+                            "textTransform": "uppercase",
+                            "fontSize": "12px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Who Am I?",
+                    "textColor": "luminous-vivid-orange",
+                    "style": {
+                        "typography": {
+                            "textTransform": "none",
+                            "fontSize": "34px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "center",
+                    "url": "https://sialifehospital.com/wp-content/uploads/2021/04/testimonial-1.png",
+                    "width": 161,
+                    "height": 161,
+                    "sizeSlug": "large",
+                    "linkDestination": "none"
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+                    "style": {
+                        "typography": {
+                            "fontSize": "18px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "iconColor": "luminous-vivid-orange",
+                    "iconColorValue": "#ff6900",
+                    "align": "center",
+                    "layout": {
+                        "type": "flex",
+                        "orientation": "horizontal",
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "#",
+                            "service": "facebook",
+                            "label": "#"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "#",
+                            "service": "linkedin",
+                            "label": "#"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "#",
+                            "service": "twitter",
+                            "label": "#"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "50px",
+                                "right": "20px",
+                                "bottom": "50px",
+                                "left": "20px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "default"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.3%",
+                                    "style": {
+                                        "visualizers": {
+                                            "padding": {
+                                                "bottom": true
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "top": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "right": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "bottom": {
+                                                                "color": "var:preset|color|luminous-vivid-orange",
+                                                                "width": "5px"
+                                                            },
+                                                            "left": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            }
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "var:preset|spacing|50",
+                                                                "right": "0",
+                                                                "bottom": "var:preset|spacing|50",
+                                                                "left": "var:preset|spacing|50"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/offline_support_icon.svg",
+                                                            "width": 40,
+                                                            "height": 48,
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>Team Leader</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>More</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textDecoration": "underline",
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "5px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.3%",
+                                    "style": {
+                                        "visualizers": {
+                                            "padding": {
+                                                "bottom": true
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "top": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "right": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "bottom": {
+                                                                "color": "var:preset|color|luminous-vivid-orange",
+                                                                "width": "5px"
+                                                            },
+                                                            "left": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            }
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "var:preset|spacing|50",
+                                                                "right": "0",
+                                                                "bottom": "var:preset|spacing|50",
+                                                                "left": "var:preset|spacing|50"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/setting_icon.svg",
+                                                            "width": 40,
+                                                            "height": 40,
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>Tester</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>More</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textDecoration": "underline",
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "5px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.3%",
+                                    "style": {
+                                        "visualizers": {
+                                            "padding": {
+                                                "bottom": true
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "top": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "right": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "bottom": {
+                                                                "color": "var:preset|color|luminous-vivid-orange",
+                                                                "width": "5px"
+                                                            },
+                                                            "left": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            }
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "var:preset|spacing|50",
+                                                                "right": "0",
+                                                                "bottom": "var:preset|spacing|50",
+                                                                "left": "var:preset|spacing|50"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/extra_task_icon.svg",
+                                                            "width": 40,
+                                                            "height": 40,
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>UI / UX</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>More</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textDecoration": "underline",
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "5px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center",
+                                    "width": "33.3%",
+                                    "style": {
+                                        "visualizers": {
+                                            "padding": {
+                                                "bottom": true
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "backgroundColor": "white",
+                                                    "style": {
+                                                        "border": {
+                                                            "top": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "right": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            },
+                                                            "bottom": {
+                                                                "color": "var:preset|color|luminous-vivid-orange",
+                                                                "width": "5px"
+                                                            },
+                                                            "left": {
+                                                                "width": "0px",
+                                                                "style": "none"
+                                                            }
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "var:preset|spacing|50",
+                                                                "right": "0",
+                                                                "bottom": "var:preset|spacing|50",
+                                                                "left": "var:preset|spacing|50"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "align": "left",
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/support_icon.svg",
+                                                            "width": 40,
+                                                            "height": 40,
+                                                            "sizeSlug": "large",
+                                                            "linkDestination": "none"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>Web Developer</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "bottom": "0px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "<strong>More</strong>",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "textDecoration": "underline",
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "spacing": {
+                                                                    "margin": {
+                                                                        "top": "5px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

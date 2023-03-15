@@ -1,0 +1,165 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0702-homemade-pizza.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3e54256c4ddeb5056f7d2c052f9d8964",
+            "minHeight": 320,
+            "minHeightUnit": "px",
+            "customGradient": "linear-gradient(90deg,rgba(255,255,255,0) 60%,rgb(255,255,255) 60%)",
+            "contentPosition": "center right",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "right": "0px",
+                        "bottom": "50px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {}
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "66.66%",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "50px",
+                                        "right": "6%",
+                                        "bottom": "50px",
+                                        "left": "6%"
+                                    }
+                                },
+                                "color": {
+                                    "gradient": "linear-gradient(45deg,rgba(0,0,0,0) 5%,rgb(176,33,33) 5%)"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Homecooked",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "We take pride in our food. Every dish is prepared with love by our cooks."
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "50px"
+        }
+    },
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0760-homemade-pizza1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=08599184e919d4c1fd362d494ffdbe74",
+            "minHeight": 320,
+            "customGradient": "linear-gradient(-90deg,rgba(255,255,255,0) 60%,rgb(255,255,255) 60%)",
+            "contentPosition": "center left",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "bottom": "50px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "66.66%",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "50px",
+                                        "right": "6%",
+                                        "bottom": "50px",
+                                        "left": "6%"
+                                    }
+                                },
+                                "color": {
+                                    "gradient": "linear-gradient(-45deg,rgba(0,0,0,0) 5%,rgb(176,33,33) 5%)"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Fresh Ingredients",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "All ingredients grow in our garden or are obtained from local sources."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {}
+                    }
+                ]
+            }
+        ]
+    }
+]

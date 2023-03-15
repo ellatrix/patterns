@@ -1,0 +1,461 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "align": "full",
+            "mediaPosition": "right",
+            "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-pia14156.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1fc90afc63bf2ecea7c90d71fe6690d7",
+            "mediaType": "image",
+            "verticalAlignment": "center",
+            "imageFill": true,
+            "focalPoint": {
+                "x": "0.40",
+                "y": "0.47"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "blockGap": "10px",
+                            "padding": {
+                                "top": "0px",
+                                "right": "10px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Search through our catalog of posts.",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "800",
+                                    "lineHeight": "1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase. Or, choose one of the buttons below to be directed to a category or tag archive."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "blockGap": "10px"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Enter a search term or phrase",
+                            "level": 4,
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/search",
+                        "attributes": {
+                            "label": "Search",
+                            "showLabel": false,
+                            "width": 446,
+                            "widthUnit": "px",
+                            "buttonText": "Search",
+                            "buttonPosition": "button-inside",
+                            "buttonUseIcon": true
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Choose a topic",
+                            "level": 4,
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "fontStyle": "normal",
+                                    "fontWeight": "700"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "6px",
+                                    "margin": {
+                                        "top": "5px",
+                                        "bottom": "5px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Category 1",
+                                    "fontSize": "small",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Category 2",
+                                    "fontSize": "small",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Category 3",
+                                    "fontSize": "small",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "Category 4",
+                                    "fontSize": "small",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "10px",
+                                                "bottom": "10px"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "__unstableBlockSource": {
+            "blockName": "core/media-text",
+            "attrs": {
+                "align": "full",
+                "mediaPosition": "right",
+                "mediaType": "image",
+                "verticalAlignment": "center",
+                "imageFill": true,
+                "focalPoint": {
+                    "x": "0.40",
+                    "y": "0.47"
+                }
+            },
+            "innerBlocks": [
+                {
+                    "blockName": "core/group",
+                    "attrs": {
+                        "style": {
+                            "spacing": {
+                                "blockGap": "10px",
+                                "padding": {
+                                    "top": "0px",
+                                    "right": "10px",
+                                    "bottom": "0px",
+                                    "left": "0px"
+                                }
+                            }
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "blockName": "core/heading",
+                            "attrs": {
+                                "style": {
+                                    "typography": {
+                                        "fontStyle": "normal",
+                                        "fontWeight": "800",
+                                        "lineHeight": "1"
+                                    }
+                                }
+                            },
+                            "innerBlocks": [],
+                            "innerHTML": "\n<h2 style=\"font-style:normal;font-weight:800;line-height:1\">Search through our catalog of posts.</h2>\n",
+                            "innerContent": [
+                                "\n<h2 style=\"font-style:normal;font-weight:800;line-height:1\">Search through our catalog of posts.</h2>\n"
+                            ]
+                        },
+                        {
+                            "blockName": "core/paragraph",
+                            "attrs": {},
+                            "innerBlocks": [],
+                            "innerHTML": "\n<p>Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase. Or, choose one of the buttons below to be directed to a category or tag archive.</p>\n",
+                            "innerContent": [
+                                "\n<p>Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase. Or, choose one of the buttons below to be directed to a category or tag archive.</p>\n"
+                            ]
+                        }
+                    ],
+                    "innerHTML": "\n<div class=\"wp-block-group\" style=\"padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:0px\">\n\n</div>\n",
+                    "innerContent": [
+                        "\n<div class=\"wp-block-group\" style=\"padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:0px\">",
+                        null,
+                        "\n\n",
+                        null,
+                        "</div>\n"
+                    ]
+                },
+                {
+                    "blockName": "core/group",
+                    "attrs": {
+                        "style": {
+                            "spacing": {
+                                "blockGap": "10px"
+                            }
+                        }
+                    },
+                    "innerBlocks": [
+                        {
+                            "blockName": "core/heading",
+                            "attrs": {
+                                "level": 4,
+                                "style": {
+                                    "typography": {
+                                        "fontStyle": "normal",
+                                        "fontWeight": "700"
+                                    }
+                                },
+                                "fontSize": "medium"
+                            },
+                            "innerBlocks": [],
+                            "innerHTML": "\n<h4 class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:700\">Enter a search term or phrase</h4>\n",
+                            "innerContent": [
+                                "\n<h4 class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:700\">Enter a search term or phrase</h4>\n"
+                            ]
+                        },
+                        {
+                            "blockName": "core/search",
+                            "attrs": {
+                                "label": "Search",
+                                "showLabel": false,
+                                "width": 446,
+                                "widthUnit": "px",
+                                "buttonText": "Search",
+                                "buttonPosition": "button-inside",
+                                "buttonUseIcon": true
+                            },
+                            "innerBlocks": [],
+                            "innerHTML": "",
+                            "innerContent": []
+                        }
+                    ],
+                    "innerHTML": "\n<div class=\"wp-block-group\">\n\n</div>\n",
+                    "innerContent": [
+                        "\n<div class=\"wp-block-group\">",
+                        null,
+                        "\n\n",
+                        null,
+                        "</div>\n"
+                    ]
+                },
+                {
+                    "blockName": "core/group",
+                    "attrs": {},
+                    "innerBlocks": [
+                        {
+                            "blockName": "core/heading",
+                            "attrs": {
+                                "level": 4,
+                                "style": {
+                                    "typography": {
+                                        "fontStyle": "normal",
+                                        "fontWeight": "700"
+                                    }
+                                },
+                                "fontSize": "medium"
+                            },
+                            "innerBlocks": [],
+                            "innerHTML": "\n<h4 class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:700\">Choose a topic</h4>\n",
+                            "innerContent": [
+                                "\n<h4 class=\"has-medium-font-size\" style=\"font-style:normal;font-weight:700\">Choose a topic</h4>\n"
+                            ]
+                        },
+                        {
+                            "blockName": "core/buttons",
+                            "attrs": {
+                                "style": {
+                                    "spacing": {
+                                        "blockGap": "6px",
+                                        "margin": {
+                                            "top": "5px",
+                                            "bottom": "5px"
+                                        }
+                                    }
+                                }
+                            },
+                            "innerBlocks": [
+                                {
+                                    "blockName": "core/button",
+                                    "attrs": {
+                                        "style": {
+                                            "spacing": {
+                                                "padding": {
+                                                    "top": "10px",
+                                                    "bottom": "10px"
+                                                }
+                                            }
+                                        },
+                                        "className": "is-style-outline",
+                                        "fontSize": "small"
+                                    },
+                                    "innerBlocks": [],
+                                    "innerHTML": "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 1</a></div>\n",
+                                    "innerContent": [
+                                        "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 1</a></div>\n"
+                                    ]
+                                },
+                                {
+                                    "blockName": "core/button",
+                                    "attrs": {
+                                        "style": {
+                                            "spacing": {
+                                                "padding": {
+                                                    "top": "10px",
+                                                    "bottom": "10px"
+                                                }
+                                            }
+                                        },
+                                        "className": "is-style-outline",
+                                        "fontSize": "small"
+                                    },
+                                    "innerBlocks": [],
+                                    "innerHTML": "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 2</a></div>\n",
+                                    "innerContent": [
+                                        "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 2</a></div>\n"
+                                    ]
+                                },
+                                {
+                                    "blockName": "core/button",
+                                    "attrs": {
+                                        "style": {
+                                            "spacing": {
+                                                "padding": {
+                                                    "top": "10px",
+                                                    "bottom": "10px"
+                                                }
+                                            }
+                                        },
+                                        "className": "is-style-outline",
+                                        "fontSize": "small"
+                                    },
+                                    "innerBlocks": [],
+                                    "innerHTML": "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 3</a></div>\n",
+                                    "innerContent": [
+                                        "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 3</a></div>\n"
+                                    ]
+                                },
+                                {
+                                    "blockName": "core/button",
+                                    "attrs": {
+                                        "style": {
+                                            "spacing": {
+                                                "padding": {
+                                                    "top": "10px",
+                                                    "bottom": "10px"
+                                                }
+                                            }
+                                        },
+                                        "className": "is-style-outline",
+                                        "fontSize": "small"
+                                    },
+                                    "innerBlocks": [],
+                                    "innerHTML": "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 4</a></div>\n",
+                                    "innerContent": [
+                                        "\n<div class=\"wp-block-button has-custom-font-size is-style-outline has-small-font-size\"><a class=\"wp-block-button__link\" style=\"padding-top:10px;padding-bottom:10px\">Category 4</a></div>\n"
+                                    ]
+                                }
+                            ],
+                            "innerHTML": "\n<div class=\"wp-block-buttons\" style=\"margin-top:5px;margin-bottom:5px\">\n\n\n\n\n\n</div>\n",
+                            "innerContent": [
+                                "\n<div class=\"wp-block-buttons\" style=\"margin-top:5px;margin-bottom:5px\">",
+                                null,
+                                "\n\n",
+                                null,
+                                "\n\n",
+                                null,
+                                "\n\n",
+                                null,
+                                "</div>\n"
+                            ]
+                        }
+                    ],
+                    "innerHTML": "\n<div class=\"wp-block-group\">\n\n</div>\n",
+                    "innerContent": [
+                        "\n<div class=\"wp-block-group\">",
+                        null,
+                        "\n\n",
+                        null,
+                        "</div>\n"
+                    ]
+                }
+            ],
+            "innerHTML": "\n<div class=\"wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-position:40% 47%\"><img src=\"https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-pia14156.jpg?w=1200&amp;h=1200&amp;fit=clip&amp;crop=default&amp;dpr=1&amp;q=75&amp;vib=3&amp;con=3&amp;usm=15&amp;cs=srgb&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=1fc90afc63bf2ecea7c90d71fe6690d7\" alt=\"\" /></figure><div class=\"wp-block-media-text__content\">\n\n\n\n</div></div>\n",
+            "innerContent": [
+                "\n<div class=\"wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-position:40% 47%\"><img src=\"https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-pia14156.jpg?w=1200&amp;h=1200&amp;fit=clip&amp;crop=default&amp;dpr=1&amp;q=75&amp;vib=3&amp;con=3&amp;usm=15&amp;cs=srgb&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=1fc90afc63bf2ecea7c90d71fe6690d7\" alt=\"\" /></figure><div class=\"wp-block-media-text__content\">",
+                null,
+                "\n\n",
+                null,
+                "\n\n",
+                null,
+                "</div></div>\n"
+            ]
+        }
+    }
+]

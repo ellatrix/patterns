@@ -1,0 +1,423 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/h-min.jpg",
+            "id": 465,
+            "dimRatio": 50,
+            "minHeight": 600,
+            "minHeightUnit": "px",
+            "contentPosition": "center right",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "right": "50px",
+                        "bottom": "50px",
+                        "left": "50px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "left",
+                    "content": "Your New Home",
+                    "level": 4,
+                    "align": "wide",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "29px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "Your new home features an impressive array of design-forward elements hand curated by our award-winning team."
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "align": "full",
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "left"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Learn more",
+                            "backgroundColor": "white",
+                            "textColor": "black",
+                            "style": {
+                                "border": {
+                                    "radius": "60px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/cover",
+        "attributes": {
+            "overlayColor": "background",
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Sweet Home",
+                                                    "level": 4
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</em>",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "15px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</em>",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "15px"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</em>",
+                                                    "anchor": "block-97e6309d-0ace-4f37-813b-24f4db9dedc6",
+                                                    "fontSize": "medium"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices</em>",
+                                                    "anchor": "block-5f376282-4922-4898-b16a-b5651cafc93f"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/59d34f7d19b2d318004045a5d1116d78.jpg",
+                                    "id": 468,
+                                    "width": 400,
+                                    "height": 266,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/04_April_tables_white_15_700pixel_02_452x4522x.jpg",
+                                    "id": 469,
+                                    "width": 391,
+                                    "height": 260,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/1525.jpg",
+            "id": 470,
+            "dimRatio": 50,
+            "minHeight": 601,
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10px",
+                                        "right": "10px",
+                                        "bottom": "10px",
+                                        "left": "10px"
+                                    }
+                                }
+                            },
+                            "layout": {
+                                "inherit": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": " 1.",
+                                    "level": 4,
+                                    "textColor": "black",
+                                    "style": {
+                                        "color": {
+                                            "background": "#aacab7"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Modular Kitchens</strong>",
+                                    "level": 6,
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<em>Sample text. Click to select the text box. Click again or double click to start editing the text.</em>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "13px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "backgroundColor": "gray",
+                                            "textColor": "white",
+                                            "align": "center",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10px",
+                                        "right": "10px",
+                                        "bottom": "10px",
+                                        "left": "10px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "2.",
+                                    "level": 4,
+                                    "textColor": "black",
+                                    "style": {
+                                        "color": {
+                                            "background": "#aacab7"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Interior Styling",
+                                    "level": 6,
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<em>Sample text. Click to select the text box. Click again or double click to start editing the text.</em>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "13px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "backgroundColor": "dark-gray",
+                                            "textColor": "white",
+                                            "align": "center",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10px",
+                                        "right": "10px",
+                                        "bottom": "10px",
+                                        "left": "10px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "3.",
+                                    "level": 4,
+                                    "textColor": "black",
+                                    "style": {
+                                        "color": {
+                                            "background": "#aacab7"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Unlimited Revisions",
+                                    "level": 6,
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<em>Sample text. Click to select the text box. Click again or double click to start editing the text.</em>",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "13px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "backgroundColor": "gray",
+                                            "textColor": "white",
+                                            "align": "center",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "18px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

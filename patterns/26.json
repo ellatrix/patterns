@@ -1,0 +1,96 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "minHeight": 575,
+            "minHeightUnit": "px",
+            "customGradient": "linear-gradient(135deg,rgb(249,72,72) 1%,rgb(179,22,22) 100%)",
+            "contentPosition": "center center",
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "12%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {}
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {}
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "<strong>Thou hast seen</strong><br><strong>nothing yet</strong>",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": 68,
+                                            "lineHeight": "1.2"
+                                        },
+                                        "color": {
+                                            "text": "#fffffa"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Read now",
+                                            "style": {
+                                                "color": {
+                                                    "background": "#fffffa",
+                                                    "text": "#00000a"
+                                                },
+                                                "border": {
+                                                    "radius": "3px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {}
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "12%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {}
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

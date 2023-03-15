@@ -1,0 +1,137 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/patterns/files/2021/06/Mount-Fuji-From-Hakone-Hiroaki-Takahashi-scaled.jpg",
+            "id": 665,
+            "hasParallax": true,
+            "dimRatio": 40,
+            "overlayColor": "primary",
+            "contentPosition": "center center",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "5vw",
+                        "right": "5vw",
+                        "bottom": "5vw",
+                        "left": "5vw"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "top",
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "top",
+                            "width": "72%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "4vw",
+                                        "top": "0vw",
+                                        "bottom": "0vw",
+                                        "left": "0vw"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/06/Mount-Fuji-From-Mizukubo-Hiroaki-Takahashi-1024x652.jpg",
+                                    "id": 666,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "4px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "40px"
+                                }
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "text": "#ffffff"
+                                        },
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "#ffffff"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/quote",
+                                        "attributes": {
+                                            "citation": "<strong>— Miyamoto Musashi</strong>"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "<em>Aspire to be like Mt. Fuji, with such a broad and solid foundation that the strongest earthquake cannot move you, and so tall that the greatest enterprises of common men seem insignificant from your lofty perspective.</em>"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "top",
+                            "width": "33.33%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "40px"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/06/Foot-of-Mount-Ashitaka-Hiroaki-Takahashi-691x1024.jpg",
+                                    "id": 664,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": "4px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

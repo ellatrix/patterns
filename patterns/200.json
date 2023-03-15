@@ -1,0 +1,88 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "text": "#000000",
+                    "background": "#ffffff"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong><a href=\"http://wordpress.org\">Virtual Tour ↗</a></strong>",
+                            "level": 3,
+                            "style": {
+                                "typography": {
+                                    "fontSize": "24px",
+                                    "lineHeight": "1.3"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Get a virtual tour of the museum. Ideal for schools and events."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong><a href=\"https://wordpress.org\">Current Shows ↗</a></strong>",
+                            "level": 3,
+                            "style": {
+                                "typography": {
+                                    "fontSize": "24px",
+                                    "lineHeight": "1.3"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Stay updated and see our current exhibitions here."
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong><a href=\"https://wordpress.org\">Useful Info ↗</a></strong>",
+                            "level": 3,
+                            "style": {
+                                "typography": {
+                                    "fontSize": "24px",
+                                    "lineHeight": "1.3"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "Get to know our opening times, ticket prices and discounts."
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

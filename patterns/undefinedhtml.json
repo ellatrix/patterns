@@ -1,0 +1,8 @@
+[
+    {
+        "name": "core/html",
+        "attributes": {
+            "content": "<marquee>Welcome to the wonderful world of blocks…</marquee>"
+        }
+    }
+]

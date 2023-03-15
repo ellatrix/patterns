@@ -1,0 +1,1137 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMyMjA3OS1pbWFnZS1rd3Z5OHJ4bC5qcGc.jpg",
+            "dimRatio": 70,
+            "customOverlayColor": "#fff6f0",
+            "isDark": false,
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "full",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "15px",
+                                "left": "15px"
+                            },
+                            "blockGap": "0px",
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained",
+                        "contentSize": "1080px"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "bottom": "40px",
+                                        "right": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": {
+                                        "top": "30px",
+                                        "left": "30px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/classic_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f56962"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Classic Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/quick_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f8ae68"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Quick Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/practice_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f56962"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Practice Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "align": "wide",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "bottom": "40px",
+                                        "right": "0px",
+                                        "left": "0px"
+                                    },
+                                    "blockGap": {
+                                        "top": "30px",
+                                        "left": "30px"
+                                    },
+                                    "margin": {
+                                        "top": "0px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/local_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f8ae68"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Local Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/globle_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f56962"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Classic Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "10px",
+                                                        "right": "12px",
+                                                        "left": "12px",
+                                                        "bottom": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topRight": "15px",
+                                                        "bottomLeft": "15px",
+                                                        "bottomRight": "15px",
+                                                        "topLeft": "15px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "textAlign": "left",
+                                                    "content": "Play Ludo game that longer",
+                                                    "level": 3,
+                                                    "textColor": "black",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "lineHeight": "1.5",
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/private_icon.png",
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": "unset"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "align": "wide",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "15px",
+                                                                "bottom": "15px",
+                                                                "left": "0px",
+                                                                "right": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "15px",
+                                                                "topRight": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "background": "#f8ae68"
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "100%",
+                                                        "wideSize": "100%"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "center",
+                                                            "content": "Classic Mode",
+                                                            "align": "wide",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "18px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

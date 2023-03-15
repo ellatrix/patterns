@@ -1,0 +1,284 @@
+[
+    {
+        "name": "core/image",
+        "attributes": {
+            "align": "center",
+            "url": "https://s.w.org/patterns/files/2021/06/tomato-illustration.png",
+            "id": 836,
+            "width": 200,
+            "height": 200,
+            "sizeSlug": "large",
+            "linkDestination": "none"
+        }
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "40px"
+        }
+    },
+    {
+        "name": "core/heading",
+        "attributes": {
+            "textAlign": "center",
+            "content": "<strong>Italian Tomato Sauce</strong>",
+            "align": "wide",
+            "anchor": "italian-tomato-sauce",
+            "style": {
+                "typography": {
+                    "fontSize": "60px"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "<em>Recipe by Chia</em>"
+        }
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "40px"
+        }
+    },
+    {
+        "name": "core/columns",
+        "attributes": {},
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<strong>Servings</strong><br>4 Servings",
+                            "fontSize": "extra-small"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<strong>Cooking Time</strong><br>40 minutes",
+                            "fontSize": "extra-small"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<strong>Calories</strong><br>300 kcal",
+                            "fontSize": "extra-small"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "40px"
+        }
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "<strong>Ingredients</strong>",
+                    "anchor": "ingredients",
+                    "fontSize": "large"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list",
+                                "attributes": {
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1/3 cup&nbsp;extra virgin olive oil"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "Pinch of red pepper flakes"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "4&nbsp;crushed garlic cloves"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "¾ cup&nbsp;chopped onion (optional)"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1 tsp.&nbsp;fresh chopped oregano"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1 tbsp.&nbsp;chopped basil"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1 tsp. chopped mint"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list",
+                                "attributes": {
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1 tsp. sugar"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "1 tsp.&nbsp;salt"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "¼ tsp.&nbsp;black pepper"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "2&nbsp;28-ounce cans of whole tomatoes"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "¼ cup&nbsp;grated Parmesan cheese"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/list-item",
+                                        "attributes": {
+                                            "content": "2 tbsp.&nbsp;unsalted butter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/spacer",
+        "attributes": {
+            "height": "40px"
+        }
+    },
+    {
+        "name": "core/heading",
+        "attributes": {
+            "content": "<strong>Instructions</strong>",
+            "anchor": "instructions",
+            "fontSize": "large"
+        }
+    },
+    {
+        "name": "core/list",
+        "attributes": {
+            "ordered": true
+        },
+        "innerBlocks": [
+            {
+                "name": "core/list-item",
+                "attributes": {
+                    "content": "Before you begin, pour your two cans of tomatoes into a bowl and crush with your hand. Don’t break them up too small, you want large chunks."
+                }
+            },
+            {
+                "name": "core/list-item",
+                "attributes": {
+                    "content": "In a large, heavy-bottomed pot with a lid, pour in olive oil. Add red pepper flakes, garlic, onion, most of the oregano, basil and mint (save a little bit of each for the end), sugar salt and pepper. Turn on the burner and slowly turn it up to hot. When the onions and garlic start to cook, stir and heat for five minutes."
+                }
+            },
+            {
+                "name": "core/list-item",
+                "attributes": {
+                    "content": "Remove the pot from the burner and place a&nbsp;heat diffuser&nbsp;over the burner. Place the pot over the&nbsp;heat diffuser and add the tomatoes. Turn burner to medium high and stir until they start to boil. Then reduce to simmer, partially cover and simmer 90 minutes."
+                }
+            },
+            {
+                "name": "core/list-item",
+                "attributes": {
+                    "content": "After 90 minutes, remove from heat and add the reserved herbs and Parmesan cheese. Add the butter to round out the flavors. Stir again and serve."
+                }
+            }
+        ]
+    }
+]

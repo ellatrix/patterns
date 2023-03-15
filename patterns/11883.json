@@ -1,0 +1,81 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "style": {
+                "spacing": {
+                    "blockGap": "0px"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": " <strong>–everything you need to know–</strong>",
+                    "fontSize": "extra-small",
+                    "style": {
+                        "typography": {
+                            "textTransform": "uppercase",
+                            "letterSpacing": "5px"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "flex",
+                        "allowOrientation": false,
+                        "justifyContent": "center"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>25</strong>",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "100px",
+                                    "lineHeight": "1"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "left",
+                            "content": "Ways to improve<br>your website",
+                            "anchor": "h-ways-to-improveyour-website",
+                            "fontSize": "large",
+                            "style": {
+                                "spacing": {
+                                    "margin": {
+                                        "top": "6px"
+                                    }
+                                },
+                                "typography": {
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

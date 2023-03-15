@@ -1,0 +1,158 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "text": "#000000",
+                    "background": "#ffffff"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "64px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/06/insects-and-flowers-white-1024x925.jpg",
+                                    "alt": "An illustration of white flowers and insects.",
+                                    "id": 728,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Flowers",
+                                    "level": 3,
+                                    "anchor": "flowers",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": 35,
+                                            "lineHeight": "1.26"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Bees are some of nature's most adept pollinators. They collect pollen in small sacs near their legs, dropping some along the way to help fertilize flowers. ",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": 17,
+                                            "lineHeight": "1.65"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "View more",
+                                            "style": {
+                                                "color": {
+                                                    "background": "#ecc77f",
+                                                    "text": "#000000"
+                                                },
+                                                "border": {
+                                                    "radius": "2px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/06/insects-and-flowers-yellow-1024x930.jpg",
+                                    "alt": "An illustration of yellow flowers and insects.",
+                                    "id": 729,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Insects",
+                                    "level": 3,
+                                    "anchor": "insects",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": 35,
+                                            "lineHeight": "1.26"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Bees aren't the only pollinators. Insects such as butterflies, moths, bee flies, mosquitoes, and even ants fertilize flowers as they travel around your yard. ",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": 17,
+                                            "lineHeight": "1.65"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "View more",
+                                            "style": {
+                                                "color": {
+                                                    "background": "#ecc77f",
+                                                    "text": "#000000"
+                                                },
+                                                "border": {
+                                                    "radius": "2px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "64px"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "right": "20px",
+                        "bottom": "50px",
+                        "left": "20px"
+                    }
+                }
+            },
+            "layout": {
+                "type": "default"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "layout": {
+                                "type": "default"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "left",
+                                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-07.jpg.jpg",
+                                    "width": 482,
+                                    "height": 526,
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "color": {
+                                            "duotone": "unset"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong>Where does it come from?</strong>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "40px",
+                                            "textTransform": "uppercase",
+                                            "lineHeight": "1.2"
+                                        },
+                                        "color": {
+                                            "text": "#368d18"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "15px",
+                                                "bottom": "25px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "<strong>Learn More</strong>",
+                                            "textColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "12px",
+                                                        "right": "35px",
+                                                        "bottom": "12px",
+                                                        "left": "35px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "50px",
+                                                        "topRight": "0px",
+                                                        "bottomLeft": "50px",
+                                                        "bottomRight": "50px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "background": "#368d18"
+                                                },
+                                                "typography": {
+                                                    "fontSize": "16px",
+                                                    "textTransform": "uppercase"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

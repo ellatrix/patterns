@@ -1,0 +1,667 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#27272e"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "20px",
+                        "bottom": "90px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "center",
+                    "url": "https://i.postimg.cc/Gh4T9F7P/bubble-1.png",
+                    "alt": "Bubble",
+                    "sizeSlug": "large"
+                }
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "right",
+                    "url": "https://i.postimg.cc/C5nYpsYJ/bubble-2.png",
+                    "alt": "BubbleBubble",
+                    "width": 50,
+                    "height": 50,
+                    "sizeSlug": "large"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "What We Can Do For You",
+                    "textColor": "light-green-cyan",
+                    "style": {
+                        "typography": {
+                            "fontSize": "24px",
+                            "fontStyle": "normal",
+                            "fontWeight": "700",
+                            "textTransform": "uppercase"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Services we can help you with",
+                    "textColor": "white",
+                    "style": {
+                        "typography": {
+                            "fontSize": "48px",
+                            "fontStyle": "normal",
+                            "fontWeight": "700",
+                            "textTransform": "capitalize"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                    "style": {
+                        "typography": {
+                            "fontSize": "16px"
+                        },
+                        "color": {
+                            "text": "#aca5a5"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "20px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px",
+                                            "width": "0px",
+                                            "style": "none"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/TYRHXShN/technology.png",
+                                                            "alt": "Technology",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Web development",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/8PZHhzwN/online-marketing.png",
+                                                            "alt": "Technology",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Online Marketing",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/9FhSx0G9/development.png",
+                                                            "alt": "Technology",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Web Technologies ",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px",
+                                            "width": "0px",
+                                            "style": "none"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/rpWJBXXH/business.png",
+                                                            "alt": "Business Solutions",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Business Solution",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/m2HtNbQK/content-strategy.png",
+                                                            "alt": "Content Strategy",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Content strategy",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "30px",
+                                                "right": "15px",
+                                                "bottom": "30px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#2c2c32"
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "33.33%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://i.postimg.cc/MTJSwScf/web-design.png",
+                                                            "alt": "Graphic Design",
+                                                            "sizeSlug": "large"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "66.66%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Graphic Designing",
+                                                            "level": 4,
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "24px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "700",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. ",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "color": {
+                                                                    "text": "#aca5a5"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/image",
+                "attributes": {
+                    "align": "right",
+                    "url": "https://i.postimg.cc/Gh4T9F7P/bubble-1.png",
+                    "alt": "Bubble",
+                    "sizeSlug": "large"
+                }
+            }
+        ]
+    }
+]

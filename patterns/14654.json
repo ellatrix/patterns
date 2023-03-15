@@ -1,0 +1,85 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "100px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(90deg,rgb(252,252,252) 46%,rgb(215,245,245) 46%)"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "wide"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-087-ray.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6fa7f479a76ba98f83590ec5cb1640a3",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "center"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Birds",
+                                            "level": 1,
+                                            "anchor": "beautywith-a-conscience"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Sed gravida ornare vestibulum turpis quam urna aliquam in feugiat lorem dolor pulvinar a, scelerisque amet ultrices consectetur magna sit."
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "url": "#",
+                                                    "text": "GET MORE INFO",
+                                                    "fontSize": "medium"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "text": "#ffffff",
+                    "background": "#0f0f10"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "200px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "47%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/07/Hiawatha-689x1024.jpg",
+                                    "id": 1749,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Hiawatha",
+                                    "anchor": "hiawatha",
+                                    "style": {
+                                        "typography": {
+                                            "fontWeight": "900",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "16th century leader of the Iroquois Confederacy, sculpted by Edmonia Lewis in 1868."
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "black",
+                                    "iconColorValue": "#000000",
+                                    "iconBackgroundColor": "white",
+                                    "iconBackgroundColorValue": "#FFFFFF",
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "facebook.com",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "twitter.com",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "instagram.com",
+                                            "service": "instagram"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "6%"
+                        }
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "47%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/07/Minnehaha-689x1024.jpg",
+                                    "id": 1750,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "Minnehaha",
+                                    "anchor": "minnehaha",
+                                    "style": {
+                                        "typography": {
+                                            "fontWeight": "900",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "16th century Dakota woman and Hiawatha's lover, sculpted by Edmonia Lewis in 1868."
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "iconColor": "black",
+                                    "iconColorValue": "#000000",
+                                    "iconBackgroundColor": "white",
+                                    "iconBackgroundColorValue": "#FFFFFF",
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "center"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "facebook.com",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "twitter.com",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "instagram.com",
+                                            "service": "instagram"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

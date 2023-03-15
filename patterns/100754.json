@@ -1,0 +1,179 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#f4f4f4"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "6em",
+                        "bottom": "6em"
+                    }
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "55%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-347.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=05a9ce0c93425fcb466c885b1ca5316b",
+                                    "dimRatio": 0,
+                                    "contentPosition": "top left",
+                                    "isDark": false,
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "3em",
+                                                "right": "3em",
+                                                "bottom": "3em",
+                                                "left": "3em"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "left",
+                                            "content": "Potted plants delivered to your door",
+                                            "placeholder": "Write title…",
+                                            "fontSize": "x-large",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#031811"
+                                                },
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": 1.1
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-389.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=c5cf5dcc851c58ec03fb38afb333d098",
+                                    "dimRatio": 0,
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "placeholder": "Write title…",
+                                            "fontSize": "large"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "bottom": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "55%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "1em",
+                                        "left": "3em"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Get a beginner-friendly plant curated for apartments delivered straight to your door every month.",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500"
+                                        },
+                                        "color": {
+                                            "text": "#031811"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "See Plans",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "border": {
+                                                    "radius": "0px"
+                                                },
+                                                "color": {
+                                                    "text": "#031811"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "3em",
+                                                        "left": "3em"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

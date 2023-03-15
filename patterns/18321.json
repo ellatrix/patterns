@@ -1,0 +1,310 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "bottom": "80px",
+                        "right": "20px",
+                        "left": "20px"
+                    }
+                }
+            },
+            "layout": {
+                "wideSize": "1200px",
+                "contentSize": "1100px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "left",
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1091.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1334094205aaf8303f099e24c9771720",
+                                    "width": 405,
+                                    "height": 608,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": {
+                                                "topLeft": "500px",
+                                                "topRight": "500px",
+                                                "bottomLeft": null,
+                                                "bottomRight": null
+                                            }
+                                        },
+                                        "color": []
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "50%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "20px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Traveler Point",
+                                    "textColor": "luminous-vivid-amber",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "18px",
+                                            "lineHeight": "0"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "We Helping You Find Your Dream Vacation",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "32px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "600"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "300"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "60px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "40%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "left",
+                                                            "content": "50+",
+                                                            "textColor": "luminous-vivid-amber",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "600",
+                                                                    "fontSize": "48px",
+                                                                    "lineHeight": "0"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "textAlign": "left",
+                                                            "content": "Holiday Package",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300",
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": 2
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "60%",
+                                                    "style": {
+                                                        "color": []
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "120+",
+                                                            "textColor": "luminous-vivid-amber",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "600",
+                                                                    "fontSize": "48px",
+                                                                    "lineHeight": "0"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Luxury Hotels",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300",
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": "2"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "60px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "40%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "30+",
+                                                            "textColor": "luminous-vivid-amber",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "600",
+                                                                    "fontSize": "48px",
+                                                                    "lineHeight": "0"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Best Airlines",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300",
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": "2"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "width": "60%"
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "15K+",
+                                                            "textColor": "luminous-vivid-amber",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "600",
+                                                                    "fontSize": "48px",
+                                                                    "lineHeight": "0"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Happy Traveler",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300",
+                                                                    "fontSize": "16px",
+                                                                    "lineHeight": "2"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

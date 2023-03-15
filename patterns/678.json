@@ -1,0 +1,349 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#ffe97d",
+                            "text": "#000000"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Single</strong>",
+                            "anchor": "single",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>Enrich our growing community.</strong> ",
+                            "fontSize": "normal",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css",
+                            "style": {
+                                "color": {
+                                    "background": "#000000"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "General admission and member discounts for one adult"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "One free ticket per special exhibition"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "Two single-use guest passes per year"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$110 / year",
+                                    "textColor": "white",
+                                    "width": 100,
+                                    "style": {
+                                        "color": {
+                                            "background": "#000000"
+                                        },
+                                        "border": {
+                                            "radius": 0
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#d1d1e1",
+                            "text": "#000000"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Family</strong>",
+                            "anchor": "family",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>Support special exhibitions.</strong>",
+                            "fontSize": "normal",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "General admission and member discounts for two adults"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "Four free tickets per special exhibition"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "Four single-use guest passes per year"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$200 / year",
+                                    "textColor": "white",
+                                    "width": 100,
+                                    "style": {
+                                        "color": {
+                                            "background": "#000000"
+                                        },
+                                        "border": {
+                                            "radius": 0
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "background": "#c0ebf1",
+                            "text": "#000000"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Patron</strong>",
+                            "anchor": "patron",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>Take support to the next level.</strong>",
+                            "fontSize": "normal"
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "General admission and member discounts for two adults"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "Five free tickets per special exhibition"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "Six single-use guest passes per year"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$400 / year",
+                                    "textColor": "white",
+                                    "width": 100,
+                                    "style": {
+                                        "color": {
+                                            "background": "#000000"
+                                        },
+                                        "border": {
+                                            "radius": 0
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

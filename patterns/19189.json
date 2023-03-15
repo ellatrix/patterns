@@ -1,0 +1,624 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "black",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "right": "20px",
+                        "bottom": "80px",
+                        "left": "20px"
+                    }
+                }
+            },
+            "layout": {
+                "wideSize": "1200px",
+                "contentSize": "1000px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Digital Strategy",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "luminous-vivid-amber",
+                                                                    "textColor": "black",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "backgroundColor": "luminous-vivid-amber",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "UX Designs",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "textColor": "black",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "black",
+                                                                    "textColor": "white",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Web Design",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "luminous-vivid-amber",
+                                                                    "textColor": "black",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "40px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Social Media",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "luminous-vivid-amber",
+                                                                    "textColor": "black",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "SEO Booster",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "luminous-vivid-amber",
+                                                                    "textColor": "black",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "white",
+                                    "style": {
+                                        "color": [],
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "50px",
+                                                "right": "40px",
+                                                "bottom": "40px",
+                                                "left": "40px"
+                                            }
+                                        },
+                                        "border": {
+                                            "width": "2px",
+                                            "style": "solid",
+                                            "radius": "10px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/heading",
+                                                        "attributes": {
+                                                            "content": "Design Concept",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "28px",
+                                                                    "lineHeight": "1",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "500"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px",
+                                                                    "fontStyle": "normal",
+                                                                    "fontWeight": "300"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/buttons",
+                                                        "innerBlocks": [
+                                                            {
+                                                                "name": "core/button",
+                                                                "attributes": {
+                                                                    "text": "Read More",
+                                                                    "backgroundColor": "luminous-vivid-amber",
+                                                                    "textColor": "black",
+                                                                    "style": {
+                                                                        "typography": {
+                                                                            "fontSize": "14px"
+                                                                        },
+                                                                        "spacing": {
+                                                                            "padding": {
+                                                                                "top": "12px",
+                                                                                "bottom": "12px",
+                                                                                "left": "30px",
+                                                                                "right": "30px"
+                                                                            }
+                                                                        },
+                                                                        "border": {
+                                                                            "radius": "5px"
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

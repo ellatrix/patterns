@@ -1,0 +1,516 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODc2MDQxLXdpa2ltZWRpYS1pbWFnZS1rcDY4dmQ5Yi1remVsMmx2di5qcGc.jpg",
+            "dimRatio": 80,
+            "overlayColor": "black",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "var:preset|spacing|20",
+                        "right": "var:preset|spacing|40",
+                        "bottom": "var:preset|spacing|20",
+                        "left": "var:preset|spacing|40"
+                    },
+                    "margin": {
+                        "top": "0",
+                        "bottom": "0"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "bottom": "0px",
+                                "left": "0px",
+                                "right": "0px"
+                            },
+                            "blockGap": "0px"
+                        },
+                        "border": {
+                            "width": "0px",
+                            "style": "none"
+                        }
+                    },
+                    "layout": {
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "50px",
+                                        "right": "0px",
+                                        "bottom": "50px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "right": "30px",
+                                                        "bottom": "30px",
+                                                        "left": "30px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "0px",
+                                                        "bottomLeft": "0px",
+                                                        "bottomRight": "15px"
+                                                    },
+                                                    "color": "#4aeadc",
+                                                    "width": "1px"
+                                                },
+                                                "color": {
+                                                    "gradient": "linear-gradient(230deg,rgb(74,234,220) 0%,rgba(158,54,146,0) 22%,rgba(207,41,185,0) 40%,rgba(237,43,130,0) 60%,rgba(158,54,146,0) 80%,rgb(74,234,220) 100%)"
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
+                                                            "width": 60,
+                                                            "height": 60,
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "#ffffff",
+                                                                        "rgb(255, 255, 255)"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Mission",
+                                                    "level": 3,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "none",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "1.5"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "capitalize",
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.1"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "45px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "borderColor": "luminous-vivid-orange",
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0px",
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "right": "30px",
+                                                        "bottom": "30px",
+                                                        "left": "30px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "100px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "0px",
+                                                        "bottomLeft": "0px",
+                                                        "bottomRight": "15px"
+                                                    },
+                                                    "width": "1px"
+                                                },
+                                                "color": {
+                                                    "gradient": "linear-gradient(222deg,rgba(255,106,0,0.98) 0%,rgba(255,106,0,0) 23%,rgba(92,31,31,0) 68%,rgba(150,86,86,0) 76%,rgb(255,105,0) 99%)"
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
+                                                            "width": 60,
+                                                            "height": 60,
+                                                            "sizeSlug": "large",
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "rgb(255, 255, 255)",
+                                                                        "rgb(255, 255, 255)"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Vision",
+                                                    "level": 3,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "capitalize",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "1.2"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "capitalize",
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.1"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "45px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": "0px",
+                                                    "padding": {
+                                                        "top": "30px",
+                                                        "right": "30px",
+                                                        "bottom": "30px",
+                                                        "left": "30px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "15px",
+                                                        "topRight": "0px",
+                                                        "bottomLeft": "0px",
+                                                        "bottomRight": "15px"
+                                                    },
+                                                    "color": "#cf2aba",
+                                                    "width": "1px"
+                                                },
+                                                "color": {
+                                                    "gradient": "linear-gradient(50deg,rgb(207,42,186) 8%,rgba(151,119,209,0) 20%,rgba(207,41,185,0) 40%,rgba(237,43,130,0) 60%,rgba(250,105,97,0) 80%,rgb(207,42,186) 96%)"
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/group",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "blockGap": "0px",
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "constrained",
+                                                        "justifyContent": "left",
+                                                        "contentSize": "80px"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/image",
+                                                        "attributes": {
+                                                            "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
+                                                            "width": 60,
+                                                            "height": 60,
+                                                            "style": {
+                                                                "color": {
+                                                                    "duotone": [
+                                                                        "rgb(255, 255, 255)",
+                                                                        "rgb(255, 255, 255)"
+                                                                    ]
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Values",
+                                                    "level": 3,
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "capitalize",
+                                                            "fontSize": "22px",
+                                                            "lineHeight": "1.2"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "10px",
+                                                                "right": "0px",
+                                                                "bottom": "20px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "400",
+                                                            "textTransform": "capitalize",
+                                                            "fontSize": "16px",
+                                                            "lineHeight": "1.1"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "45px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

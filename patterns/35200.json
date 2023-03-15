@@ -1,0 +1,194 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "0px",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "50%",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "3em",
+                                "left": "0px"
+                            }
+                        },
+                        "color": {
+                            "gradient": "linear-gradient(90deg,rgba(255,128,0,0) 50%,rgba(255,128,0,0.06) 50%)"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-326.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=41ad3035d8a7d1070ab9dd3743e6a0fc",
+                            "sizeSlug": "full",
+                            "linkDestination": "none",
+                            "style": {
+                                "color": [],
+                                "border": {
+                                    "radius": {
+                                        "topRight": null,
+                                        "bottomLeft": null,
+                                        "bottomRight": null
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "bottom",
+                    "width": "50%",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px",
+                                "top": "0px"
+                            }
+                        },
+                        "color": {
+                            "background": "#ff80000f"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "3em",
+                                        "right": "10%",
+                                        "bottom": "3em",
+                                        "left": "10%"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "— What We Do",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "letterSpacing": "0.2em",
+                                            "fontSize": "14px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "lineHeight": "1"
+                                        },
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Creative Design.",
+                                    "fontSize": "x-large",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "lineHeight": "1.2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "50px"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "24px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "500",
+                                            "lineHeight": "1.4"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence. Write your own copy text here."
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "top": "50px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "— MORE INFO —",
+                                            "backgroundColor": "black",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "14px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "1.5em",
+                                                        "bottom": "1.5em"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

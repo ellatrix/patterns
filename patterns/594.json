@@ -1,0 +1,122 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/21512525940_ac6d9c98f6_k-1.jpg",
+                            "id": 595,
+                            "dimRatio": 0,
+                            "minHeight": 600,
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "2rem",
+                                        "right": "2rem",
+                                        "bottom": "2rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "placeholder": "Write title…",
+                                    "fontSize": "large"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/4051848937_80b2e27c51_o-1021x1024-1.jpg",
+                            "id": 532,
+                            "dimRatio": 0,
+                            "minHeight": 600,
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "2rem",
+                                        "right": "2rem",
+                                        "bottom": "2rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "placeholder": "Write title…",
+                                    "fontSize": "large"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "customOverlayColor": "#232323",
+                            "minHeight": 600,
+                            "contentPosition": "center left",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "2rem",
+                                        "right": "2rem",
+                                        "bottom": "2rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Hello.</strong>",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "48px",
+                                            "lineHeight": "1.2"
+                                        },
+                                        "color": {
+                                            "text": "#d4cfc4"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

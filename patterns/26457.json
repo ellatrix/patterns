@@ -1,0 +1,396 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "blockGap": {
+                        "top": "30px",
+                        "left": "30px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black",
+                    "textColor": "white",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd59batch63-chim-03_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=37c84651b5dee57bb19202405e8d18bf",
+                            "minHeight": 420,
+                            "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 60%,rgb(0,0,0) 80%)",
+                            "contentPosition": "bottom left",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "25px",
+                                        "bottom": "0px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "01",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "140px",
+                                            "lineHeight": "1.1",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "100"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "30px",
+                                        "bottom": "30px",
+                                        "left": "30px",
+                                        "top": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "30px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Research",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "24px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Adipiscing inceptos vel ultrices auctor tempus iaculis mi.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "MORE INFO",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0.5em",
+                                                        "right": "1em",
+                                                        "bottom": "0.5em",
+                                                        "left": "1em"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black",
+                    "textColor": "white",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/vangogh-02-rob004.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=c668c5ff53cf606729ba336814881544",
+                            "minHeight": 420,
+                            "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 60%,rgb(0,0,0) 80%)",
+                            "contentPosition": "bottom left",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "25px",
+                                        "bottom": "0px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "02",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "140px",
+                                            "lineHeight": "1.1",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "100"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "30px",
+                                        "bottom": "30px",
+                                        "left": "30px",
+                                        "top": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "30px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Development",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "24px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Adipiscing inceptos vel ultrices auctor finibus iaculis mi.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "MORE INFO",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0.5em",
+                                                        "right": "1em",
+                                                        "bottom": "0.5em",
+                                                        "left": "1em"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black",
+                    "textColor": "white",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdvangogh-pd46-1005rob.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7471a78cd3f819920932d655d82dfcd8",
+                            "minHeight": 420,
+                            "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 60%,rgb(0,0,0) 80%)",
+                            "contentPosition": "bottom left",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "25px",
+                                        "bottom": "0px",
+                                        "left": "25px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "03",
+                                    "placeholder": "Write title…",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "140px",
+                                            "lineHeight": "1.1",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "100"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "30px",
+                                        "bottom": "30px",
+                                        "left": "30px",
+                                        "top": "0px"
+                                    },
+                                    "margin": {
+                                        "top": "30px",
+                                        "bottom": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Deployment",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "24px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Adipiscing inceptos vel ultrices auctor tempus finibus mi.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#0",
+                                            "text": "MORE INFO",
+                                            "textColor": "white",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0.5em",
+                                                        "right": "1em",
+                                                        "bottom": "0.5em",
+                                                        "left": "1em"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

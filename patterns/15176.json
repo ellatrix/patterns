@@ -1,0 +1,130 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "bottom": "80px"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(135deg,rgb(0,31,56) 63%,rgba(252,252,252,0) 63%)"
+                }
+            },
+            "layout": {
+                "wideSize": "1200px"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Your <em><strong>Headline</strong></em> Goes Here",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "400",
+                                            "fontSize": "62px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "300"
+                                        },
+                                        "color": {
+                                            "text": "#c4c8cc"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Read More",
+                                            "backgroundColor": "white",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "15px",
+                                                        "bottom": "15px",
+                                                        "left": "40px",
+                                                        "right": "40px"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "20px",
+                                                        "topRight": "20px"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#001f38"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-619-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2430d39da7096242ecbbc05b6a5dde4d",
+                                    "width": 373,
+                                    "height": 546,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none",
+                                    "style": {
+                                        "border": {
+                                            "radius": {
+                                                "topLeft": "50em",
+                                                "topRight": "50em",
+                                                "bottomLeft": null,
+                                                "bottomRight": null
+                                            }
+                                        },
+                                        "color": []
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

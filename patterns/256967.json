@@ -1,0 +1,291 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "layout": {
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQzNi0xLWtzYy0yMDEyLTE5NzBfb3JpZy5qcGc.jpg",
+                    "dimRatio": 50,
+                    "overlayColor": "black",
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "What we do?",
+                            "level": 1
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                            "fontSize": "medium",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "0",
+                                        "left": "0"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "border": {
+                                            "left": {
+                                                "color": "#f94d39",
+                                                "width": "3px"
+                                            }
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "var:preset|spacing|40",
+                                                "right": "var:preset|spacing|40",
+                                                "bottom": "var:preset|spacing|40",
+                                                "left": "var:preset|spacing|40"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#141414cc"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Plan",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|30",
+                                                        "right": "var:preset|spacing|30",
+                                                        "bottom": "var:preset|spacing|30",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#f94d39"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "left",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "12px",
+                                                    "lineHeight": "1.6"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "border": {
+                                            "left": {
+                                                "color": "#2296fb",
+                                                "width": "3px"
+                                            }
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "var:preset|spacing|40",
+                                                "right": "var:preset|spacing|40",
+                                                "bottom": "var:preset|spacing|40",
+                                                "left": "var:preset|spacing|40"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#141414cc"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Code",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|30",
+                                                        "right": "var:preset|spacing|30",
+                                                        "bottom": "var:preset|spacing|30",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#2296fb"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "left",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "12px",
+                                                    "lineHeight": "1.6"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "style": {
+                                        "border": {
+                                            "left": {
+                                                "color": "#a5ff01",
+                                                "width": "3px"
+                                            }
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "var:preset|spacing|40",
+                                                "right": "var:preset|spacing|40",
+                                                "bottom": "var:preset|spacing|40",
+                                                "left": "var:preset|spacing|40"
+                                            }
+                                        },
+                                        "color": {
+                                            "background": "#141414cc"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "left",
+                                            "content": "Test",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|30",
+                                                        "right": "var:preset|spacing|30",
+                                                        "bottom": "var:preset|spacing|30",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "color": {
+                                                    "text": "#a5ff01"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "left",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "var:preset|spacing|20",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "var:preset|spacing|30"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0",
+                                                        "right": "0",
+                                                        "bottom": "0",
+                                                        "left": "0"
+                                                    }
+                                                },
+                                                "typography": {
+                                                    "fontSize": "12px",
+                                                    "lineHeight": "1.6"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

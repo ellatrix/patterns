@@ -1,0 +1,233 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "15px",
+                        "right": "15px",
+                        "bottom": "15px",
+                        "left": "15px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#edf3ff"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "20px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                },
+                                "border": {
+                                    "radius": "10px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/43z3CZLm/0f61ba72e0e12ba59d30a50295964871.png",
+                                    "width": 40,
+                                    "height": 40,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Address</strong>",
+                                    "level": 3,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "lineHeight": "0",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<a href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\">Ahmedabad, Gujarat </a><a rel=\"noreferrer noopener\" href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\" target=\"_blank\">380015</a><a href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\">, </a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#fbf1fc"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "20px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                },
+                                "border": {
+                                    "radius": "10px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/xTYc9kDn/download-removebg-preview.png",
+                                    "width": 40,
+                                    "height": 40,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Phone</strong>",
+                                    "level": 3,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "lineHeight": "0",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<a href=\"tel:1234567890\">+91 1234567890</a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "color": {
+                                    "background": "#f1fcf3"
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "20px",
+                                        "right": "20px",
+                                        "bottom": "20px",
+                                        "left": "20px"
+                                    }
+                                },
+                                "border": {
+                                    "radius": "10px"
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://i.postimg.cc/RCn42vW9/transparent-email-icon512.png",
+                                    "width": 40,
+                                    "height": 40,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "center",
+                                    "content": "<strong>Email</strong>",
+                                    "level": 3,
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "lineHeight": "0",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<a href=\"mailto:wordpresspattern@gmail.com\">wordpresspattern@gmail.com</a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

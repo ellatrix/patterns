@@ -1,0 +1,110 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-38343E7880422-000001",
+            "focalPoint": {
+                "x": "0.50",
+                "y": "0.50"
+            },
+            "customGradient": "linear-gradient(90deg,rgba(240,230,204,0.85) 38%,rgb(240,230,204) 38%)",
+            "contentPosition": "bottom center",
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "bottom": "100px",
+                        "right": "0px",
+                        "left": "0px",
+                        "top": "10%"
+                    }
+                },
+                "color": []
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "66%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Mountain Bio Farm Family",
+                                    "level": 1,
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column"
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "420px"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "We are family-run farm producing high quality fruits and vegetables on slopes of picturesque Little Carpathians mountains.",
+                                                    "textColor": "black",
+                                                    "fontSize": "l"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "url": "#0",
+                                                            "text": "About Us <strong>→</strong>",
+                                                            "textColor": "black",
+                                                            "fontSize": "m"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "34%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-pd10-jite-0517_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=5ecf7139e6a6219d7537f01c6fbd56b2",
+                                    "href": "#0",
+                                    "linkDestination": "custom"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

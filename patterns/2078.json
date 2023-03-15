@@ -1,0 +1,175 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "2em",
+                        "bottom": "2em",
+                        "right": "2em",
+                        "left": "2em"
+                    }
+                },
+                "elements": {
+                    "link": {
+                        "color": []
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "40%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "50px"
+                                }
+                            },
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://s.w.org/patterns/files/2021/07/2206377-1024x1024.jpg",
+                                    "id": 2080,
+                                    "sizeSlug": "large",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "url": "https://s.w.org/patterns/files/2021/07/2206375-1024x1024.jpg",
+                                                    "id": 2079,
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "1em",
+                                                "right": "1em",
+                                                "bottom": "1em",
+                                                "left": "1em"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/spacer",
+                                        "attributes": {
+                                            "height": "10px"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "<strong>Charcoal on paper</strong>",
+                                            "anchor": "charcoal-on-paper",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.1",
+                                                    "fontSize": "48px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "18 drawings of structures and seaside scenes.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "24px",
+                                                    "lineHeight": "1.4"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/spacer",
+                                        "attributes": {
+                                            "height": "10px"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column"
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "width": "66.66%"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/image",
+                                                "attributes": {
+                                                    "url": "https://s.w.org/patterns/files/2021/07/2206380-1024x1024.jpg",
+                                                    "id": 2081,
+                                                    "sizeSlug": "large",
+                                                    "linkDestination": "none"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/spacer",
+                                "attributes": {
+                                    "height": "10px"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

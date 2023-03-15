@@ -1,0 +1,62 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "white",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "13em",
+                        "bottom": "13em"
+                    }
+                },
+                "color": {
+                    "gradient": "linear-gradient(150deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 25%,rgb(34,34,34) 25%,rgb(17,17,17) 75%,rgba(255,255,255,0) 75%,rgba(248,213,165,0) 100%)"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "Art &amp; Beauté",
+                    "anchor": "art-beaute",
+                    "style": {
+                        "typography": {
+                            "lineHeight": "1.2"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "Writing that influences modern culture"
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center",
+                        "orientation": "horizontal"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "url": "#0",
+                            "text": "Subscribe",
+                            "textColor": "white"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

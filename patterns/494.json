@@ -1,0 +1,308 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#f0ede4"
+                },
+                "spacing": {
+                    "padding": {
+                        "top": "4rem",
+                        "right": "2rem",
+                        "bottom": "4rem",
+                        "left": "2rem"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "textColor": "black",
+                            "style": {
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "var:preset|color|black"
+                                        }
+                                    }
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "4rem",
+                                        "right": "2rem",
+                                        "bottom": "4rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Group-30-300x300.jpg",
+                                    "alt": "Portrait of a Woman by Egon Schiele.",
+                                    "id": 495,
+                                    "width": 200,
+                                    "height": 200,
+                                    "sizeSlug": "medium",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Marie Martín<br></strong>Editor-in-chief"
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "customIconColor": "#ffffff",
+                                    "iconColorValue": "#ffffff",
+                                    "customIconBackgroundColor": "#000000",
+                                    "iconBackgroundColorValue": "#000000"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://instagram.com",
+                                            "service": "instagram"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://facebook.com",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://twitter.com",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://wordpress.org",
+                                            "service": "wordpress"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "textColor": "black",
+                            "style": {
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "var:preset|color|black"
+                                        }
+                                    }
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "4rem",
+                                        "right": "2rem",
+                                        "bottom": "4rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Group-31-300x300.jpg",
+                                    "alt": "Portrait of a Woman by Egon Schiele.",
+                                    "id": 496,
+                                    "width": 200,
+                                    "height": 200,
+                                    "sizeSlug": "medium",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Elizabeth Linden<br></strong>Style Editor"
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "customIconColor": "#ffffff",
+                                    "iconColorValue": "#ffffff",
+                                    "customIconBackgroundColor": "#000000",
+                                    "iconBackgroundColorValue": "#000000"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://instagram.com",
+                                            "service": "instagram"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://facebook.com",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://twitter.com",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://wordpress.org",
+                                            "service": "wordpress"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "white",
+                            "textColor": "black",
+                            "style": {
+                                "elements": {
+                                    "link": {
+                                        "color": {
+                                            "text": "var:preset|color|black"
+                                        }
+                                    }
+                                },
+                                "spacing": {
+                                    "padding": {
+                                        "top": "4rem",
+                                        "right": "2rem",
+                                        "bottom": "2rem",
+                                        "left": "2rem"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/Group-29-300x300.jpg",
+                                    "alt": "Portrait of a Woman by Egon Schiele.",
+                                    "id": 497,
+                                    "width": 200,
+                                    "height": 200,
+                                    "sizeSlug": "medium",
+                                    "linkDestination": "none"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "center",
+                                    "content": "<strong>Janet Smith<br></strong>Fashion Editor"
+                                }
+                            },
+                            {
+                                "name": "core/separator",
+                                "attributes": {
+                                    "opacity": "css"
+                                }
+                            },
+                            {
+                                "name": "core/social-links",
+                                "attributes": {
+                                    "customIconColor": "#ffffff",
+                                    "iconColorValue": "#ffffff",
+                                    "customIconBackgroundColor": "#000000",
+                                    "iconBackgroundColorValue": "#000000"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://instagram.com",
+                                            "service": "instagram"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://facebook.com",
+                                            "service": "facebook"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://twitter.com",
+                                            "service": "twitter"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/social-link",
+                                        "attributes": {
+                                            "url": "https://wordpress.org",
+                                            "service": "wordpress"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/paragraph",
+        "attributes": {}
+    }
+]

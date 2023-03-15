@@ -1,0 +1,551 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "80px",
+                        "bottom": "50px"
+                    }
+                },
+                "color": {
+                    "background": "#020070"
+                }
+            },
+            "layout": {
+                "inherit": false,
+                "contentSize": "1100px",
+                "wideSize": "1400px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "layout": {
+                                "inherit": false
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "35px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        },
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "center",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-02-07-eye_0.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=020fab5a8be7dea359804149b989c743",
+                                            "width": 90,
+                                            "height": 90,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Lorem Ipsum",
+                                            "level": 4,
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "30px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "10px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "30px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "150px"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Learn More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#020070"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "layout": {
+                                "inherit": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "35px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "center",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0204-0004-eye.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=89f20088326eb01fbded5dcb2c8e8d1a",
+                                            "width": 90,
+                                            "height": 90,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Lorem Text",
+                                            "level": 4,
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "30px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "10px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "30px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "150px"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Learn More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#020070"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "layout": {
+                                "inherit": true
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "color": {
+                                            "background": "#f9f9f9"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "20px",
+                                                "right": "15px",
+                                                "bottom": "36px",
+                                                "left": "15px"
+                                            }
+                                        },
+                                        "border": {
+                                            "radius": "15px"
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "align": "center",
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0603-06-eye.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6cd80d9d5b6db6d21f578b1c118e48e5",
+                                            "width": 90,
+                                            "height": 90,
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "Ipsum Text",
+                                            "level": 4,
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "30px",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "600",
+                                                    "textTransform": "capitalize"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "top": "10px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+                                            "textColor": "black",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "25px",
+                                                        "right": "0px",
+                                                        "bottom": "30px",
+                                                        "left": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "top": "0px",
+                                                        "right": "0px",
+                                                        "bottom": "0px",
+                                                        "left": "0px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "constrained",
+                                                "contentSize": "150px"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Learn More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "16px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "50px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "10px",
+                                                                        "bottom": "10px",
+                                                                        "left": "30px",
+                                                                        "right": "30px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#020070"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "name": "core/paragraph",
+        "attributes": {
+            "align": "center",
+            "content": "SELENA &amp; DANIEL",
+            "style": {
+                "color": {
+                    "text": "#e18037"
+                },
+                "typography": {
+                    "fontSize": "15px"
+                }
+            }
+        }
+    },
+    {
+        "name": "core/heading",
+        "attributes": {
+            "textAlign": "center",
+            "content": "Our Story",
+            "align": "wide",
+            "style": {
+                "color": {
+                    "text": "#738766"
+                },
+                "typography": {
+                    "lineHeight": "0",
+                    "textTransform": "uppercase",
+                    "letterSpacing": "1px",
+                    "fontStyle": "italic",
+                    "fontWeight": "600"
+                },
+                "spacing": {
+                    "margin": {
+                        "bottom": "80px"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "layout": {
+                        "inherit": false
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "DANIEL",
+                            "level": 3,
+                            "style": {
+                                "color": {
+                                    "text": "#738766"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "When I first saw you, I knew that you had a flame in your heart. And under our blue skies, marble movie skies, I found a home in your eyes, we’ll never be apart.",
+                            "style": {
+                                "color": {
+                                    "text": "#7c7c7c"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "align": "center",
+                            "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/home_04_image_01.jpg",
+                            "id": 155,
+                            "width": 415,
+                            "height": 415,
+                            "sizeSlug": "full",
+                            "linkDestination": "none"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "SELENA",
+                            "level": 3,
+                            "style": {
+                                "color": {
+                                    "text": "#738766"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "When I first saw you, I knew that you had a flame in your heart. And under our blue skies, marble movie skies, I found a home in your eyes, we’ll never be apart.",
+                            "style": {
+                                "color": {
+                                    "text": "#7c7c7c"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

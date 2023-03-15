@@ -1,0 +1,93 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "full"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "width": "50%"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/cover",
+                        "attributes": {
+                            "customOverlayColor": "#f6f6f6",
+                            "minHeight": 600
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "align": "center",
+                                    "url": "https://s.w.org/patterns/files/2021/06/wire-sculpture-263x300.jpg",
+                                    "id": 571,
+                                    "sizeSlug": "medium",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "1em",
+                                "right": "1em",
+                                "bottom": "1em",
+                                "left": "1em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "width": "320px"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<strong>Airplane</strong>",
+                                            "fontSize": "small",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.6"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Copper wire, wood base. I created this piece in late 2008. For this work, I aimed to convey both the industrial heaviness of an airplane, but also the cloudlike floating quality you feel when you’re in one.",
+                                            "fontSize": "small",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.6"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

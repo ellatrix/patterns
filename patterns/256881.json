@@ -1,0 +1,336 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "text": "#000000",
+                            "gradient": "radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 78%)"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Basic</strong>",
+                            "anchor": "single",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong>A great way to get started. Get a full-featured online store with a fast setup.</strong>",
+                            "fontSize": "normal",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css",
+                            "style": {
+                                "color": {
+                                    "background": "#000000"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "1 website"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "20 GB SSD storage"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "2 free Microsoft 365 mailboxes"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$10 / Month",
+                                    "backgroundColor": "black",
+                                    "textColor": "white",
+                                    "width": 100
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "text": "#000000",
+                            "gradient": "radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "<strong>Deluxe</strong>",
+                            "anchor": "family",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong><strong><strong><strong><strong>A great way to get started. Get a full-featured online store with a fast setup.</strong></strong></strong></strong></strong>",
+                            "fontSize": "normal",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "2 website"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "60 GB SSD storage"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "3 free Microsoft 365 mailboxes"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$15/ Month",
+                                    "textColor": "white",
+                                    "width": 100
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "style": {
+                        "color": {
+                            "text": "#000000",
+                            "gradient": "radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"
+                        },
+                        "elements": {
+                            "link": {
+                                "color": {
+                                    "text": "#000000"
+                                }
+                            }
+                        },
+                        "spacing": {
+                            "padding": {
+                                "top": "2em",
+                                "right": "2em",
+                                "bottom": "2em",
+                                "left": "2em"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "content": "Gold",
+                            "anchor": "patron",
+                            "style": {
+                                "typography": {
+                                    "fontSize": "40px"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "content": "<strong><strong>A great way to get started. Get a full-featured online store with a fast setup.</strong></strong>",
+                            "fontSize": "normal",
+                            "style": {
+                                "typography": {
+                                    "lineHeight": "1.5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/separator",
+                        "attributes": {
+                            "opacity": "css"
+                        }
+                    },
+                    {
+                        "name": "core/list",
+                        "attributes": {
+                            "fontSize": "normal"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "5 website"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "120 GB SSD storage"
+                                }
+                            },
+                            {
+                                "name": "core/list-item",
+                                "attributes": {
+                                    "content": "5 free Microsoft 365 mailboxes"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/buttons",
+                        "attributes": {
+                            "align": "full",
+                            "style": {
+                                "spacing": {
+                                    "blockGap": "0"
+                                }
+                            },
+                            "layout": {
+                                "type": "flex",
+                                "justifyContent": "center",
+                                "orientation": "horizontal"
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/button",
+                                "attributes": {
+                                    "text": "$20/ Month",
+                                    "textColor": "white",
+                                    "width": 100
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

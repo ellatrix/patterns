@@ -1,0 +1,100 @@
+[
+    {
+        "name": "core/media-text",
+        "attributes": {
+            "mediaPosition": "right",
+            "mediaId": 579,
+            "mediaType": "image",
+            "mediaUrl": "https://s.w.org/patterns/files/2021/06/palm-leaves-683x1024.jpg",
+            "mediaLink": "https://wordpress.org/patterns/palm-leaves/",
+            "verticalAlignment": "bottom",
+            "style": {
+                "color": {
+                    "background": "#ffffff",
+                    "text": "#000000"
+                },
+                "elements": {
+                    "link": {
+                        "color": {
+                            "text": "#000000"
+                        }
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "60px"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "Contact us",
+                    "style": {
+                        "typography": {
+                            "fontWeight": "700",
+                            "fontSize": "3em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "123 Columbia St, Brooklyn, NY<br>12345, United States",
+                    "style": {
+                        "typography": {
+                            "fontSize": "1.1em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "content": "Phone: +12345678900<br>Email: <a href=\"mailto:example@example.com\">example@example.com</a>",
+                    "style": {
+                        "typography": {
+                            "fontSize": "1.1em"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/social-links",
+                "attributes": {
+                    "customIconColor": "#FFFFFF",
+                    "iconColorValue": "#FFFFFF",
+                    "customIconBackgroundColor": "#000000",
+                    "iconBackgroundColorValue": "#000000"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://facebook.com",
+                            "service": "facebook"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://instagram.com",
+                            "service": "instagram"
+                        }
+                    },
+                    {
+                        "name": "core/social-link",
+                        "attributes": {
+                            "url": "https://twitter.com",
+                            "service": "twitter"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

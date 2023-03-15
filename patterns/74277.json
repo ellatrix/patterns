@@ -1,0 +1,247 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "background": "#fafafa"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "Recipe Index"
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "15px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "78%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a placeholder for people who need some type to visualize what the actual copy might look like if it were real content."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "20%"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {},
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0079-fooodiesfeed.com_sweet-and-salty-brunch.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9a6552d0afbfadad5a9271f83a681756",
+                                    "dimRatio": 50,
+                                    "focalPoint": {
+                                        "x": "0.49",
+                                        "y": "0.49"
+                                    },
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Desserts</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://pd.w.org/2022/02/146620f28c85bd638.68290358.jpeg",
+                                    "dimRatio": 50,
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Appetizers</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0698-fresh-pasta-dill-vegetables.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=15a9f4a1a4027a146f154efaaa1a4d77",
+                                    "dimRatio": 50,
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Pasta</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://pd.w.org/2022/01/81961daad4980c192.04648683.jpg",
+                                    "dimRatio": 50,
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false,
+                                    "style": {
+                                        "color": []
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Mains</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0808-grilled-fresh-caught-sea-fish1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=02567dcfbdf37aa34ab9e54e7e039423",
+                                    "dimRatio": 50,
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Fish</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0105-real-proper-quail-eggs-breakfast.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6a45ea2986b603ad68b0447a5d4dd9c0",
+                                    "dimRatio": 50,
+                                    "minHeight": 100,
+                                    "minHeightUnit": "px",
+                                    "isDark": false
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "textAlign": "center",
+                                            "content": "<strong><a href=\"#\">Brunch</a></strong>",
+                                            "level": 3,
+                                            "textColor": "white",
+                                            "fontSize": "medium"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            }
+        ]
+    }
+]

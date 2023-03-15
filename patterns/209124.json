@@ -1,0 +1,703 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "right": "30px",
+                        "left": "30px",
+                        "top": "50px",
+                        "bottom": "40px"
+                    },
+                    "margin": {
+                        "top": "0px",
+                        "bottom": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1170px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "30px",
+                                "left": "0px"
+                            },
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "radius": "10px",
+                                            "style": "solid",
+                                            "width": "1px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "0px",
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://pd.w.org/2022/02/880621b5abddc3020.89036280-2048x1536.jpg",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "10px",
+                                                        "topRight": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "left": "25px",
+                                                        "right": "25px",
+                                                        "top": "0px",
+                                                        "bottom": "30px"
+                                                    },
+                                                    "blockGap": "0px",
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "5px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Dec 09, 2022",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "3 comments",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Business Meeting At California",
+                                                    "level": 4,
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "22px",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "600"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "right": "0px",
+                                                                "left": "0px",
+                                                                "top": "0px",
+                                                                "bottom": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "text": "#111111"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "25px",
+                                                                "left": "0px"
+                                                            }
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "color": {
+                                                            "text": "#555555"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "0px"
+                                                            }
+                                                        }
+                                                    },
+                                                    "layout": {
+                                                        "type": "flex",
+                                                        "justifyContent": "space-between",
+                                                        "orientation": "horizontal",
+                                                        "flexWrap": "nowrap"
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "border": {
+                                                                    "radius": "5px"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "7px",
+                                                                        "bottom": "7px",
+                                                                        "left": "20px",
+                                                                        "right": "20px"
+                                                                    }
+                                                                },
+                                                                "color": {
+                                                                    "background": "#00bcd4"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "style": "solid",
+                                            "width": "1px",
+                                            "radius": "10px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "0px",
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-45553a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ab8ec5c07345ca93a4f0eccc4a3b6cb3",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "10px",
+                                                        "topRight": "10px",
+                                                        "bottomLeft": "0px",
+                                                        "bottomRight": "0px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "25px",
+                                                        "left": "25px",
+                                                        "bottom": "30px",
+                                                        "top": "0px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "5px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Dec 09, 2022",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "3 comments",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Business Meeting At California",
+                                                    "level": 4,
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "22px",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "600"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "right": "0px",
+                                                                "left": "0px",
+                                                                "top": "0px",
+                                                                "bottom": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "text": "#111111"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "25px",
+                                                                "left": "0px"
+                                                            }
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "color": {
+                                                            "text": "#555555"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "7px",
+                                                                        "bottom": "7px",
+                                                                        "left": "20px",
+                                                                        "right": "20px"
+                                                                    }
+                                                                },
+                                                                "border": {
+                                                                    "radius": "5px"
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "color": {
+                                                                    "background": "#00bcd4"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "borderColor": "cyan-bluish-gray",
+                                    "style": {
+                                        "border": {
+                                            "style": "solid",
+                                            "radius": "10px",
+                                            "width": "1px"
+                                        },
+                                        "spacing": {
+                                            "padding": {
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/image",
+                                        "attributes": {
+                                            "url": "https://pd.w.org/2021/05/97060b09513e73a89.38852584-2048x1536.jpeg",
+                                            "sizeSlug": "full",
+                                            "linkDestination": "none",
+                                            "style": {
+                                                "border": {
+                                                    "radius": {
+                                                        "topLeft": "10px",
+                                                        "topRight": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/group",
+                                        "attributes": {
+                                            "style": {
+                                                "spacing": {
+                                                    "padding": {
+                                                        "right": "24px",
+                                                        "left": "24px",
+                                                        "top": "0px",
+                                                        "bottom": "30px"
+                                                    },
+                                                    "margin": {
+                                                        "top": "0px",
+                                                        "bottom": "0px"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/buttons",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "bottom": "5px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Dec 09, 2022",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "3 comments",
+                                                            "style": {
+                                                                "color": {
+                                                                    "background": "#ffffff00",
+                                                                    "text": "#000000a1"
+                                                                },
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "0px",
+                                                                        "right": "0px",
+                                                                        "bottom": "0px",
+                                                                        "left": "0px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px",
+                                                                    "textTransform": "capitalize"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/heading",
+                                                "attributes": {
+                                                    "content": "Business Meeting At California",
+                                                    "level": 4,
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "22px",
+                                                            "fontStyle": "normal",
+                                                            "fontWeight": "600"
+                                                        },
+                                                        "spacing": {
+                                                            "margin": {
+                                                                "right": "0px",
+                                                                "left": "0px",
+                                                                "top": "0px",
+                                                                "bottom": "15px"
+                                                            }
+                                                        },
+                                                        "color": {
+                                                            "text": "#111111"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/paragraph",
+                                                "attributes": {
+                                                    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            },
+                                                            "margin": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "25px",
+                                                                "left": "0px"
+                                                            }
+                                                        },
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "color": {
+                                                            "text": "#555555"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "core/buttons",
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/button",
+                                                        "attributes": {
+                                                            "text": "Read More",
+                                                            "textColor": "white",
+                                                            "style": {
+                                                                "spacing": {
+                                                                    "padding": {
+                                                                        "top": "7px",
+                                                                        "bottom": "7px",
+                                                                        "left": "20px",
+                                                                        "right": "20px"
+                                                                    }
+                                                                },
+                                                                "typography": {
+                                                                    "fontSize": "14px"
+                                                                },
+                                                                "border": {
+                                                                    "radius": "5px"
+                                                                },
+                                                                "color": {
+                                                                    "background": "#00bcd4"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": "0px",
+                    "padding": {
+                        "top": "0px",
+                        "right": "0px",
+                        "bottom": "0px",
+                        "left": "0px"
+                    }
+                }
+            },
+            "layout": {
+                "inherit": false
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/Mushroom-27560.mp4",
+                    "id": 12,
+                    "dimRatio": 50,
+                    "backgroundType": "video",
+                    "minHeight": 554,
+                    "minHeightUnit": "px",
+                    "contentPosition": "center center",
+                    "isDark": false,
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "50px",
+                                "right": "50px",
+                                "bottom": "50px",
+                                "left": "50px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/media-text",
+                        "attributes": {
+                            "mediaPosition": "right",
+                            "mediaId": 13,
+                            "mediaType": "image",
+                            "mediaWidth": 15,
+                            "mediaUrl": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/bg-circle.png",
+                            "imageFill": false
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<strong>START YOUR SHOP TODAY</strong>",
+                                    "textColor": "background",
+                                    "fontSize": "x-large",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": 1.2,
+                                            "letterSpacing": "4px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "STAND OUT WITH A ELEGANT HERO BANNER",
+                                    "textColor": "background",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "letterSpacing": "1px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

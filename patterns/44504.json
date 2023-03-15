@@ -1,0 +1,274 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "backgroundColor": "black",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "70px",
+                        "right": "30px",
+                        "left": "30px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "0px",
+                                "right": "0px",
+                                "bottom": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            },
+                            "blockGap": {
+                                "top": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "lorem",
+                                    "style": {
+                                        "typography": {
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "One of the main benefits of using Lorem Ipsum is that it can be easily generated, and it takes the pressure off designers to create meaningful text. Instead, they can focus on crafting the best website data.",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            },
+                                            "blockGap": "0px",
+                                            "margin": {
+                                                "top": "0px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "constrained",
+                                        "justifyContent": "left",
+                                        "contentSize": "180px"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/social-links",
+                                        "attributes": {
+                                            "iconColor": "white",
+                                            "iconColorValue": "#ffffff",
+                                            "openInNewTab": true,
+                                            "align": "left",
+                                            "style": {
+                                                "spacing": {
+                                                    "blockGap": {
+                                                        "top": "20px",
+                                                        "left": "20px"
+                                                    }
+                                                }
+                                            },
+                                            "layout": {
+                                                "type": "flex",
+                                                "justifyContent": "left"
+                                            }
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/social-link",
+                                                "attributes": {
+                                                    "url": "#",
+                                                    "service": "facebook"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/social-link",
+                                                "attributes": {
+                                                    "url": "#",
+                                                    "service": "twitter"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/social-link",
+                                                "attributes": {
+                                                    "url": "#",
+                                                    "service": "instagram"
+                                                }
+                                            },
+                                            {
+                                                "name": "core/social-link",
+                                                "attributes": {
+                                                    "url": "#",
+                                                    "service": "linkedin"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "30px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Contact Us",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "capitalize",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "fontSize": "30px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "123 BD Lorem, Ipsum<br><br>+123-456-7890",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1.2"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "sample@gmail.com",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Opening Hours: 10:00 - 18:00",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px",
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Newsletter",
+                                    "level": 4,
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "30px",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "700",
+                                            "textTransform": "capitalize"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum dolor sit amet, consectetur ut labore et dolore magna aliqua ipsum dolor sit",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "16px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/search",
+                                "attributes": {
+                                    "placeholder": "Enter your email...",
+                                    "buttonText": "Subscribe",
+                                    "buttonPosition": "button-inside",
+                                    "textColor": "white",
+                                    "style": {
+                                        "border": {
+                                            "width": "2px",
+                                            "color": "#4000e7"
+                                        },
+                                        "color": {
+                                            "background": "#4000e7"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

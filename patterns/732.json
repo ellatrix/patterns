@@ -1,0 +1,83 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "color": {
+                    "text": "#000000",
+                    "background": "#ffffff"
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "64px"
+                }
+            },
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>GET IN TOUCH</strong>",
+                    "fontSize": "small",
+                    "style": {
+                        "typography": {
+                            "lineHeight": ".9"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "textAlign": "center",
+                    "content": "<strong>Schedule a Visit</strong>",
+                    "anchor": "schedule-a-visit",
+                    "style": {
+                        "typography": {
+                            "fontSize": 59,
+                            "lineHeight": "1.15"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/buttons",
+                "attributes": {
+                    "layout": {
+                        "type": "flex",
+                        "justifyContent": "center",
+                        "orientation": "horizontal"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/button",
+                        "attributes": {
+                            "text": "Contact us",
+                            "width": 50,
+                            "style": {
+                                "color": {
+                                    "background": "#000000",
+                                    "text": "#ffffff"
+                                },
+                                "border": {
+                                    "radius": "50px"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "64px"
+                }
+            }
+        ]
+    }
+]

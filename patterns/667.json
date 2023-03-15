@@ -1,0 +1,75 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "overlayColor": "white",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "100px",
+                        "bottom": "100px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/cover",
+                "attributes": {
+                    "url": "https://s.w.org/patterns/files/2021/06/mount-fiji-Kamisaka-Sekka.jpg",
+                    "id": 668,
+                    "dimRatio": 0,
+                    "minHeight": 800,
+                    "minHeightUnit": "px",
+                    "contentPosition": "top right",
+                    "isDark": false,
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "30px",
+                                "right": "30px",
+                                "bottom": "30px",
+                                "left": "30px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "right",
+                            "content": "<strong>MOUNT FUJI</strong>",
+                            "anchor": "mount-fuji",
+                            "textColor": "black",
+                            "style": {
+                                "typography": {
+                                    "fontSize": 72,
+                                    "lineHeight": ".9"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "right",
+                            "content": "<strong>Kamisaka Sekka</strong>",
+                            "style": {
+                                "color": {
+                                    "text": "#1d3851"
+                                },
+                                "typography": {
+                                    "fontSize": 22,
+                                    "lineHeight": "1"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

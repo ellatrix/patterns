@@ -1,0 +1,472 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px",
+                        "right": "20px",
+                        "bottom": "50px",
+                        "left": "20px"
+                    }
+                }
+            },
+            "layout": {
+                "contentSize": "1200px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "blockGap": "30px"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0245.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1498c55adc4473f5bb5179ef571be040",
+                                    "minHeight": 420,
+                                    "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 57%,rgb(0,0,0) 57%)",
+                                    "contentPosition": "bottom left",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "25px",
+                                                "bottom": "0px",
+                                                "left": "25px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "01",
+                                            "placeholder": "Write title…",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "80px",
+                                                    "lineHeight": "1.1",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "100"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px",
+                                                "top": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "30px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "WEb Design",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.2"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem Ipsum",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "url": "#0",
+                                                    "text": "READ MORE",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0.5em",
+                                                                "right": "1em",
+                                                                "bottom": "0.5em",
+                                                                "left": "1em"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "30px",
+                                                                "topRight": "0px",
+                                                                "bottomLeft": "30px",
+                                                                "bottomRight": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd-36-2-ksc-08pd3160_orig.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=851687b9be01e964a3e48bfd2cadceb3",
+                                    "minHeight": 420,
+                                    "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 57%,rgb(0,0,0) 57%)",
+                                    "contentPosition": "bottom left",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "25px",
+                                                "bottom": "0px",
+                                                "left": "25px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "02",
+                                            "placeholder": "Write title…",
+                                            "style": {
+                                                "typography": {
+                                                    "lineHeight": "1.1",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "100",
+                                                    "fontSize": "80px"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px",
+                                                "top": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "30px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "seo expart",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.2"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem Ipsum",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "url": "#0",
+                                                    "text": "READ MORE",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0.5em",
+                                                                "right": "1em",
+                                                                "bottom": "0.5em",
+                                                                "left": "1em"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "30px",
+                                                                "topRight": "0px",
+                                                                "bottomLeft": "30px",
+                                                                "bottomRight": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "backgroundColor": "black",
+                            "textColor": "white",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "0px",
+                                        "right": "0px",
+                                        "bottom": "0px",
+                                        "left": "0px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/cover",
+                                "attributes": {
+                                    "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0308.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=40111256e224ac932f446f66d9236129",
+                                    "minHeight": 420,
+                                    "customGradient": "linear-gradient(200deg,rgba(0,0,0,0) 57%,rgb(0,0,0) 57%)",
+                                    "contentPosition": "bottom left",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "25px",
+                                                "bottom": "0px",
+                                                "left": "25px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "03",
+                                            "placeholder": "Write title…",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "80px",
+                                                    "lineHeight": "1.1",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "100"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/group",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "right": "30px",
+                                                "bottom": "30px",
+                                                "left": "30px",
+                                                "top": "0px"
+                                            },
+                                            "margin": {
+                                                "top": "30px",
+                                                "bottom": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "web development",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "700",
+                                                    "lineHeight": "1.2"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "10px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "There are many variations of passages of Lorem Ipsum",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                },
+                                                "spacing": {
+                                                    "margin": {
+                                                        "bottom": "20px"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/buttons",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/button",
+                                                "attributes": {
+                                                    "url": "#0",
+                                                    "text": "READ MORE",
+                                                    "textColor": "white",
+                                                    "style": {
+                                                        "typography": {
+                                                            "fontSize": "16px"
+                                                        },
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0.5em",
+                                                                "right": "1em",
+                                                                "bottom": "0.5em",
+                                                                "left": "1em"
+                                                            }
+                                                        },
+                                                        "border": {
+                                                            "radius": {
+                                                                "topLeft": "30px",
+                                                                "topRight": "0px",
+                                                                "bottomLeft": "30px",
+                                                                "bottomRight": "30px"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

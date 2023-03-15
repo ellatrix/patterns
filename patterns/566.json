@@ -1,0 +1,148 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "textColor": "black",
+            "style": {
+                "color": {
+                    "background": "#d2cdc7"
+                },
+                "elements": {
+                    "link": {
+                        "color": {
+                            "text": "var:preset|color|black"
+                        }
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "HÉLÈNE DUMAS<br><em>FRAGMENTS</em>",
+                    "align": "wide",
+                    "style": {
+                        "typography": {
+                            "fontSize": "46px",
+                            "lineHeight": "1.1",
+                            "fontWeight": "400"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/heading",
+                "attributes": {
+                    "content": "20/4 — 9/9/2021<br>SOUTH LONDON ART GALLERY",
+                    "level": 3,
+                    "align": "wide",
+                    "style": {
+                        "typography": {
+                            "fontSize": "46px",
+                            "lineHeight": "1.1",
+                            "fontWeight": "400"
+                        }
+                    }
+                }
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "25%"
+                        }
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "75%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://mywptesting.site/wp-content/uploads/2021/06/Histoire_naturelle_..._-fragments-_-_Upper_cover_C108eee15-1.jpg",
+                                    "id": 3173,
+                                    "sizeSlug": "full",
+                                    "linkDestination": "none"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "MORE INFO AT: WP.ORG · +44 21 1234 5678",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "25px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "right",
+                                    "content": "INSTAGRAM · <a href=\"#\">TICKETS</a>",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "25px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {
+                    "height": "50px"
+                }
+            }
+        ]
+    }
+]

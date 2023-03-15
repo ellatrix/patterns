@@ -1,0 +1,374 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-0942.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=60f5585cb162f1c0e71e8dc40cc3b738",
+            "dimRatio": 50,
+            "overlayColor": "black",
+            "focalPoint": {
+                "x": "0.58",
+                "y": "0.70"
+            },
+            "minHeight": 575,
+            "minHeightUnit": "px",
+            "contentPosition": "top center",
+            "isDark": false,
+            "align": "full",
+            "style": {
+                "color": []
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "10px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "type": "default"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/columns",
+                        "attributes": {
+                            "verticalAlignment": "top"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "33.34%"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<a href=\"#\">Home</a> ",
+                                                            "textColor": "white"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<a href=\"#\">About</a>"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "33.34%",
+                                    "style": {
+                                        "spacing": {
+                                            "padding": {
+                                                "top": "0px",
+                                                "right": "0px",
+                                                "bottom": "0px",
+                                                "left": "0px"
+                                            }
+                                        }
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "align": "center",
+                                            "content": "<strong>LOGO</strong> <a href=\"https://www.google.com/imgres?imgurl=https%3A%2F%2Frespinor.com%2Fwp-content%2Fuploads%2F2017%2F04%2Flogo-dummy.png&amp;imgrefurl=http%3A%2F%2Frespinor.com%2Fcompany%2Flogo-dummy%2F&amp;tbnid=MHsLg1arCkZmFM&amp;vet=12ahUKEwiC3-rJwMD4AhVsLrcAHe-eBQ4QMygJegUIARDMAQ..i&amp;docid=R38osm9dKxEqgM&amp;w=360&amp;h=120&amp;q=logo%20dummy%20png&amp;ved=2ahUKEwiC3-rJwMD4AhVsLrcAHe-eBQ4QMygJegUIARDMAQ\"></a>",
+                                            "style": {
+                                                "color": {
+                                                    "text": "#f6f6f6"
+                                                },
+                                                "typography": {
+                                                    "fontSize": "40px",
+                                                    "lineHeight": "1"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "core/column",
+                                "attributes": {
+                                    "verticalAlignment": "top",
+                                    "width": "33.33%",
+                                    "layout": {
+                                        "inherit": false
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/columns",
+                                        "attributes": {},
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "bottom": "0px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<a href=\"#\">News</a> "
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "core/column",
+                                                "attributes": {
+                                                    "style": {
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "bottom": "0px",
+                                                                "right": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<a href=\"#\">Contact</a>"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/group",
+                "attributes": {
+                    "style": {
+                        "spacing": {
+                            "padding": {
+                                "top": "100px"
+                            }
+                        }
+                    },
+                    "layout": {
+                        "inherit": true,
+                        "type": "constrained"
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/paragraph",
+                        "attributes": {
+                            "align": "center",
+                            "content": "<strong>Lorem Ipsum &amp; consectetur</strong>",
+                            "textColor": "white",
+                            "fontSize": "medium",
+                            "style": {
+                                "typography": {
+                                    "textTransform": "uppercase"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "name": "core/heading",
+                        "attributes": {
+                            "textAlign": "center",
+                            "content": "Lorem Ipsum&nbsp;is simply dummy text.&nbsp;",
+                            "textColor": "white"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "40px",
+                        "bottom": "50px"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "full"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "40px",
+                                        "left": "10px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "<strong><em>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium volupta tum  </em></strong>",
+                                    "level": 3,
+                                    "style": {
+                                        "spacing": {
+                                            "margin": {
+                                                "bottom": "50px"
+                                            }
+                                        },
+                                        "color": {
+                                            "text": "#004d43"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "text": "Learn more",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "15px"
+                                                },
+                                                "color": {
+                                                    "text": "#004d43"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "top": "10px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Lorem ipsum&nbsp;is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

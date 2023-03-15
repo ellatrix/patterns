@@ -1,0 +1,37 @@
+[
+    {
+        "name": "core/cover",
+        "attributes": {
+            "url": "https://s.w.org/images/core/5.5/don-quixote-06.jpg",
+            "id": 165,
+            "dimRatio": 15,
+            "focalPoint": {
+                "x": "0.40",
+                "y": "0.26"
+            },
+            "minHeight": 375,
+            "minHeightUnit": "px",
+            "contentPosition": "center center",
+            "align": "wide"
+        },
+        "innerBlocks": [
+            {
+                "name": "core/paragraph",
+                "attributes": {
+                    "align": "center",
+                    "content": "<strong>Don Quixote</strong>",
+                    "placeholder": "Write title…",
+                    "style": {
+                        "typography": {
+                            "fontSize": 74,
+                            "lineHeight": "1.1"
+                        },
+                        "color": {
+                            "text": "#fffffa"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "layout": {
+                "contentSize": "1280px",
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/media-text",
+                                "attributes": {
+                                    "mediaPosition": "right",
+                                    "mediaType": "image",
+                                    "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd42batch39-08-aom-b_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a22b7a8e408f94e2b392eeadddfc4867",
+                                    "backgroundColor": "black",
+                                    "textColor": "white"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Product →",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "letterSpacing": "0.1em"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Just a short sentence. Write your own copy text here.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">More →</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "textTransform": "uppercase",
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "0.2em"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/media-text",
+                                "attributes": {
+                                    "mediaPosition": "right",
+                                    "mediaType": "image",
+                                    "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-31-eye.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=47d800a56fe1c560cf36685009501737",
+                                    "backgroundColor": "black",
+                                    "textColor": "white"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "Support →",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "letterSpacing": "0.1em"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Just a short sentence. Write your own copy text here.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">More →</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "textTransform": "uppercase",
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "0.2em"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "verticalAlignment": "center",
+                    "style": {
+                        "spacing": {
+                            "blockGap": {
+                                "top": "0px",
+                                "left": "0px"
+                            },
+                            "margin": {
+                                "top": "0px",
+                                "bottom": "0px"
+                            }
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/media-text",
+                                "attributes": {
+                                    "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-pd43-05-eye_1_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=17c46d1d6f85d33f2acbe37d5edf151d",
+                                    "mediaType": "image",
+                                    "backgroundColor": "black",
+                                    "textColor": "white"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "→ Service",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "letterSpacing": "0.1em"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Just a short sentence. Write your own copy text here.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">More →</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "textTransform": "uppercase",
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "0.2em"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "center",
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/media-text",
+                                "attributes": {
+                                    "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-10-eye-02_0.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=e04c364deaf2e586a5ff5e25f97eb2df",
+                                    "mediaType": "image",
+                                    "backgroundColor": "black",
+                                    "textColor": "white"
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/heading",
+                                        "attributes": {
+                                            "content": "→ Feature",
+                                            "fontSize": "medium",
+                                            "style": {
+                                                "typography": {
+                                                    "textTransform": "uppercase",
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "500",
+                                                    "letterSpacing": "0.1em"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "Just a short sentence. Write your own copy text here.",
+                                            "style": {
+                                                "typography": {
+                                                    "fontSize": "16px"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "core/paragraph",
+                                        "attributes": {
+                                            "content": "<a href=\"#0\">More →</a>",
+                                            "style": {
+                                                "typography": {
+                                                    "fontStyle": "normal",
+                                                    "fontWeight": "300",
+                                                    "textTransform": "uppercase",
+                                                    "fontSize": "14px",
+                                                    "letterSpacing": "0.2em"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

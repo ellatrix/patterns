@@ -1,0 +1,242 @@
+[
+    {
+        "name": "core/columns",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "2rem",
+                        "right": "2rem",
+                        "bottom": "2rem",
+                        "left": "2rem"
+                    }
+                }
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-459455-jpeg-2-scaled-e1623939655993-1024x786.jpg",
+                            "alt": "A japanese painting of a bird in a river.",
+                            "id": 695,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "32px",
+                                        "left": "32px",
+                                        "bottom": "48px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "left",
+                                    "content": "My Story",
+                                    "level": 3,
+                                    "anchor": "my-story",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "Learn how I became an artist, and how I developed this particular style.",
+                                    "textColor": "white",
+                                    "fontSize": "small"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Read my story →</a>",
+                                    "textColor": "white",
+                                    "style": {
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|white"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-459357-jpeg-2-scaled-e1623939983253-1024x785.jpg",
+                            "alt": "Japanese painting of flora on a river.",
+                            "id": 696,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "32px",
+                                        "left": "32px",
+                                        "bottom": "48px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "left",
+                                    "content": "Get in Touch",
+                                    "level": 3,
+                                    "anchor": "get-in-touch",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "Want to show my art in your gallery? Send me an email and we'll chat.",
+                                    "textColor": "white",
+                                    "fontSize": "small"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Get in touch →</a>",
+                                    "textColor": "white",
+                                    "style": {
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|white"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/column",
+                "attributes": {
+                    "backgroundColor": "black"
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/image",
+                        "attributes": {
+                            "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-461096-jpeg-2-scaled-e1623939743434-1024x786.jpg",
+                            "alt": "Japanese painting of birds in the shore.",
+                            "id": 698,
+                            "sizeSlug": "large",
+                            "linkDestination": "none"
+                        }
+                    },
+                    {
+                        "name": "core/group",
+                        "attributes": {
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "32px",
+                                        "left": "32px",
+                                        "bottom": "48px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "textAlign": "left",
+                                    "content": "Follow Me",
+                                    "level": 3,
+                                    "anchor": "follow-me",
+                                    "textColor": "white",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "left",
+                                    "content": "Love my work? Follow me online to see new paintings first.",
+                                    "textColor": "white",
+                                    "fontSize": "small"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<a href=\"#\">Follow me →</a>",
+                                    "textColor": "white",
+                                    "style": {
+                                        "elements": {
+                                            "link": {
+                                                "color": {
+                                                    "text": "var:preset|color|white"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

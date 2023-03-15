@@ -1,0 +1,142 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "full",
+            "style": {
+                "spacing": {
+                    "blockGap": "0px"
+                }
+            },
+            "layout": {
+                "inherit": true,
+                "type": "constrained"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/spacer",
+                "attributes": {}
+            },
+            {
+                "name": "core/columns",
+                "attributes": {
+                    "align": "wide",
+                    "style": {
+                        "spacing": {
+                            "blockGap": "0px"
+                        }
+                    }
+                },
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "width": "50%"
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "right",
+                                    "content": "Sublime full site editing.",
+                                    "textColor": "black",
+                                    "style": {
+                                        "typography": {
+                                            "lineHeight": "1",
+                                            "fontStyle": "normal",
+                                            "fontWeight": "600",
+                                            "fontSize": "120px"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "align": "right",
+                                    "content": "—Taylor Jones",
+                                    "textColor": "black",
+                                    "fontSize": "medium",
+                                    "style": {
+                                        "typography": {
+                                            "textTransform": "uppercase"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "attributes": {
+                            "verticalAlignment": "bottom",
+                            "width": "50%",
+                            "style": {
+                                "spacing": {
+                                    "padding": {
+                                        "right": "5%",
+                                        "left": "5%",
+                                        "top": "100px"
+                                    }
+                                }
+                            }
+                        },
+                        "innerBlocks": [
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "Avant-Garde is a Chicago-based design studio that builds sophisticated websites for small businesses and professionals.",
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "We leverage the power of the WordPress block editor to create digital experiences that look groovy, function with purpose, and get people really excited. Ka-chow!",
+                                    "textColor": "black"
+                                }
+                            },
+                            {
+                                "name": "core/buttons",
+                                "attributes": {
+                                    "style": {
+                                        "spacing": {
+                                            "blockGap": "10px"
+                                        }
+                                    },
+                                    "layout": {
+                                        "type": "flex",
+                                        "justifyContent": "left"
+                                    }
+                                },
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#",
+                                            "text": "Learn More",
+                                            "backgroundColor": "black",
+                                            "textColor": "white"
+                                        }
+                                    },
+                                    {
+                                        "name": "core/button",
+                                        "attributes": {
+                                            "url": "#",
+                                            "text": "Our Services"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "core/spacer",
+                "attributes": {}
+            }
+        ]
+    }
+]

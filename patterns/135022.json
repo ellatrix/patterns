@@ -1,0 +1,204 @@
+[
+    {
+        "name": "core/group",
+        "attributes": {
+            "align": "wide",
+            "style": {
+                "spacing": {
+                    "padding": {
+                        "top": "50px"
+                    }
+                }
+            },
+            "layout": {
+                "wideSize": "100%"
+            }
+        },
+        "innerBlocks": [
+            {
+                "name": "core/columns",
+                "attributes": {},
+                "innerBlocks": [
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/image",
+                                "attributes": {
+                                    "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+                                    "alt": "smiling woman wearing white and black pinstriped collared top",
+                                    "width": 389,
+                                    "height": 582,
+                                    "style": {
+                                        "border": {
+                                            "width": "10px"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "core/column",
+                        "innerBlocks": [
+                            {
+                                "name": "core/heading",
+                                "attributes": {
+                                    "content": "Hello",
+                                    "level": 1
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "<strong>Lorem Ipsum&nbsp;is simply dummy text</strong>"
+                                }
+                            },
+                            {
+                                "name": "core/paragraph",
+                                "attributes": {
+                                    "content": "I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you."
+                                }
+                            },
+                            {
+                                "name": "core/columns",
+                                "attributes": {},
+                                "innerBlocks": [
+                                    {
+                                        "name": "core/column",
+                                        "attributes": {
+                                            "verticalAlignment": "center",
+                                            "backgroundColor": "white"
+                                        },
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/cover",
+                                                "attributes": {
+                                                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Eo_circle_green_blank.svg/512px-Eo_circle_green_blank.svg.png?20200417132254",
+                                                    "hasParallax": true,
+                                                    "dimRatio": 0,
+                                                    "minHeight": 100,
+                                                    "contentPosition": "center center",
+                                                    "isDark": false,
+                                                    "align": "center",
+                                                    "style": {
+                                                        "color": [],
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<span style=\"text-decoration: underline\">Resume</span>",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "19px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/cover",
+                                                "attributes": {
+                                                    "url": "https://www.pngkey.com/png/full/173-1737965_yellow-circle-yellow-small-circle.png",
+                                                    "hasParallax": true,
+                                                    "dimRatio": 0,
+                                                    "minHeight": 100,
+                                                    "contentPosition": "center center",
+                                                    "isDark": false,
+                                                    "style": {
+                                                        "color": [],
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<span style=\"text-decoration: underline\">Projects</span>",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "19px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "core/column",
+                                        "innerBlocks": [
+                                            {
+                                                "name": "core/cover",
+                                                "attributes": {
+                                                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Teal_Blue_Circle.png?20200109144814",
+                                                    "hasParallax": true,
+                                                    "dimRatio": 0,
+                                                    "minHeight": 100,
+                                                    "minHeightUnit": "px",
+                                                    "contentPosition": "center center",
+                                                    "isDark": false,
+                                                    "style": {
+                                                        "color": [],
+                                                        "spacing": {
+                                                            "padding": {
+                                                                "top": "0px",
+                                                                "right": "0px",
+                                                                "bottom": "0px",
+                                                                "left": "0px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "innerBlocks": [
+                                                    {
+                                                        "name": "core/paragraph",
+                                                        "attributes": {
+                                                            "align": "center",
+                                                            "content": "<span style=\"text-decoration: underline\">Contact</span>",
+                                                            "style": {
+                                                                "typography": {
+                                                                    "fontSize": "19px"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
