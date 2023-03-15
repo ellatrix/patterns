@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -12,22 +12,22 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "64px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/insects-and-flowers-white-1024x925.jpg",
                                     "alt": "An illustration of white flowers and insects.",
@@ -37,7 +37,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Flowers",
                                     "level": 3,
@@ -51,7 +51,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Bees are some of nature's most adept pollinators. They collect pollen in small sacs near their legs, dropping some along the way to help fertilize flowers. ",
                                     "style": {
@@ -63,10 +63,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "View more",
                                             "style": {
@@ -85,10 +85,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/insects-and-flowers-yellow-1024x930.jpg",
                                     "alt": "An illustration of yellow flowers and insects.",
@@ -98,7 +98,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Insects",
                                     "level": 3,
@@ -112,7 +112,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Bees aren't the only pollinators. Insects such as butterflies, moths, bee flies, mosquitoes, and even ants fertilize flowers as they travel around your yard. ",
                                     "style": {
@@ -124,10 +124,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "View more",
                                             "style": {
@@ -148,7 +148,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "64px"
                 }

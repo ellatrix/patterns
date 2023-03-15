@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/search",
+        "name": "search",
         "attributes": {
             "label": "Search",
             "buttonText": "Search"

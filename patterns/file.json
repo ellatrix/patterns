@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/file",
+        "name": "file",
         "attributes": {
             "href": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Armstrong_Small_Step.ogg",
             "fileName": "Armstrong_Small_Step"

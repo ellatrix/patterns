@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "overlayColor": "black",
             "align": "full",
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "A Bit About Me",
@@ -33,7 +33,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Who Am I?",
@@ -47,7 +47,7 @@
                 }
             },
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "align": "center",
                     "url": "https://sialifehospital.com/wp-content/uploads/2021/04/testimonial-1.png",
@@ -58,7 +58,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -70,7 +70,7 @@
                 }
             },
             {
-                "name": "core/social-links",
+                "name": "social-links",
                 "attributes": {
                     "iconColor": "luminous-vivid-orange",
                     "iconColorValue": "#ff6900",
@@ -83,7 +83,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "#",
                             "service": "facebook",
@@ -91,7 +91,7 @@
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "#",
                             "service": "linkedin",
@@ -99,7 +99,7 @@
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "#",
                             "service": "twitter",
@@ -109,7 +109,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -128,14 +128,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "align": "wide"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.3%",
@@ -153,11 +153,11 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -191,7 +191,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/offline_support_icon.svg",
@@ -202,7 +202,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>Team Leader</strong>",
                                                             "textColor": "black",
@@ -219,7 +219,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>More</strong>",
                                                             "textColor": "black",
@@ -243,7 +243,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.3%",
@@ -261,11 +261,11 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -299,7 +299,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/setting_icon.svg",
@@ -310,7 +310,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>Tester</strong>",
                                                             "textColor": "black",
@@ -327,7 +327,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>More</strong>",
                                                             "textColor": "black",
@@ -351,7 +351,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.3%",
@@ -369,11 +369,11 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -407,7 +407,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/extra_task_icon.svg",
@@ -418,7 +418,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>UI / UX</strong>",
                                                             "textColor": "black",
@@ -435,7 +435,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>More</strong>",
                                                             "textColor": "black",
@@ -459,7 +459,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.3%",
@@ -477,11 +477,11 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -515,7 +515,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/support_icon.svg",
@@ -526,7 +526,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>Web Developer</strong>",
                                                             "textColor": "black",
@@ -543,7 +543,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "<strong>More</strong>",
                                                             "textColor": "black",

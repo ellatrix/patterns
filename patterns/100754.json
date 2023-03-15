@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -21,17 +21,17 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "55%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-347.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=05a9ce0c93425fcb466c885b1ca5316b",
                                     "dimRatio": 0,
@@ -50,7 +50,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "left",
                                             "content": "Potted plants delivered to your door",
@@ -73,10 +73,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-389.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=c5cf5dcc851c58ec03fb38afb333d098",
                                     "dimRatio": 0,
@@ -84,7 +84,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "placeholder": "Write title…",
@@ -98,7 +98,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -111,7 +111,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "55%",
                             "style": {
@@ -125,7 +125,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Get a beginner-friendly plant curated for apartments delivered straight to your door every month.",
                                     "style": {
@@ -142,13 +142,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "See Plans",
                                             "fontSize": "medium",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "mediaPosition": "right",
             "mediaType": "image",
@@ -24,13 +24,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "60px"
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "content": "Contact us",
                     "style": {
@@ -42,7 +42,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "1111 Seabury Heights, South Australia, Australia",
                     "style": {
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "Phone: +1<br>Email: <a href=\"mailto:example@example.com\" data-type=\"mailto\" data-id=\"mailto:example@example.com\">email@email.com</a>",
                     "style": {
@@ -64,7 +64,7 @@
                 }
             },
             {
-                "name": "core/social-links",
+                "name": "social-links",
                 "attributes": {
                     "customIconColor": "#FFFFFF",
                     "iconColorValue": "#FFFFFF",
@@ -74,21 +74,21 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://facebook.com",
                             "service": "facebook"
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://instagram.com",
                             "service": "instagram"
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://twitter.com",
                             "service": "twitter"

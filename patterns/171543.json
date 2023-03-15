@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -19,7 +19,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -35,7 +35,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "layout": {
@@ -44,7 +44,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "left",
                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/spa-image-07.jpg.jpg",
@@ -61,13 +61,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "<strong>Where does it come from?</strong>",
                                     "style": {
@@ -83,7 +83,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle.",
@@ -102,7 +102,7 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -120,7 +120,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "<strong>Learn More</strong>",
                                             "textColor": "white",

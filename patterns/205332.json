@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -23,7 +23,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -46,7 +46,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -62,7 +62,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/pexels-andrea-piacquadio-3771106.jpg",
                                     "id": 6348,
@@ -79,7 +79,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "DESIGNERS HAVE A LOT OF THINGS TO FEEL HAPPY ABOUT",
@@ -111,7 +111,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Donec et odio pellentesque diam volutpat commodo sed egestas. Nisl condimentum id venenatis a. Proin nibh nisl condimentum id. Dictumst vestibulum rhoncus est .",
@@ -137,7 +137,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -154,7 +154,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/author.png",
@@ -173,7 +173,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "bottom",
                             "style": {
@@ -190,7 +190,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Creative Blog is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission.",
@@ -220,7 +220,7 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -238,7 +238,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Contact us",
                                             "textColor": "white",
@@ -269,7 +269,7 @@
                                 ]
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/images/core/5.8/portrait.jpg",
                                     "alt": "A side profile of a woman in a russet-colored turtleneck and white bag. She looks up with her eyes closed.",

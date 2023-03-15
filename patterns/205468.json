@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -28,7 +28,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -51,7 +51,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -68,7 +68,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -93,7 +93,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "An arweave community fund a",
                                             "textColor": "white",
@@ -123,7 +123,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -148,7 +148,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
                                                     "textColor": "white",
@@ -175,7 +175,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -189,7 +189,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "join us",
                                                             "textColor": "white",
@@ -225,13 +225,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/app-1.png",
                                     "width": 490,

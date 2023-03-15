@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -31,7 +31,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "backgroundColor": "black",
                             "textColor": "white",
@@ -48,7 +48,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0245.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1498c55adc4473f5bb5179ef571be040",
                                     "minHeight": 420,
@@ -66,7 +66,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "01",
                                             "placeholder": "Write title…",
@@ -83,7 +83,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -102,7 +102,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "WEb Design",
                                             "fontSize": "medium",
@@ -122,7 +122,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem Ipsum",
                                             "style": {
@@ -138,10 +138,10 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "url": "#0",
                                                     "text": "READ MORE",
@@ -176,7 +176,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "backgroundColor": "black",
                             "textColor": "white",
@@ -193,7 +193,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd-36-2-ksc-08pd3160_orig.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=851687b9be01e964a3e48bfd2cadceb3",
                                     "minHeight": 420,
@@ -211,7 +211,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "02",
                                             "placeholder": "Write title…",
@@ -228,7 +228,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -247,7 +247,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "seo expart",
                                             "fontSize": "medium",
@@ -267,7 +267,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem Ipsum",
                                             "style": {
@@ -283,10 +283,10 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "url": "#0",
                                                     "text": "READ MORE",
@@ -321,7 +321,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "backgroundColor": "black",
                             "textColor": "white",
@@ -338,7 +338,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0308.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=40111256e224ac932f446f66d9236129",
                                     "minHeight": 420,
@@ -356,7 +356,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "03",
                                             "placeholder": "Write title…",
@@ -373,7 +373,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -392,7 +392,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "web development",
                                             "fontSize": "medium",
@@ -412,7 +412,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem Ipsum",
                                             "style": {
@@ -428,10 +428,10 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "url": "#0",
                                                     "text": "READ MORE",

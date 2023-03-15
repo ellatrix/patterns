@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "layout": {
@@ -9,20 +9,20 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/447-1200x800-1.jpg",
                                     "sizeSlug": "large",
@@ -30,14 +30,14 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Travel Long Journey with Family in This winter season",
                                     "level": 4
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
                                 }
@@ -45,26 +45,26 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/106-1200x800-1.jpg",
                                                     "sizeSlug": "large",
@@ -74,13 +74,13 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Business women Having a brainstor meeting and build real customer",
                                                     "level": 5,
@@ -94,23 +94,23 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/columns",
+                                                "name": "columns",
                                                 "attributes": {
                                                     "verticalAlignment": "center",
                                                     "align": "full"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/buttons",
+                                                                "name": "buttons",
                                                                 "innerBlocks": [
                                                                     {
-                                                                        "name": "core/button",
+                                                                        "name": "button",
                                                                         "attributes": {
                                                                             "text": "Corporate",
                                                                             "width": 100,
@@ -140,13 +140,13 @@
                                                         ]
                                                     },
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "March 21, 2021",
                                                                     "style": {
@@ -165,20 +165,20 @@
                                 ]
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/1036-1200x800-2-1024x683-1.jpg",
                                                     "sizeSlug": "large",
@@ -188,13 +188,13 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Three Business women working together with requirements for business",
                                                     "level": 5,
@@ -208,23 +208,23 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/columns",
+                                                "name": "columns",
                                                 "attributes": {
                                                     "verticalAlignment": "center",
                                                     "align": "full"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/buttons",
+                                                                "name": "buttons",
                                                                 "innerBlocks": [
                                                                     {
-                                                                        "name": "core/button",
+                                                                        "name": "button",
                                                                         "attributes": {
                                                                             "text": "Business",
                                                                             "width": 100,
@@ -254,13 +254,13 @@
                                                         ]
                                                     },
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "March 21, 2021",
                                                                     "style": {
@@ -279,20 +279,20 @@
                                 ]
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/06/1011-1200x800-1.jpg",
                                                     "sizeSlug": "large",
@@ -302,13 +302,13 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Explained and How to Improve Them on Your Business Website",
                                                     "level": 5,
@@ -322,22 +322,22 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/columns",
+                                                "name": "columns",
                                                 "attributes": {
                                                     "align": "full"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "bottom"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/buttons",
+                                                                "name": "buttons",
                                                                 "innerBlocks": [
                                                                     {
-                                                                        "name": "core/button",
+                                                                        "name": "button",
                                                                         "attributes": {
                                                                             "text": "Business",
                                                                             "width": 100,
@@ -367,13 +367,13 @@
                                                         ]
                                                     },
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center"
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "March 21, 2021",
                                                                     "style": {

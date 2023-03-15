@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -11,13 +11,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "60%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-515.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ae88c4bcf62044eea09d385c1777ea13",
                             "sizeSlug": "full",
@@ -25,7 +25,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Designing the next era of cities",
                             "style": {
@@ -43,14 +43,14 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "bottom",
                     "width": "40%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-68.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=bcac43ab6ac92e7515ba11151a14b17e",
                             "sizeSlug": "full",

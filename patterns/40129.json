@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -14,7 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -29,7 +29,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-428.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=56fec4d724b34bca29e5130338297cd3",
                             "dimRatio": 0,
@@ -42,7 +42,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "placeholder": "Write title…",
@@ -54,7 +54,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "1000px",
                     "style": {
@@ -70,7 +70,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -87,7 +87,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "33.33%",
                                     "style": {
@@ -98,7 +98,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/cover",
+                                        "name": "cover",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-428.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=56fec4d724b34bca29e5130338297cd3",
                                             "dimRatio": 0,
@@ -120,7 +120,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "placeholder": "Write title…",
@@ -132,7 +132,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "66.66%",
                                     "style": {
@@ -151,13 +151,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "• • • • • •<br>• • • • • •<br>• • • • • •"
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Creatively<br>Unique Design",
                                             "style": {
@@ -175,13 +175,13 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Important: For the best results enable “Fixed background” option for each of the two Cover blocks in this pattern."
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -193,7 +193,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "More Info",
                                                     "backgroundColor": "black",
@@ -209,7 +209,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://pd.w.org/2021/12/83261cb2b23b76048.23421582.jpg",
             "dimRatio": 50,
@@ -27,7 +27,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "layout": {
                         "contentSize": "1280px",
@@ -36,19 +36,19 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Services<br>We Offer",
                                             "level": 1,
@@ -65,13 +65,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "right",
                                             "content": "• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •<br>• • • • • • • • •"
@@ -82,15 +82,15 @@
                         ]
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {}
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "textColor": "black",
@@ -107,7 +107,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "left",
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-pd43-05-eye_1_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=17c46d1d6f85d33f2acbe37d5edf151d",
@@ -126,7 +126,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<a href=\"#0\">Service Title</a>",
                                             "style": {
@@ -146,7 +146,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
                                             "style": {
@@ -159,7 +159,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "textColor": "black",
@@ -176,7 +176,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "left",
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-19-chim-02.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f7770b59c53df38c481dacaa06b7cc5f",
@@ -195,7 +195,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<a href=\"#0\">Service Title</a>",
                                             "style": {
@@ -215,7 +215,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
                                             "style": {
@@ -228,7 +228,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "textColor": "black",
@@ -245,7 +245,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "left",
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-31-eye.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=47d800a56fe1c560cf36685009501737",
@@ -264,7 +264,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<a href=\"#0\">Service Title</a>",
                                             "style": {
@@ -284,7 +284,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
                                             "style": {
@@ -297,7 +297,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "textColor": "black",
@@ -314,7 +314,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "left",
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-0604-132-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=8e607d80878147ce00aeab397b61d9dc",
@@ -333,7 +333,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<a href=\"#0\">Service Title</a>",
                                             "style": {
@@ -353,7 +353,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet est magna rhoncus.",
                                             "style": {

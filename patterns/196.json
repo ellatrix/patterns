@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "customOverlayColor": "#ffffff",
             "minHeight": 100,
@@ -11,7 +11,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/media-text",
+                "name": "media-text",
                 "attributes": {
                     "mediaAlt": "Close-up of dried, cracked earth.",
                     "mediaUrl": "https://s.w.org/images/core/5.8/soil.jpg",
@@ -23,7 +23,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>What's the problem?</strong>",
                             "style": {
@@ -37,7 +37,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Trees are more important today than ever before. More than 10,000 products are reportedly made from trees. Through chemistry, the humble woodpile is yielding chemicals, plastics and fabrics that were beyond comprehension when an axe first felled a Texas tree.",
                             "style": {
@@ -51,10 +51,10 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Learn more"
                                 }

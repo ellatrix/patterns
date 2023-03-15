@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "center",
             "align": "wide",
@@ -12,14 +12,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "width": "40%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "We create <mark style=\"background-color:#9b51e0\" class=\"has-inline-color has-white-color\">stunning</mark> imagery for you",
                             "style": {
@@ -30,7 +30,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "You smart, you loyal, you a genius. Bless up. In life there will be road blocks but we will over come it.",
                             "style": {
@@ -41,7 +41,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -51,7 +51,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "<strong>Action</strong>",
                                     "backgroundColor": "vivid-purple",
@@ -73,7 +73,7 @@
                                 }
                             },
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "<strong>Secondary</strong>",
                                     "textColor": "vivid-purple",
@@ -98,7 +98,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -117,15 +117,15 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-dec18-msp_1811_1121.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=919c2505ef3ef5f04a2d28ca4027a841",
                                             "sizeSlug": "full",
@@ -138,7 +138,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_1811_1117.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=72e5568f8603487bbb78e7c90ebe7bcc",
                                             "sizeSlug": "full",
@@ -148,10 +148,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_1811_1117.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=72e5568f8603487bbb78e7c90ebe7bcc",
                                             "sizeSlug": "full",
@@ -159,7 +159,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-dec18-msp_1811_1118.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7dd58e5d4caaa44d0b5c2db731af7c6d",
                                             "sizeSlug": "full",
@@ -169,10 +169,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-dec18-msp_1811_1118.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7dd58e5d4caaa44d0b5c2db731af7c6d",
                                             "sizeSlug": "full",
@@ -180,7 +180,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-dec18msp_1811_1116.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=48729013f7b9e59d262e8e31233a5f3c",
                                             "sizeSlug": "full",

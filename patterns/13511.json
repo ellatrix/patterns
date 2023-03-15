@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "align": "full",
             "mediaPosition": "right",
@@ -15,7 +15,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -31,7 +31,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Search through our catalog of posts.",
                             "style": {
@@ -44,7 +44,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase. Or, choose one of the buttons below to be directed to a category or tag archive."
                         }
@@ -52,7 +52,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -62,7 +62,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Enter a search term or phrase",
                             "level": 4,
@@ -76,7 +76,7 @@
                         }
                     },
                     {
-                        "name": "core/search",
+                        "name": "search",
                         "attributes": {
                             "label": "Search",
                             "showLabel": false,
@@ -90,11 +90,11 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Choose a topic",
                             "level": 4,
@@ -108,7 +108,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -122,7 +122,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Category 1",
                                     "fontSize": "small",
@@ -137,7 +137,7 @@
                                 }
                             },
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Category 2",
                                     "fontSize": "small",
@@ -152,7 +152,7 @@
                                 }
                             },
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Category 3",
                                     "fontSize": "small",
@@ -167,7 +167,7 @@
                                 }
                             },
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Category 4",
                                     "fontSize": "small",

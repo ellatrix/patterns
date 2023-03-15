@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -38,7 +38,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%",
@@ -55,7 +55,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0630.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=600d7b50905c0835a2bf01cc34d2fa10",
                                     "mediaType": "image",
@@ -67,7 +67,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -82,7 +82,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "<strong>→ Feature</strong>",
                                                     "textColor": "white",
@@ -96,7 +96,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here.",
                                                     "textColor": "white",
@@ -114,13 +114,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaPosition": "right",
                                     "mediaType": "image",
@@ -128,7 +128,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "textColor": "black",
                                             "style": {
@@ -144,7 +144,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "<strong>→ Service</strong>",
                                                     "textColor": "black",
@@ -158,7 +158,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here.",
                                                     "anchor": "block-53f3e5db-493e-4cf5-b1c8-583137de75b9",
@@ -178,7 +178,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -196,13 +196,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaPosition": "right",
                                     "mediaType": "image",
@@ -210,7 +210,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -225,7 +225,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "<strong>Support →</strong>",
                                                     "textColor": "black",
@@ -239,7 +239,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here.",
                                                     "anchor": "block-53f3e5db-493e-4cf5-b1c8-583137de75b9",
@@ -257,14 +257,14 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0627.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee7ccbd9363a826d1405fec2baa3a239",
                                     "mediaType": "image",
@@ -276,7 +276,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -291,7 +291,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "<strong>→ Feature</strong>",
                                                     "textColor": "white",
@@ -305,7 +305,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here.",
                                                     "textColor": "white",

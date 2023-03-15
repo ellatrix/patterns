@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-nov18-10484_003-032_100mm_kodak_color_400.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=680762a921fef9c2fa50097ddcf9679c",
             "dimRatio": 50,
@@ -11,7 +11,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Christmas Collection",
@@ -27,7 +27,7 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -37,7 +37,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Go to Shop",
                             "textColor": "white",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "layout": {
@@ -69,16 +69,16 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-oct18-046.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=d48423e4a4c454bf5f2d0eb9743fbac0",
                                     "dimRatio": 30,
@@ -94,7 +94,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Premium Trees",
@@ -112,13 +112,13 @@
                                         }
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "backgroundColor": "white"
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "layout": {
                                                 "type": "flex",
@@ -128,7 +128,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Shop Now",
                                                     "textColor": "white",
@@ -153,10 +153,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0729.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a1b559bee024740f366e16cf04e7b04c",
                                     "dimRatio": 30,
@@ -169,7 +169,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Decorations",
@@ -187,13 +187,13 @@
                                         }
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "backgroundColor": "white"
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "layout": {
                                                 "type": "flex",
@@ -203,7 +203,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Shop Now",
                                                     "textColor": "white",
@@ -228,10 +228,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0730.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=bc8974c05b29597084233b81559a7c41",
                                     "dimRatio": 30,
@@ -248,7 +248,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Baubles",
@@ -266,13 +266,13 @@
                                         }
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "backgroundColor": "white"
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "layout": {
                                                 "type": "flex",
@@ -282,7 +282,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Shop Now",
                                                     "textColor": "white",

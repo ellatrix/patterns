@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "align": "full",
             "mediaPosition": "right",
@@ -14,7 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "ZARA WAS FOUNDED IN 1975",
@@ -28,14 +28,14 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "New Collection"
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Spring-Summer, 2022",
@@ -49,10 +49,10 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "VIEW ALL",
                             "backgroundColor": "black",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "backgroundColor": "white",
@@ -90,10 +90,10 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/179_2-1.png",
                             "id": 444,
@@ -104,22 +104,22 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "About New Collection"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Zara is a Spanish clothes and accessories brand, it is the flagship brand of the Inditex group.&nbsp;Few clothing brands keep up with the latest fashion, are of high quality and yet, affordable. It is probably the amalgamation of all these qualities that made Zara."
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -128,7 +128,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "VIEW ALL",
                                     "backgroundColor": "black",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -167,7 +167,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -180,19 +180,19 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Zara is part of the biggest fashion company in the world"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Zara is one of the world’s most successful fashion retail brands – if not the most successful one. With its dramatic introduction of the concept of “fast fashion” retail since it was founded in 1975 in Spain, Zara aspires to create responsible passion for fashion a broad spectrum of consumers, spread across different cultures and age groups."
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -202,7 +202,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "READ ALL",
                                     "backgroundColor": "white",
@@ -223,10 +223,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://testingmayur.ussl.co.il/wp-content/uploads/2022/06/New-Project-1024x1024.png",
                             "id": 472,

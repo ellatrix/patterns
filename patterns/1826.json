@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "textColor": "white",
@@ -18,7 +18,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Art &amp; Beauté",
@@ -31,14 +31,14 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Writing that influences modern culture"
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -48,7 +48,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "url": "#0",
                             "text": "Subscribe",

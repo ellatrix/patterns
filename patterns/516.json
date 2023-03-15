@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/pattern-squares-scaled-1.jpg",
             "id": 514,
@@ -12,13 +12,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "color": {
@@ -44,7 +44,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "<strong>Art &amp; Beauté</strong>",
                                     "style": {
@@ -56,7 +56,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Fashion that influences modern culture"
                                 }

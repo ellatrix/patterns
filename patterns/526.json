@@ -1,13 +1,13 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {},
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/Iris-793x1024.jpg",
                             "id": 525,
@@ -16,7 +16,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>White Irises</strong><br>Ogawa Kazumasa",
                             "style": {
@@ -29,14 +29,14 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {}
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Cherry Blossom</strong><br>Ogawa Kazumasa",
                             "style": {
@@ -47,7 +47,7 @@
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/Cherry-Blossom-707x1024.jpg",
                             "id": 524,

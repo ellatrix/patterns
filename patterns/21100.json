@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -22,14 +22,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21-32-rp-f-2001-7-1557d-12.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4b1d00df872cb5c926ae1cdb4279cf9b",
                                     "sizeSlug": "full",
@@ -42,7 +42,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd45-19095201-rob.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=cd3f9e5b88a043ff36e93207620fe335",
                                     "sizeSlug": "full",
@@ -50,7 +50,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd45-19097001-rob.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=358fb1c0614cd5dd1b7fb7bf64153831",
                                     "sizeSlug": "full",
@@ -60,17 +60,17 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21-32-rp-f-2001-7-1557e-1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=64cd38e86248025d45ca99029fe1a068",
                                                     "sizeSlug": "full",
@@ -85,10 +85,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21-32-rp-f-2001-7-1557f-1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9afba98b4404a88d4df1c0aeca0a970f",
                                                     "sizeSlug": "full",
@@ -100,7 +100,7 @@
                                 ]
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21-32-rp-f-2001-7-1557b-1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b8902f92eb812cc1e502195c3a7ed1f8",
                                     "sizeSlug": "full",
@@ -113,7 +113,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21-32-rp-f-2001-7-1557j-1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=00bce56b9c58c7881f3f322481195426",
                                     "sizeSlug": "full",

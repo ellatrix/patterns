@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "textColor": "white",
@@ -24,18 +24,18 @@
         },
         "innerBlocks": [
             {
-                "name": "core/separator",
+                "name": "separator",
                 "attributes": {}
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "LOGO",
                                     "style": {
@@ -48,7 +48,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Donec malesuada eros eu dictum tristique. Maecenas nec mollis urna. Nunc dui ex, cursus non mollis et, accumsan nec tellus. Pellentesque accumsan lacinia felis nec viverra.",
                                     "style": {
@@ -59,7 +59,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Copyright © 2022 - Company Ltd."
                                 }
@@ -67,10 +67,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Newsletter",
                                     "level": 4,
@@ -85,7 +85,7 @@
                                 }
                             },
                             {
-                                "name": "core/search",
+                                "name": "search",
                                 "attributes": {
                                     "label": "SUBSCRIBE",
                                     "placeholder": "Enter Your Email...",
@@ -102,7 +102,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Pellentesque lobortis, tortor quis finibus lobortis, nulla metus porta enim, euismod hendrerit dolor leo a nunc.&nbsp;",
                                     "style": {
@@ -115,10 +115,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Contact Us",
                                     "level": 4,
@@ -133,7 +133,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "123 London, United Kingdom<br><br>+ 44 (0) 7 123-456-789",
                                     "style": {
@@ -145,7 +145,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "hi@example.com",
                                     "style": {
@@ -157,7 +157,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Opening Hours: 9:00am - 17:00pm <sup>| MON. - THUR.</sup>",
                                     "style": {
@@ -169,7 +169,7 @@
                                 }
                             },
                             {
-                                "name": "core/social-links",
+                                "name": "social-links",
                                 "attributes": {
                                     "iconColor": "white",
                                     "iconColorValue": "#ffffff",
@@ -185,49 +185,49 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "facebook"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "wordpress"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "twitter"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "instagram"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "linkedin"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "tiktok"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "pinterest"

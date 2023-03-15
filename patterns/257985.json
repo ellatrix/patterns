@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "customOverlayColor": "#151920",
             "align": "full",
@@ -15,7 +15,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -38,7 +38,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -62,7 +62,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "style": {
@@ -79,7 +79,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "<strong>Our Process</strong>",
@@ -111,7 +111,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "<strong>Healthy &amp;&nbsp;Improves Your Mood</strong>",
@@ -141,7 +141,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "style": {
                                                 "color": {
@@ -155,7 +155,7 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "align": "wide",
@@ -180,7 +180,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "backgroundColor": "black",
@@ -198,14 +198,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/r-icons-5.png",
@@ -223,13 +223,13 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "verticalAlignment": "center"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "01",
@@ -246,7 +246,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Clean Bar",
@@ -272,7 +272,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
@@ -300,7 +300,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/clean-bar-1.jpg",
                                             "width": 405,
@@ -312,7 +312,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "backgroundColor": "black",
@@ -330,14 +330,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/restaurant-1.png",
@@ -353,13 +353,13 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "verticalAlignment": "center"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "02",
@@ -376,7 +376,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Skilled Chefs",
@@ -402,7 +402,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
@@ -430,7 +430,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/great-chefs-1.jpg",
                                             "width": 406,
@@ -442,7 +442,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "backgroundColor": "black",
@@ -460,14 +460,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "left",
                                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/r-icons-6.png",
@@ -483,13 +483,13 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "verticalAlignment": "center"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "03",
                                                             "fontSize": "x-large",
@@ -505,7 +505,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Fresh Products",
@@ -531,7 +531,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Lorem Ipsum is simply dummy text of the printing typesetting industry ipsum.",
@@ -559,7 +559,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/10/healthy-foods1-1.jpg",
                                             "width": 406,
@@ -573,7 +573,7 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide",
                             "style": {
@@ -597,14 +597,14 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "12%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "right",
                                             "url": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/elementor/thumbs/meat-1-1-pwvftov0oevxravsmeoqvlhq2qbgpb6hp2zlxoppyg.png",
@@ -615,14 +615,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "65%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "We Have 5+ Years of Experience, Give Better Quality",
@@ -639,7 +639,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "left",
                                             "content": "Perspiciatis unde omnis iste natus error sit voluptatem laudantium, totam rem, eaque ipsa",
@@ -663,17 +663,17 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "23%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Contact Us",
                                                     "style": {

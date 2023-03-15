@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -21,27 +21,27 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "40%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "50px"
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/07/2206377-1024x1024.jpg",
                                     "id": 2080,
@@ -52,20 +52,20 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://s.w.org/patterns/files/2021/07/2206375-1024x1024.jpg",
                                                     "id": 2079,
@@ -76,12 +76,12 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column"
+                                        "name": "column"
                                     }
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -96,13 +96,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/spacer",
+                                        "name": "spacer",
                                         "attributes": {
                                             "height": "10px"
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Charcoal on paper</strong>",
                                             "anchor": "charcoal-on-paper",
@@ -115,7 +115,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "18 drawings of structures and seaside scenes.",
                                             "style": {
@@ -127,7 +127,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/spacer",
+                                        "name": "spacer",
                                         "attributes": {
                                             "height": "10px"
                                         }
@@ -135,20 +135,20 @@
                                 ]
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column"
+                                        "name": "column"
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "66.66%"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://s.w.org/patterns/files/2021/07/2206380-1024x1024.jpg",
                                                     "id": 2081,
@@ -161,7 +161,7 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "10px"
                                 }

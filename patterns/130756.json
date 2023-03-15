@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,13 +20,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "border": {
@@ -45,7 +45,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -71,7 +71,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd24-0028-jj.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f3f81e43293664418491d438313e3fab",
                                             "sizeSlug": "full",
@@ -95,13 +95,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -119,7 +119,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Animals Artist.",
                                     "textColor": "black",
@@ -134,7 +134,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. This is just a demo text you should overwrite.",
                                     "textColor": "black",
@@ -149,14 +149,14 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence.",
                                     "textColor": "black"
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -166,7 +166,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Book Now →",
                                             "textColor": "black",
@@ -191,7 +191,7 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "10px"
                                 }

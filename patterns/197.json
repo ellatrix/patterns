@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -11,26 +11,26 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "70px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<strong>Oceanic Inspiration</strong>",
                                     "style": {
@@ -47,13 +47,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "opacity": "css",
                                     "style": {
@@ -68,19 +68,19 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column"
+                        "name": "column"
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Winding veils round their heads, the women walked on deck. They were now moving steadily down the river, passing the dark shapes of ships at anchor, and London was a swarm of lights with a pale yellow canopy drooping above it. There were the lights of the great theatres, the lights of the long streets, lights that indicated huge squares of domestic comfort, lights that hung high in air.",
                                     "fontSize": "extra-small",
@@ -94,10 +94,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "No darkness would ever settle upon those lamps, as no darkness had settled upon them for hundreds of years. It seemed dreadful that the town should blaze for ever in the same spot; dreadful at least to people going away to adventure upon the sea, and beholding it as a circumscribed mound, eternally burnt, eternally scarred. From the deck of the ship the great city appeared a crouched and cowardly figure, a sedentary miser.",
                                     "fontSize": "extra-small",
@@ -113,7 +113,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "40px"
                 }

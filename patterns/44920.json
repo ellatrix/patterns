@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide",
             "style": {
@@ -14,14 +14,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "bottom",
                     "width": "25%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "right",
                             "content": "We",
@@ -40,11 +40,11 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-201107210002hq.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee99aedf415952ed5f56b876439597f6",
                             "focalPoint": {
@@ -67,7 +67,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Design",
                                     "style": {

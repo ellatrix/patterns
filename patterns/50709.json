@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -36,19 +36,19 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "About.",
                                             "style": {
@@ -61,7 +61,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>WE'RE MORE THAN A DIGITAL AGENCY</strong>",
                                             "textColor": "vivid-red",
@@ -77,13 +77,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "left",
                                             "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore corrupti temporibus fuga earum asperiores, alias excepturi sit. Impedit, fugit laudantium.",
@@ -104,7 +104,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -117,13 +117,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "66.66%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-232.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=59094235fd35f02f42b70e4cba9e3aec",
                                     "dimRatio": 50,
@@ -141,7 +141,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Teamwork</strong>",
                                             "style": {
@@ -154,7 +154,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Committed and creative",
                                             "fontSize": "medium",
@@ -172,13 +172,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33.33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-231.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=51d04314e5a3ccf2aa4921a9cec76a33",
                                     "dimRatio": 50,
@@ -196,7 +196,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Philosophy</strong>",
                                             "style": {
@@ -209,7 +209,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Trust pays off",
                                             "fontSize": "medium",
@@ -225,7 +225,7 @@
                                 ]
                             },
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-165.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=fdf6658a9e6c7c008c2df166818f1500",
                                     "dimRatio": 50,
@@ -243,7 +243,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Office<br></strong>",
                                             "style": {
@@ -256,7 +256,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Berlin, UK",
                                             "fontSize": "medium",

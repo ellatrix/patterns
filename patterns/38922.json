@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -25,7 +25,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -48,7 +48,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -64,7 +64,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Recent blog Post",
@@ -93,7 +93,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -150,7 +150,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -173,10 +173,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -199,7 +199,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-684.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f205a7e00d65b4c29072aa1abe420c6b",
                                             "sizeSlug": "full",
@@ -217,7 +217,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Dec. 09, 20203 Comments",
                                             "level": 6,
@@ -238,7 +238,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem Ipsum is simply dummy text",
                                             "level": 4,
@@ -260,7 +260,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -273,7 +273,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -284,7 +284,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",
@@ -318,10 +318,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -344,7 +344,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-24525a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1fa3268525b62d094b11aeeff2f0b271",
                                             "sizeSlug": "full",
@@ -362,7 +362,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Dec. 09, 20203 Comments",
                                             "level": 6,
@@ -384,7 +384,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem Ipsum is simply dummy text",
                                             "level": 4,
@@ -406,7 +406,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -419,10 +419,10 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",
@@ -456,10 +456,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -482,7 +482,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-201107210002hq.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ee99aedf415952ed5f56b876439597f6",
                                             "sizeSlug": "full",
@@ -500,7 +500,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Dec. 09, 20203 Comments",
                                             "level": 6,
@@ -522,7 +522,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem Ipsum is simply dummy text",
                                             "level": 4,
@@ -544,7 +544,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -557,10 +557,10 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",

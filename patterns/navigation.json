@@ -1,26 +1,26 @@
 [
     {
-        "name": "core/navigation",
+        "name": "navigation",
         "attributes": {
             "overlayMenu": "never"
         },
         "innerBlocks": [
             {
-                "name": "core/navigation-link",
+                "name": "navigation-link",
                 "attributes": {
                     "label": "Home",
                     "url": "https://make.wordpress.org/"
                 }
             },
             {
-                "name": "core/navigation-link",
+                "name": "navigation-link",
                 "attributes": {
                     "label": "About",
                     "url": "https://make.wordpress.org/"
                 }
             },
             {
-                "name": "core/navigation-link",
+                "name": "navigation-link",
                 "attributes": {
                     "label": "Contact",
                     "url": "https://make.wordpress.org/"

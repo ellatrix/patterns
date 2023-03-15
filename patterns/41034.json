@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "textColor": "white",
@@ -25,7 +25,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -48,13 +48,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://drscdn.500px.org/photo/180822421/m%3D1080_k%3D1_a%3D1/f20fc3c16b538f5e2cee2c476337f657",
                                     "sizeSlug": "full",
@@ -64,7 +64,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -85,7 +85,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -110,7 +110,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "our top services",
                                             "level": 6,
@@ -141,7 +141,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Our Best Services",
                                             "textColor": "white",
@@ -170,7 +170,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                                             "level": 6,
@@ -186,7 +186,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                                             "textColor": "white",
@@ -212,10 +212,10 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "ABOUT US",
                                                     "textColor": "white",

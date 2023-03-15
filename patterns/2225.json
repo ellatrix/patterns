@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,20 +20,20 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "wide",
                                     "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-3063927-jpeg-1-449x1024.jpg",
@@ -43,7 +43,7 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "150px"
                                 }
@@ -51,14 +51,14 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "bottom",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Works of Hiroaki Takahashi",
                                     "level": 1,
@@ -73,17 +73,17 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "70%"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "<em>A 20th-century Japanese woodblock artist in the shin-hanga art movement.</em>",
                                                     "fontSize": "small",
@@ -95,7 +95,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "left",
                                                     "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-3064481-jpeg-1-600x1024.jpg",
@@ -107,7 +107,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "30%"
                                         }
@@ -115,7 +115,7 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "50px"
                                 }

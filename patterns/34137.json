@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -27,7 +27,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -41,7 +41,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "60%",
@@ -56,7 +56,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "20 Years Of Coding Experience",
                                     "textColor": "vivid-green-cyan",
@@ -72,7 +72,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "We Code",
                                     "level": 1,
@@ -88,7 +88,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Your Future",
                                     "level": 1,
@@ -104,7 +104,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Donec erat nibh, efficitur eget convallis sed, dictum nec risus. Nulla laoreet vehicula lectus quis pretium. Aenean vel justo pulvinar, bibendum lorem sed, varius erat. Integer feugiat efficitur purus. Curabitur ac tellus rutrum, varius ex id, congue metus. In eget mollis mauris, sed hendrerit nibh.",
                                     "style": {
@@ -120,10 +120,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "READ MORE",
                                             "textColor": "white",
@@ -149,7 +149,7 @@
                                 ]
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Facebook - Instagram - YouTube",
                                     "style": {
@@ -169,13 +169,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0136.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b8fc3067842e1810bf10b2b86a120cb1",
                                     "sizeSlug": "full",

@@ -41,6 +41,8 @@ function removeAttrs( blocks ) {
 
         const blockType = getBlockType( block.name );
 
+        block.name = block.name.replace( 'core/', '' );
+
         if ( block.attributes && Object.keys( block.attributes ).length ) {
             for ( const [ key, value ] of Object.entries( block.attributes ) ) {
                 if ( new Set( [ 'className', 'id '] ).has( key ) ) {
@@ -83,7 +85,7 @@ const entries = [];
 
 for ( const example of examples ) {
     const pattern = removeAttrs( [ example.block ] );
-    fs.writeFileSync( `./patterns/${ example.name.replace('core/') }.json`, JSON.stringify( pattern, null, 4 ) );
+    fs.writeFileSync( `./patterns/${ example.name.replace('core/', '') }.json`, JSON.stringify( pattern, null, 4 ) );
     entries.push( JSON.stringify( {
         prompt: example.title + '. ' + example.description + '\n\n###\n\n',
         completion: ' ' + JSON.stringify( pattern ) + '###',

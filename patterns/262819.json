@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODc2MDQxLXdpa2ltZWRpYS1pbWFnZS1rcDY4dmQ5Yi1remVsMmx2di5qcGc.jpg",
             "hasParallax": true,
@@ -17,7 +17,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -36,7 +36,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "isStackedOnMobile": false,
                             "style": {
@@ -54,7 +54,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "65%",
                                     "layout": {
@@ -63,7 +63,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "right",
                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
@@ -88,14 +88,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "35%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "200 + Projects",
                                             "fontSize": "medium",
@@ -117,7 +117,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem IThere are many variations of  ",
                                             "style": {
@@ -144,7 +144,7 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "isStackedOnMobile": false,
                             "style": {
@@ -158,7 +158,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "45%",
                                     "layout": {
@@ -167,7 +167,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "right",
                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/fast-filtering-icon@2x.png",
@@ -193,14 +193,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "35%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "10 +  Services",
                                             "fontSize": "medium",
@@ -222,7 +222,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem IThere are many variations of  ",
                                             "style": {
@@ -250,13 +250,13 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "isStackedOnMobile": false
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "30%",
                                     "layout": {
@@ -265,7 +265,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "right",
                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
@@ -290,14 +290,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "35%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "50 + Clients",
                                             "fontSize": "medium",
@@ -319,7 +319,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem IThere are many variations of passages of  ",
                                             "style": {

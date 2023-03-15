@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjM3NDk4LWltYWdlLWt3dnhzZWs5LmpwZw.jpg",
             "dimRatio": 80,
@@ -8,7 +8,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -33,16 +33,16 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "full"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -65,10 +65,10 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/group",
+                                                        "name": "group",
                                                         "attributes": {
                                                             "style": {
                                                                 "border": {
@@ -99,7 +99,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/image",
+                                                                "name": "image",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
@@ -117,7 +117,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "center",
                                                                     "content": "+91 1234567891",
@@ -150,7 +150,7 @@
                                                         ]
                                                     },
                                                     {
-                                                        "name": "core/group",
+                                                        "name": "group",
                                                         "attributes": {
                                                             "style": {
                                                                 "border": {
@@ -181,7 +181,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/image",
+                                                                "name": "image",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
@@ -199,7 +199,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "center",
                                                                     "content": "A-10, city road",
@@ -234,7 +234,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -250,7 +250,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/group",
+                                                        "name": "group",
                                                         "attributes": {
                                                             "style": {
                                                                 "border": {
@@ -281,7 +281,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/image",
+                                                                "name": "image",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
@@ -298,7 +298,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "center",
                                                                     "content": "abc@gmail.com",
@@ -337,13 +337,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "layout": {
                                                 "type": "constrained"
@@ -351,7 +351,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Contact Us",
                                                     "textColor": "white",
@@ -379,7 +379,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "We are happy to help you",
                                                     "textColor": "white",
@@ -406,7 +406,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Contrary to popular belief, Lorem Ipsum is not simply.",
                                                     "style": {

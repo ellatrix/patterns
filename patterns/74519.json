@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://drscdn.500px.org/photo/185456795/m%3D1080_k%3D1_a%3D1/4898d431c1c4f0294137f2ac39a5e9aa",
             "dimRatio": 70,
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Repeat Predefined",
@@ -40,7 +40,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Developing Your Opportunities within your Business",
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised....",
@@ -71,7 +71,7 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -80,7 +80,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "View More",
                             "rel": "#",

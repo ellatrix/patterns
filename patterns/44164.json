@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -21,7 +21,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -44,10 +44,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0335.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=335fbe5746f3a47283678e7ccac8f0ba",
                                     "mediaType": "image",
@@ -71,7 +71,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -94,7 +94,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -110,13 +110,13 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Gallery"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                                                             "style": {
@@ -141,10 +141,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "MORE",
                                                                     "textColor": "white",
@@ -182,7 +182,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -205,7 +205,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -221,7 +221,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0338.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=5bc492efad047d8124f12dc7f8bd80f5",
                                     "sizeSlug": "full",
@@ -231,7 +231,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -247,7 +247,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1254.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=73210d934e2d97586948c22877f21092",
                                     "sizeSlug": "full",
@@ -257,7 +257,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -273,7 +273,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1251.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=18060f5bddf1e6d461ff8285ff17dbb6",
                                     "sizeSlug": "full",
@@ -283,7 +283,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -299,7 +299,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-nov18-msp_1407_2629.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=0e01428d61da52fe33a262cf0ab83723",
                                     "sizeSlug": "full",

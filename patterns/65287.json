@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "textColor": "white",
@@ -16,7 +16,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Our Services",
@@ -24,20 +24,20 @@
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "50px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33.34%",
                             "backgroundColor": "white",
@@ -54,20 +54,20 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Sample Heading",
                                     "level": 4
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -76,7 +76,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Read More<strong>&nbsp;→</strong>",
                                             "backgroundColor": "black",
@@ -98,7 +98,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33.33%",
                             "backgroundColor": "white",
@@ -115,20 +115,20 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Sample Heading",
                                     "level": 4
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -137,7 +137,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Read More<strong>&nbsp;→</strong>",
                                             "backgroundColor": "black",
@@ -159,7 +159,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33.33%",
                             "backgroundColor": "white",
@@ -176,20 +176,20 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Sample Heading",
                                     "level": 4
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing vestibulum. Fringilla nec accumsan eget, facilisis mi justo, luctus pellentesque."
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -198,7 +198,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Read More<strong>&nbsp;→</strong>",
                                             "backgroundColor": "black",
@@ -222,7 +222,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "50px"
                 }

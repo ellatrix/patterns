@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide",
             "style": {
@@ -14,13 +14,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "66.66%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "backgroundColor": "black",
                             "textColor": "white",
@@ -37,7 +37,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Contact us",
                                     "style": {
@@ -52,7 +52,7 @@
                         ]
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "We are here to help you with any inquiry. Get in touch or visit us in person. The company values customer support satisfaction. No question has been left unanswered. We resolve everything!",
                             "fontSize": "medium"
@@ -61,7 +61,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "5px",
                     "backgroundColor": "black",
@@ -78,11 +78,11 @@
                 }
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Visit us",
                             "level": 3,
@@ -97,7 +97,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Cork Street 123<br>Dublin, co. Dublin<br>98765 Ireland",
                             "style": {
@@ -108,7 +108,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Get in touch",
                             "level": 3,
@@ -123,7 +123,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "example@example.com<br>+800 123 456 789",
                             "style": {

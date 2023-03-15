@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -28,7 +28,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -52,7 +52,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -68,7 +68,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -103,7 +103,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -128,7 +128,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
                                                     "width": 80,
@@ -147,7 +147,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Branding",
@@ -181,7 +181,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -216,7 +216,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -251,7 +251,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -276,7 +276,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
                                                     "width": 80,
@@ -294,7 +294,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Unique Design",
@@ -328,7 +328,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -365,7 +365,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -381,7 +381,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -416,7 +416,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -441,7 +441,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
                                                     "width": 80,
@@ -459,7 +459,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Customer Support",
@@ -493,7 +493,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -528,7 +528,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -563,7 +563,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -588,7 +588,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
                                                     "width": 80,
@@ -607,7 +607,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Web Development",
@@ -641,7 +641,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -678,7 +678,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -694,7 +694,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -729,7 +729,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -754,7 +754,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
                                                     "width": 80,
@@ -773,7 +773,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "PSD Design",
@@ -807,7 +807,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -842,7 +842,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "white",
                                     "style": {
@@ -877,7 +877,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -902,7 +902,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
                                                     "width": 80,
@@ -921,7 +921,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Fully Responsive",
@@ -955,7 +955,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",

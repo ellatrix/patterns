@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "backgroundColor": "white",
@@ -20,14 +20,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -37,7 +37,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "border": {
@@ -59,7 +59,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://i.postimg.cc/q7Nq6pvs/Affiliate-Marketing.png",
@@ -71,7 +71,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Team Accounts",
@@ -86,7 +86,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -105,7 +105,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -120,7 +120,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "border": {
@@ -142,7 +142,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://i.postimg.cc/d3n1b30y/Email-Blast.png",
@@ -154,7 +154,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Email Marketing",
@@ -169,7 +169,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -188,7 +188,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -198,7 +198,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "border": {
@@ -220,7 +220,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://i.postimg.cc/bJgpJMjX/Budget-promotion.png",
@@ -232,7 +232,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "API Reference",
@@ -247,7 +247,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -266,7 +266,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -281,7 +281,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "border": {
@@ -303,7 +303,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://i.postimg.cc/3JtMvp6G/Smartphone-Marketing.png",
@@ -315,7 +315,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": " Strategy",
@@ -330,7 +330,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",

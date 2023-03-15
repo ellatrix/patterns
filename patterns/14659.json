@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0702-homemade-pizza.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3e54256c4ddeb5056f7d2c052f9d8964",
             "minHeight": 320,
@@ -19,15 +19,15 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {}
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "66.66%",
                             "textColor": "white",
@@ -47,7 +47,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Homecooked",
                                     "fontSize": "medium",
@@ -61,13 +61,13 @@
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "opacity": "css"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "We take pride in our food. Every dish is prepared with love by our cooks."
                                 }
@@ -79,13 +79,13 @@
         ]
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "50px"
         }
     },
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0760-homemade-pizza1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=08599184e919d4c1fd362d494ffdbe74",
             "minHeight": 320,
@@ -103,11 +103,11 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "66.66%",
                             "textColor": "white",
@@ -127,7 +127,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Fresh Ingredients",
                                     "fontSize": "medium",
@@ -141,13 +141,13 @@
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "opacity": "css"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "All ingredients grow in our garden or are obtained from local sources."
                                 }
@@ -155,7 +155,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {}
                     }
                 ]

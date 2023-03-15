@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "layout": {
@@ -10,7 +10,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -28,14 +28,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaPosition": "right",
                                     "mediaType": "image",
@@ -45,7 +45,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Product →",
                                             "fontSize": "medium",
@@ -60,7 +60,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Just a short sentence. Write your own copy text here.",
                                             "style": {
@@ -71,7 +71,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<a href=\"#0\">More →</a>",
                                             "style": {
@@ -90,13 +90,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaPosition": "right",
                                     "mediaType": "image",
@@ -106,7 +106,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Support →",
                                             "fontSize": "medium",
@@ -121,7 +121,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Just a short sentence. Write your own copy text here.",
                                             "style": {
@@ -132,7 +132,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<a href=\"#0\">More →</a>",
                                             "style": {
@@ -153,7 +153,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -171,13 +171,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-pd43-05-eye_1_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=17c46d1d6f85d33f2acbe37d5edf151d",
                                     "mediaType": "image",
@@ -186,7 +186,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "→ Service",
                                             "fontSize": "medium",
@@ -201,7 +201,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Just a short sentence. Write your own copy text here.",
                                             "style": {
@@ -212,7 +212,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<a href=\"#0\">More →</a>",
                                             "style": {
@@ -231,14 +231,14 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/media-text",
+                                "name": "media-text",
                                 "attributes": {
                                     "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-10-eye-02_0.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=e04c364deaf2e586a5ff5e25f97eb2df",
                                     "mediaType": "image",
@@ -247,7 +247,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "→ Feature",
                                             "fontSize": "medium",
@@ -262,7 +262,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Just a short sentence. Write your own copy text here.",
                                             "style": {
@@ -273,7 +273,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<a href=\"#0\">More →</a>",
                                             "style": {

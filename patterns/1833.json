@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "content": "Art Nouveau is a style of art &amp; architecture known for its elegant, organic form.",
             "align": "wide",
@@ -15,37 +15,37 @@
         }
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "20px"
         }
     },
     {
-        "name": "core/separator",
+        "name": "separator",
         "attributes": {
             "opacity": "css"
         }
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "20px"
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "75%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-2701188-jpeg-1-1.jpg",
                             "id": 1851,
@@ -60,7 +60,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "placeholder": "Write title…",
@@ -70,7 +70,7 @@
                         ]
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "20px"
                         }
@@ -78,13 +78,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "25%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "The origins of Art Nouveau can be traced to a 1890s push against industrialization and&nbsp;toward “new art” that was unique, hand, crafted, and used all types of decorative media.",
                             "dropCap": true,
@@ -92,14 +92,14 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "The Art Nouveau movement peaked internationally at the Exposition Universelle of 1900 in Paris, boasting 50 million visitors. ",
                             "fontSize": "extra-small"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "The exposition promoted pioneers of the new style such as the French artists, jeweler René Lalique and glass craftsman Emile Gallé.&nbsp;Louis Tiffany also had a large display, showing the growth of the movement in the Americas.",
                             "fontSize": "extra-small"

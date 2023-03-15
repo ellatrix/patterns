@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/html",
+        "name": "html",
         "attributes": {
             "content": "<marquee>Welcome to the wonderful world of blocks…</marquee>"
         }

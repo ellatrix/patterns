@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/image",
+        "name": "image",
         "attributes": {
             "align": "wide",
             "url": "https://s.w.org/patterns/files/2021/06/Group-17-scaled.jpg",
@@ -11,20 +11,20 @@
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "center",
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Location:</strong><br>82 Main St. Brooklyn, NY",
                             "style": {
@@ -37,13 +37,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Date:</strong><br>October 24, 2021",
                             "style": {
@@ -56,16 +56,16 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Purchase Tickets",
                                     "width": 100,

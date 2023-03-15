@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "align": "full",
             "mediaAlt": "Close-up, abstract view of architecture.",
@@ -10,7 +10,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Open Spaces</strong>",
@@ -23,7 +23,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<a href=\"#\">See case study ↗</a>",

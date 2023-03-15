@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -17,17 +17,17 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "100%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Our World Wide Offices",
@@ -44,7 +44,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -56,7 +56,7 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "align": "full",
@@ -71,7 +71,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -90,7 +90,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "<strong>New York</strong>",
@@ -107,7 +107,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -121,7 +121,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -130,7 +130,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/CWaE8t7Vycxnxqe58",
                                                             "text": "<strong>View Map</strong>",
@@ -163,7 +163,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -182,7 +182,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "<strong>Washington</strong>",
@@ -199,7 +199,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -213,7 +213,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -222,7 +222,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/p81sUBZtgkjafRc66",
                                                             "text": "<strong>View Map</strong>",
@@ -255,7 +255,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -274,7 +274,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "<strong>Boston</strong>",
@@ -291,7 +291,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -305,7 +305,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -314,7 +314,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/FJnRr7tLCG8dd9Eh8",
                                                             "text": "<strong>View Map</strong>",
@@ -347,7 +347,7 @@
                                 ]
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "align": "full",
                                     "style": {
@@ -361,7 +361,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -380,7 +380,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Ahmedabad",
@@ -397,7 +397,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -411,7 +411,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -420,7 +420,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/BG7mavLucn61wAzRA",
                                                             "text": "<strong>View Map</strong>",
@@ -453,7 +453,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -472,7 +472,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "<strong>Mumbai</strong>",
@@ -489,7 +489,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -503,7 +503,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -512,7 +512,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/BMryQm18HQv1DB7q6",
                                                             "text": "<strong>View Map</strong>",
@@ -545,7 +545,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "style": {
@@ -564,7 +564,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Australia",
@@ -581,7 +581,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry.",
@@ -595,7 +595,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -604,7 +604,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "https://goo.gl/maps/8mxfF6sic1H4kjnd7",
                                                             "text": "<strong>View Map</strong>",

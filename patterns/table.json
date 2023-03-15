@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/table",
+        "name": "table",
         "attributes": {
             "head": [
                 {

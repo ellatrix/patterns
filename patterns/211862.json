@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -31,7 +31,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide",
@@ -46,13 +46,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd21batch3-rp-p-1935-977-jj_2_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=55f5fdcdc43c4775e7fe3995ea7300c1",
                                     "width": 211,
@@ -67,14 +67,14 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "textColor": "black"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Home</strong>",
@@ -92,13 +92,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>About us</strong>",
@@ -114,13 +114,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Services</strong>",
@@ -136,14 +136,14 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "textColor": "black"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong><strong>blog</strong></strong>",
@@ -159,13 +159,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Contact Us</strong>",
@@ -185,7 +185,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -202,7 +202,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0245.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1498c55adc4473f5bb5179ef571be040",
                     "dimRatio": 70,
@@ -218,7 +218,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "<strong>― 20 years in Stock Market <strong>―</strong></strong>",
@@ -235,7 +235,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "Manage Your Invesments Easily and Effectively",
@@ -259,7 +259,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
@@ -281,7 +281,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -290,7 +290,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "<strong>Get a Quote ⪼</strong>",
                                     "textColor": "white",

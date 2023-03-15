@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "layout": {
                 "type": "flex",
@@ -9,14 +9,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://images.unsplash.com/photo-1609743522653-52354461eb27",
                                     "sizeSlug": "large",
@@ -26,29 +26,29 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Oh No! Error 404"
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Sorry, the page you're looking for couldn't be found.",
                                     "level": 4
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Back to Homepage",
                                             "fontSize": "medium",
@@ -65,7 +65,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Get in Touch",
                                             "fontSize": "medium",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -18,19 +18,19 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "47%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/07/Hiawatha-689x1024.jpg",
                                     "id": 1749,
@@ -39,7 +39,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Hiawatha",
@@ -53,14 +53,14 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "16th century leader of the Iroquois Confederacy, sculpted by Edmonia Lewis in 1868."
                                 }
                             },
                             {
-                                "name": "core/social-links",
+                                "name": "social-links",
                                 "attributes": {
                                     "iconColor": "black",
                                     "iconColorValue": "#000000",
@@ -73,21 +73,21 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "facebook.com",
                                             "service": "facebook"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "twitter.com",
                                             "service": "twitter"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "instagram.com",
                                             "service": "instagram"
@@ -98,19 +98,19 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "6%"
                         }
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "47%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/07/Minnehaha-689x1024.jpg",
                                     "id": 1750,
@@ -119,7 +119,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Minnehaha",
@@ -133,14 +133,14 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "16th century Dakota woman and Hiawatha's lover, sculpted by Edmonia Lewis in 1868."
                                 }
                             },
                             {
-                                "name": "core/social-links",
+                                "name": "social-links",
                                 "attributes": {
                                     "iconColor": "black",
                                     "iconColorValue": "#000000",
@@ -153,21 +153,21 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "facebook.com",
                                             "service": "facebook"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "twitter.com",
                                             "service": "twitter"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "instagram.com",
                                             "service": "instagram"

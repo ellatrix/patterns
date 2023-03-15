@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "align": "full",
             "mediaId": 567,
@@ -26,27 +26,27 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "100px"
                         }
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "40px"
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "<strong>The Bobolink</strong>",
                                     "style": {
@@ -57,25 +57,25 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "5px"
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "opacity": "css"
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "5px"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "The bobolink is the only american bird with a white back and a black underbelly. In the past, this bird was sometimes referred to as “rice bird” due to its penchant for eating grains. It can be found throughout North America and Canada.<br><br>The first time I saw a bobolink, I thought it was flying upside-down! It is far more common for the underbelly of a bird to be lighter than its back.",
                                     "fontSize": "small",
@@ -87,16 +87,16 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "5px"
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Learn More",
                                             "textColor": "black",
@@ -110,7 +110,7 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "40px"
                                 }
@@ -118,7 +118,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "100px"
                         }

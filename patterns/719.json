@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -11,11 +11,11 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Our Partners",
@@ -23,35 +23,35 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "This collection is made possible by the generosity of our donors. "
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "10px"
                 }
             },
             {
-                "name": "core/separator",
+                "name": "separator",
                 "attributes": {
                     "opacity": "css"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/lantern-1024x1024.jpg",
                                     "caption": "Oil Lamp Co.",
@@ -63,10 +63,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/typewriter-1024x1024.jpg",
                                     "caption": "Typewriter, Inc.",
@@ -78,10 +78,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/sea-turtle-1024x1024.jpg",
                                     "caption": "Sea Turtles Co.",
@@ -93,10 +93,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/binoculars-1024x1024.jpg",
                                     "caption": "Binoculars Inc.",
@@ -108,10 +108,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/sea-serpent-1024x1024.jpg",
                                     "caption": "Sea Serpent Co.",
@@ -125,7 +125,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             }
         ]

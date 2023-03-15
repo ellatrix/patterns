@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "style": {
                 "spacing": {
@@ -14,7 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "content": "Search through our catalog of posts.",
                     "style": {
@@ -27,13 +27,13 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "Enter a search term to find an article you're looking for or jump right to a specific topic. Try your luck and enter a search word or keyword phrase."
                 }
             },
             {
-                "name": "core/search",
+                "name": "search",
                 "attributes": {
                     "label": "Search",
                     "showLabel": false,
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "content": "Choose a topic",
             "level": 4,
@@ -69,7 +69,7 @@
         }
     },
     {
-        "name": "core/buttons",
+        "name": "buttons",
         "attributes": {
             "style": {
                 "spacing": {
@@ -88,7 +88,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "url": "#",
                     "text": "Category 1",
@@ -106,7 +106,7 @@
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "url": "#",
                     "text": "Category 2",
@@ -124,7 +124,7 @@
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "url": "#",
                     "text": "Category 3",
@@ -142,7 +142,7 @@
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "url": "#",
                     "text": "Category 4",

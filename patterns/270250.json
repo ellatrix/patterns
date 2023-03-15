@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvbnMyMjA3OS1pbWFnZS1rd3Z5OHJ4bC5qcGc.jpg",
             "dimRatio": 70,
@@ -10,7 +10,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -33,7 +33,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "align": "wide",
@@ -58,7 +58,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -74,7 +74,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -106,7 +106,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -138,7 +138,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -163,7 +163,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/classic_icon.png",
                                                             "sizeSlug": "large",
@@ -177,7 +177,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -213,7 +213,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Classic Mode",
@@ -232,7 +232,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -248,7 +248,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -280,7 +280,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -312,7 +312,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -337,7 +337,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/quick_icon.png",
                                                             "sizeSlug": "large",
@@ -351,7 +351,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -387,7 +387,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Quick Mode",
@@ -406,7 +406,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -422,7 +422,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -454,7 +454,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -486,7 +486,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -511,7 +511,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/practice_icon.png",
                                                             "sizeSlug": "large",
@@ -525,7 +525,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -561,7 +561,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Practice Mode",
@@ -582,7 +582,7 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "align": "wide",
@@ -607,7 +607,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -623,7 +623,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -655,7 +655,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -687,7 +687,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -712,7 +712,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/local_icon.png",
                                                             "sizeSlug": "large",
@@ -726,7 +726,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -762,7 +762,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Local Mode",
@@ -781,7 +781,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -797,7 +797,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -829,7 +829,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -861,7 +861,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -886,7 +886,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/globle_icon.png",
                                                             "sizeSlug": "large",
@@ -900,7 +900,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -936,7 +936,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Classic Mode",
@@ -955,7 +955,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -971,7 +971,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -1003,7 +1003,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Play Ludo game that longer",
@@ -1035,7 +1035,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -1060,7 +1060,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://artoonsolutions.com/wp-content/themes/artoon/images/lp/ludo/private_icon.png",
                                                             "sizeSlug": "large",
@@ -1074,7 +1074,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "align": "wide",
                                                     "style": {
@@ -1110,7 +1110,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Classic Mode",

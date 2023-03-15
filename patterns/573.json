@@ -1,25 +1,25 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "50%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "customOverlayColor": "#f6f6f6",
                             "minHeight": 600
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://s.w.org/patterns/files/2021/06/wire-sculpture-263x300.jpg",
@@ -33,7 +33,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -49,17 +49,17 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "320px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>Airplane</strong>",
                                             "fontSize": "small",
@@ -71,7 +71,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Copper wire, wood base. I created this piece in late 2008. For this work, I aimed to convey both the industrial heaviness of an airplane, but also the cloudlike floating quality you feel when you’re in one.",
                                             "fontSize": "small",

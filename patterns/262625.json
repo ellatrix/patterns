@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODc2MDQxLXdpa2ltZWRpYS1pbWFnZS1rcDY4dmQ5Yi1remVsMmx2di5qcGc.jpg",
             "dimRatio": 80,
@@ -23,7 +23,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -47,7 +47,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "full",
                             "style": {
@@ -63,10 +63,10 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -102,7 +102,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -127,7 +127,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/Conditional-display-icon@2x.png",
                                                             "width": 60,
@@ -146,7 +146,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Mission",
                                                     "level": 3,
@@ -177,7 +177,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
                                                     "textColor": "white",
@@ -211,10 +211,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "borderColor": "luminous-vivid-orange",
                                             "style": {
@@ -251,7 +251,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -276,7 +276,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/personalized-product-lists-icon@2x.png",
                                                             "width": 60,
@@ -295,7 +295,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Vision",
                                                     "level": 3,
@@ -326,7 +326,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
                                                     "textColor": "white",
@@ -360,10 +360,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -400,7 +400,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -425,7 +425,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://jupiterx.com/wp-content/uploads/2022/01/indefinite-customization-icon@2x.png",
                                                             "width": 60,
@@ -443,7 +443,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Values",
                                                     "level": 3,
@@ -474,7 +474,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text used to demonstrate the visual form of a document",
                                                     "textColor": "white",

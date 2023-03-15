@@ -1,15 +1,15 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-0969.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=18e08a83c8f0f0436fa678f185b6f608",
                             "dimRatio": 50,
@@ -19,7 +19,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Adventure",
@@ -39,10 +39,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-0880.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=0d6f2f7db04b43dfe93773a9939102e5",
                             "dimRatio": 50,
@@ -52,7 +52,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Exploration",
@@ -72,10 +72,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://drscdn.500px.org/photo/179749337/m%3D1080_k%3D1_a%3D1/916dcf4fd94b675721e16e77fcb5d2b6",
                             "dimRatio": 50,
@@ -89,7 +89,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Discovery",
@@ -111,19 +111,19 @@
         ]
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "66.66%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Experience the wonders of the great outdoors with our week-long nature packages. Hike, camp, and explore the lush forests of the Pacific Northwest, see the beauty of a New England fall, or trek through the mysterious woods of Appalachia.",
                             "style": {
@@ -139,7 +139,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "33.33%"
                 }

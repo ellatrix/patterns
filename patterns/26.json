@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "minHeight": 575,
             "minHeightUnit": "px",
@@ -10,32 +10,32 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "12%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {}
                             }
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {}
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "<strong>Thou hast seen</strong><br><strong>nothing yet</strong>",
@@ -52,10 +52,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Read now",
                                             "style": {
@@ -72,19 +72,19 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {}
                             }
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "12%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {}
                             }
                         ]

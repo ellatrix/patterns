@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-oct18-033.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=70487222d70c25760a26b47da2d91646",
             "mediaType": "image",
@@ -27,15 +27,15 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "The WebExtent",
                                     "style": {
@@ -46,13 +46,13 @@
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "backgroundColor": "white"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "We design eye-catching WordPress Landing Pages, eCommerce Online Shops, Real State-corporate, LMS, Booking or Appointment Websites, and many more! We believe in results that will help convert your regular visitors into real-time customers",
                                     "fontSize": "small",
@@ -64,10 +64,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "url": "https://webextent.net/",
                                             "text": "Learn More",

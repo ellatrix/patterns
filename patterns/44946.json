@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "white",
@@ -19,7 +19,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-542.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4c9a2d8a1e68f709b73336d6edd26d6b",
                     "focalPoint": {
@@ -44,7 +44,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Modern Design",
                             "level": 1,

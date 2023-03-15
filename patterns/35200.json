@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide",
             "style": {
@@ -14,7 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "50%",
                     "style": {
@@ -33,7 +33,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a005-scottw-326.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=41ad3035d8a7d1070ab9dd3743e6a0fc",
                             "sizeSlug": "full",
@@ -53,7 +53,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "bottom",
                     "width": "50%",
@@ -73,7 +73,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -88,7 +88,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "— What We Do",
                                     "style": {
@@ -112,7 +112,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Creative Design.",
                                     "fontSize": "x-large",
@@ -126,13 +126,13 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "50px"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite.",
                                     "style": {
@@ -146,13 +146,13 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence. Write your own copy text here."
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -164,7 +164,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "url": "#0",
                                             "text": "— MORE INFO —",

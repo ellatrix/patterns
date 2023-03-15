@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/CHSDM-1966-55-19EllenMcDermott-1-scaled.jpg",
             "id": 536,
@@ -24,19 +24,19 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "400px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -62,7 +62,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "<strong>Vintage Vases</strong>",
                                     "style": {
@@ -76,11 +76,11 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {}
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"http://wp.org\" data-type=\"URL\" data-id=\"wp.org\"><strong>Shop the Collection</strong></a>",
                                     "style": {
@@ -93,7 +93,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "60%"
                         }

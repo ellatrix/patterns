@@ -1,15 +1,15 @@
 [
     {
-        "name": "core/buttons",
+        "name": "buttons",
         "innerBlocks": [
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "Find out more"
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "Contact us"
                 }

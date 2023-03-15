@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -27,7 +27,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "textColor": "black",
                     "style": {
@@ -52,7 +52,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -75,7 +75,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -91,7 +91,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Featured Product",
@@ -120,7 +120,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -152,7 +152,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -172,7 +172,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -195,7 +195,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -211,7 +211,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -235,7 +235,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -250,7 +250,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "All",
                                                             "backgroundColor": "white",
@@ -271,7 +271,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Vegetables",
                                                             "backgroundColor": "white",
@@ -292,7 +292,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Fast Food",
                                                             "backgroundColor": "white",
@@ -313,7 +313,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Fresh Meat",
                                                             "backgroundColor": "white",
@@ -334,7 +334,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Fruits",
                                                             "backgroundColor": "white",
@@ -355,7 +355,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Grocer",
                                                             "backgroundColor": "white",
@@ -386,7 +386,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -410,7 +410,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -427,7 +427,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0265-paleo-ground-beef-vegetables.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=387b8c21f58dd12ae61f44866f28b6e2",
                                     "sizeSlug": "full",
@@ -435,7 +435,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "lorem Ipsum test",
@@ -464,7 +464,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "$35.00",
@@ -495,7 +495,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -512,7 +512,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0875-pork-meat-with-green-vegetables.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=5b12921f1ab9aea3b3fd4b63b824f08f",
                                     "sizeSlug": "full",
@@ -520,7 +520,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "lorem ipsum test",
@@ -549,7 +549,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "$28.00",
@@ -580,7 +580,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -596,7 +596,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0567-paleo-ground-beef-vegetables1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=730d19ef2b9b9068117ba973d3c7d3aa",
                                     "sizeSlug": "full",
@@ -604,7 +604,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "lorem ipsum text",
@@ -633,7 +633,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "$30.00",
@@ -666,7 +666,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -690,7 +690,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -708,7 +708,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "View All",
                                     "textColor": "white",

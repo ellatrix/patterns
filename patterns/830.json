@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "bottom",
                     "width": "60%",
@@ -23,7 +23,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/pullquote",
+                        "name": "pullquote",
                         "attributes": {
                             "value": "<strong>A truly unique artistic experience. Each piece in this exhibition is absolutely magical. Bravo!</strong>",
                             "citation": "PHAM NGUYEN",
@@ -35,7 +35,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -51,7 +51,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Buy your ticket</strong>",
                             "anchor": "buy-your-ticket",
@@ -64,16 +64,16 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Reserve a ticket today, before the exhibition sells out."
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Tickets →"
                                 }

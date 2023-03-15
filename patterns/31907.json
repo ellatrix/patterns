@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-13423u.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=96ee4c6377daf9046bbfe1ff70a23c22",
             "focalPoint": {
@@ -29,7 +29,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -48,17 +48,17 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "720px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Unique Design.<br>Unique Care.",
                                             "level": 1,
@@ -78,17 +78,17 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "420px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem ipsum dolor sit amet. Aliquet amet molestie ultricies tristique hoc.",
                                             "style": {
@@ -103,13 +103,13 @@
                         ]
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "50px"
                         }
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -122,13 +122,13 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "25%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -150,7 +150,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "textColor": "white",
                                                     "style": {
@@ -175,7 +175,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "01.",
                                                             "style": {
@@ -189,7 +189,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Research",
                                                             "fontSize": "medium",
@@ -203,7 +203,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Vestibulum vitae pretium magnis aliquam purus.",
                                                             "style": {
@@ -220,7 +220,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "25%",
                                     "style": {
@@ -234,7 +234,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -256,7 +256,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "textColor": "white",
                                                     "style": {
@@ -281,7 +281,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "02.",
                                                             "style": {
@@ -295,7 +295,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Develop",
                                                             "fontSize": "medium",
@@ -309,7 +309,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum sit amet pretium magnis purus.",
                                                             "style": {
@@ -326,14 +326,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "bottom",
                                     "width": "25%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "style": {
@@ -355,7 +355,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "textColor": "white",
                                                     "style": {
@@ -380,7 +380,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "03.",
                                                             "style": {
@@ -394,7 +394,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Deploy",
                                                             "fontSize": "medium",
@@ -408,7 +408,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Vestibulum vitae magnis aliquam aliquet purus.",
                                                             "style": {
@@ -425,14 +425,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "bottom",
                                     "width": "25%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "backgroundColor": "white",
                                             "textColor": "black",
@@ -449,7 +449,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "<em>Lorem dolor sit amet.</em>",
@@ -461,7 +461,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -473,7 +473,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "url": "#0",
                                                             "text": "<strong>CONTACT US</strong>",
@@ -508,7 +508,7 @@
                 ]
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "placeholder": "Write title…",
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {}
     }
 ]

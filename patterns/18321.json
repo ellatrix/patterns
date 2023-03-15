@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "wide",
             "style": {
@@ -21,18 +21,18 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "left",
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1091.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1334094205aaf8303f099e24c9771720",
@@ -56,7 +56,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "50%",
@@ -70,7 +70,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Traveler Point",
                                     "textColor": "luminous-vivid-amber",
@@ -83,7 +83,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "We Helping You Find Your Dream Vacation",
                                     "style": {
@@ -96,7 +96,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                                     "style": {
@@ -109,7 +109,7 @@
                                 }
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -121,17 +121,17 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "40%"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "left",
                                                             "content": "50+",
@@ -147,7 +147,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "left",
                                                             "content": "Holiday Package",
@@ -164,7 +164,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "60%",
                                                     "style": {
@@ -173,7 +173,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "120+",
                                                             "textColor": "luminous-vivid-amber",
@@ -188,7 +188,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Luxury Hotels",
                                                             "style": {
@@ -208,7 +208,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -220,17 +220,17 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "40%"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "30+",
                                                             "textColor": "luminous-vivid-amber",
@@ -245,7 +245,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Best Airlines",
                                                             "style": {
@@ -261,13 +261,13 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "60%"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "15K+",
                                                             "textColor": "luminous-vivid-amber",
@@ -282,7 +282,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Happy Traveler",
                                                             "style": {

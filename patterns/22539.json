@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -18,26 +18,26 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "40%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Heading One</strong>",
                                             "level": 1,
@@ -50,17 +50,17 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Sed gravida ornare vestibulum turpis quam urna aliquam in feugiat lorem dolor pulvinar a, scelerisque amet ultrices consectetur magna sit.",
                                             "textColor": "white"
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "SHOP TODAY",
                                                     "textColor": "black",
@@ -82,10 +82,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-pd9-chim-0450_1_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=de9241ca65136b71e505e3ad3820aa17",
                                             "sizeSlug": "full",
@@ -103,7 +103,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://ids.si.edu/ids/deliveryService?id=SAAM-1970.355.266_2",
                                             "sizeSlug": "full",
@@ -123,10 +123,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-pd9-chim-wut-0436_0.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9a52b544184b6395fb14f841ca6897da",
                                             "sizeSlug": "full",
@@ -144,7 +144,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-23-vol1-050-chim_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3bbc917c927fed5eaaf86746836ca598",
                                             "sizeSlug": "full",

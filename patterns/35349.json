@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "center",
             "align": "full",
@@ -19,7 +19,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -37,7 +37,7 @@
                 }
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "width": "800px",
@@ -54,14 +54,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/media-text",
+                        "name": "media-text",
                         "attributes": {
                             "mediaUrl": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd43-19-chim-02.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f7770b59c53df38c481dacaa06b7cc5f",
                             "mediaType": "image"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "→ Feature",
                                     "fontSize": "medium",
@@ -76,7 +76,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. This is just a demo text you should overwrite.",
                                     "style": {
@@ -87,7 +87,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#0\">Learn More →</a>",
                                     "style": {
@@ -104,7 +104,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "center",
             "align": "full",
@@ -140,7 +140,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -155,7 +155,7 @@
                 }
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "width": "800px",
@@ -172,7 +172,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/media-text",
+                        "name": "media-text",
                         "attributes": {
                             "mediaPosition": "right",
                             "mediaType": "image",
@@ -180,7 +180,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Service →",
                                     "fontSize": "medium",
@@ -195,7 +195,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. This is just a demo text you should overwrite.",
                                     "style": {
@@ -206,7 +206,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#0\">Learn More →</a>",
                                     "style": {
@@ -223,7 +223,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {

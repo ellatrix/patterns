@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "layout": {
@@ -9,7 +9,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8783.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6945c5434af9266e1389e693eb695dc6",
                     "dimRatio": 50,
@@ -32,7 +32,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -42,24 +42,24 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "width": "50%"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/columns",
+                                                "name": "columns",
                                                 "attributes": {},
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "verticalAlignment": "center",
                                                             "style": {
@@ -73,13 +73,13 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/spacer",
+                                                                "name": "spacer",
                                                                 "attributes": {
                                                                     "height": "20px"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/image",
+                                                                "name": "image",
                                                                 "attributes": {
                                                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8832.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=81b80c4b527f7afa9ceed195f02d27f3",
                                                                     "sizeSlug": "full",
@@ -89,7 +89,7 @@
                                                         ]
                                                     },
                                                     {
-                                                        "name": "core/column",
+                                                        "name": "column",
                                                         "attributes": {
                                                             "style": {
                                                                 "border": {
@@ -102,7 +102,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/image",
+                                                                "name": "image",
                                                                 "attributes": {
                                                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0248.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6ca008ffc32a5ea17ae3aa6208fb2af4",
                                                                     "sizeSlug": "full",
@@ -110,7 +110,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/spacer",
+                                                                "name": "spacer",
                                                                 "attributes": {
                                                                     "height": "20px"
                                                                 }
@@ -122,14 +122,14 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "verticalAlignment": "center",
                                             "width": "50%"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "right",
                                                     "content": "YOUR TITLE HERE",
@@ -144,7 +144,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "right",
                                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non metus rhoncus, rhoncus dui id, ullamcorper tellus. Maecenas tincidunt dignissim lacinia.",
@@ -159,7 +159,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -170,7 +170,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Button Text",
                                                             "backgroundColor": "white",

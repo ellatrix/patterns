@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/separator",
+        "name": "separator",
         "attributes": {
             "opacity": "css"
         }
     },
     {
-        "name": "core/image",
+        "name": "image",
         "attributes": {
             "align": "center",
             "url": "https://s.w.org/images/core/5.8/portrait.jpg",
@@ -18,14 +18,14 @@
         }
     },
     {
-        "name": "core/quote",
+        "name": "quote",
         "attributes": {
             "citation": "— Anna Wong, <em>Volunteer</em>",
             "align": "center"
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "\"Contributing makes me feel like I'm being useful to the planet.\""
                 }
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "name": "core/separator",
+        "name": "separator",
         "attributes": {
             "opacity": "css"
         }

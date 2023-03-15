@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/home-link",
+        "name": "home-link",
         "attributes": {
             "label": "Home Link"
         }

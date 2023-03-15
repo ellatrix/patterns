@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -21,7 +21,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -44,10 +44,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "lorem",
                                     "style": {
@@ -60,7 +60,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "One of the main benefits of using Lorem Ipsum is that it can be easily generated, and it takes the pressure off designers to create meaningful text. Instead, they can focus on crafting the best website data.",
                                     "style": {
@@ -71,7 +71,7 @@
                                 }
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -96,7 +96,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/social-links",
+                                        "name": "social-links",
                                         "attributes": {
                                             "iconColor": "white",
                                             "iconColorValue": "#ffffff",
@@ -117,28 +117,28 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/social-link",
+                                                "name": "social-link",
                                                 "attributes": {
                                                     "url": "#",
                                                     "service": "facebook"
                                                 }
                                             },
                                             {
-                                                "name": "core/social-link",
+                                                "name": "social-link",
                                                 "attributes": {
                                                     "url": "#",
                                                     "service": "twitter"
                                                 }
                                             },
                                             {
-                                                "name": "core/social-link",
+                                                "name": "social-link",
                                                 "attributes": {
                                                     "url": "#",
                                                     "service": "instagram"
                                                 }
                                             },
                                             {
-                                                "name": "core/social-link",
+                                                "name": "social-link",
                                                 "attributes": {
                                                     "url": "#",
                                                     "service": "linkedin"
@@ -151,7 +151,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -166,7 +166,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Contact Us",
                                     "level": 4,
@@ -181,7 +181,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "123 BD Lorem, Ipsum<br><br>+123-456-7890",
                                     "style": {
@@ -193,7 +193,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "sample@gmail.com",
                                     "style": {
@@ -205,7 +205,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Opening Hours: 10:00 - 18:00",
                                     "style": {
@@ -219,10 +219,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Newsletter",
                                     "level": 4,
@@ -237,7 +237,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur ut labore et dolore magna aliqua ipsum dolor sit",
                                     "style": {
@@ -248,7 +248,7 @@
                                 }
                             },
                             {
-                                "name": "core/search",
+                                "name": "search",
                                 "attributes": {
                                     "placeholder": "Enter your email...",
                                     "buttonText": "Subscribe",

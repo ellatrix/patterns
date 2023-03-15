@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "gradient": "pale-ocean",
             "style": {
@@ -21,7 +21,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Search</strong>",
@@ -37,7 +37,7 @@
                 }
             },
             {
-                "name": "core/search",
+                "name": "search",
                 "attributes": {
                     "showLabel": false,
                     "width": 100,
@@ -55,7 +55,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Archives</strong>",
@@ -76,14 +76,14 @@
                 }
             },
             {
-                "name": "core/archives",
+                "name": "archives",
                 "attributes": {
                     "showPostCounts": true,
                     "type": "yearly"
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Recent News</strong>",
@@ -104,7 +104,7 @@
                 }
             },
             {
-                "name": "core/latest-posts",
+                "name": "latest-posts",
                 "attributes": {
                     "postsToShow": 3,
                     "displayPostDate": true,
@@ -117,7 +117,7 @@
                 }
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -130,7 +130,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "align": "wide",
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd58batch1-20026_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1506f57e3444fd8fef51f758a3bd8906",
@@ -150,7 +150,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "wide",
                             "style": {
@@ -165,7 +165,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "url": "https://wordpress.org/",
                                     "text": "Volunteer",

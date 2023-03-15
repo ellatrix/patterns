@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "layout": {
@@ -10,7 +10,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -26,7 +26,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%",
                             "style": {
@@ -45,7 +45,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-1-jsc2011e067644_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=f1d0295f29e4ac7acdcac3b20b82cfa4",
                                     "dimRatio": 50,
@@ -54,7 +54,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Blast",
@@ -74,13 +74,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-1-ksc-2012-6112_orig.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4d96ee47a482fe6fc74773bc9b6a582e",
                                     "dimRatio": 50,
@@ -89,7 +89,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "CELEBRATION",
@@ -109,13 +109,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-ksc-2009-4406.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3ceb56bd02dd4cd380b18239f08842fd",
                                     "dimRatio": 50,
@@ -124,7 +124,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "WAITING",
@@ -146,7 +146,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -162,7 +162,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%",
                             "style": {
@@ -181,7 +181,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-s134e007608_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a176698d5974e8483a40cc336242f5d8",
                                     "dimRatio": 50,
@@ -190,7 +190,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Genius",
@@ -210,13 +210,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-sts089-346-007_orig.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4eba3e1721db072304bf65e575acf3db",
                                     "dimRatio": 50,
@@ -225,7 +225,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Floating",
@@ -245,13 +245,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-ksc-2009-6341_orig_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6d9b0d35c1a50bb3c575014274ab0f79",
                                     "dimRatio": 50,
@@ -260,7 +260,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Immense",
@@ -282,7 +282,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -298,7 +298,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%",
                             "style": {
@@ -317,7 +317,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-ksc-07pd1454.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=96f5c78c6560d89b2510277aac77c3d3",
                                     "dimRatio": 50,
@@ -330,7 +330,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Journey",
@@ -350,13 +350,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-sts134-s-115.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2c6d72842f23d86f5d11c3ab9f4973e5",
                                     "dimRatio": 50,
@@ -365,7 +365,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Shadow",
@@ -385,13 +385,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-1-iss041e066940.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=01f975dfa263eaf94437d33ea824b3ac",
                                     "dimRatio": 50,
@@ -400,7 +400,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Self",

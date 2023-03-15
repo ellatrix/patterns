@@ -1,31 +1,31 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "35%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Views of Mt. Fuji",
                             "anchor": "views-of-mt-fuji"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "An exhibition of early 20th century woodblock prints featuring the majesty of Mt. Fuji."
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong><a href=\"#\">Learn More →</a></strong>"
                         }
@@ -33,20 +33,20 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "66.66%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/gallery",
+                        "name": "gallery",
                         "attributes": {
                             "columns": 2,
                             "linkTo": "none"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-3065130-jpeg-1024x1024.jpg",
                                     "id": 841,
@@ -55,7 +55,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-3064488-jpeg-1024x1024.jpg",
                                     "id": 840,
@@ -64,7 +64,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-3063921-jpeg-1024x449.jpg",
                                     "id": 839,

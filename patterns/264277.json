@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -23,20 +23,20 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "100%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Home",
@@ -59,10 +59,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "About Us",
@@ -85,10 +85,10 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Contact ",
@@ -110,7 +110,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -125,7 +125,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Blog",
@@ -148,7 +148,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -163,7 +163,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Portfolio",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQxOS0zLTA1ODcxYV8xLmpwZw.jpg",
             "dimRatio": 70,
@@ -213,7 +213,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<strong>Home &gt;&gt; Contact</strong>",
@@ -230,7 +230,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -252,7 +252,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -268,7 +268,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "backgroundColor": "white",
                             "style": {
@@ -288,7 +288,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -301,7 +301,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "100%",
                                             "style": {
@@ -316,7 +316,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/relaxing-spa-ornaments.png",
@@ -327,7 +327,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Relaxation",
@@ -347,7 +347,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
@@ -373,7 +373,7 @@
                                 ]
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -383,7 +383,7 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -396,7 +396,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "100%",
                                             "style": {
@@ -411,7 +411,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/spa-heating-stones-treatment.png",
@@ -420,7 +420,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Hot stone",
@@ -440,7 +440,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
@@ -466,7 +466,7 @@
                                 ]
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -476,7 +476,7 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -489,7 +489,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "100%",
                                             "style": {
@@ -504,7 +504,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "center",
                                                     "url": "https://dev.artoonsolutions.com/spa-with-divi/wp-content/uploads/2021/08/massage-spa-body-treatment.png",
@@ -515,7 +515,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Massages",
@@ -535,7 +535,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to",
@@ -563,7 +563,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "backgroundColor": "white",
@@ -584,7 +584,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -596,10 +596,10 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "Mon-Wed : 8 am to 5 pm",
@@ -616,7 +616,7 @@
                                 ]
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -626,7 +626,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Thu-sat- 8 am to 5 pm",
@@ -639,7 +639,7 @@
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -649,7 +649,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Sun- Off",
@@ -662,7 +662,7 @@
                                 }
                             },
                             {
-                                "name": "core/separator",
+                                "name": "separator",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -672,16 +672,16 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "isStackedOnMobile": false
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -691,7 +691,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "textAlign": "left",
                                                             "text": "Book Now",

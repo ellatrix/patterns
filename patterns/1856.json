@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -17,7 +17,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "align": "wide",
                     "url": "https://s.w.org/patterns/files/2021/07/image-from-rawpixel-id-2776944-jpeg-1-1024x696.jpg",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {}
     }
 ]

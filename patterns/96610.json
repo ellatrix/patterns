@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide",
             "style": {
@@ -16,13 +16,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "color": {
@@ -43,7 +43,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/43z3CZLm/0f61ba72e0e12ba59d30a50295964871.png",
@@ -54,7 +54,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Address</strong>",
@@ -71,7 +71,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "<a href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\">Ahmedabad, Gujarat </a><a rel=\"noreferrer noopener\" href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\" target=\"_blank\">380015</a><a href=\"https://goo.gl/maps/Cz6LvSGEyJAe1Ecz6\">, </a>",
@@ -87,13 +87,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "color": {
@@ -114,7 +114,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/xTYc9kDn/download-removebg-preview.png",
@@ -125,7 +125,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Phone</strong>",
@@ -142,7 +142,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "<a href=\"tel:1234567890\">+91 1234567890</a>",
@@ -158,13 +158,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "color": {
@@ -185,7 +185,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/RCn42vW9/transparent-email-icon512.png",
@@ -196,7 +196,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "<strong>Email</strong>",
@@ -213,7 +213,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "<a href=\"mailto:wordpresspattern@gmail.com\">wordpresspattern@gmail.com</a>",

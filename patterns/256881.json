@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -32,7 +32,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Basic</strong>",
                             "anchor": "single",
@@ -44,7 +44,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>A great way to get started. Get a full-featured online store with a fast setup.</strong>",
                             "fontSize": "normal",
@@ -56,7 +56,7 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css",
                             "style": {
@@ -67,25 +67,25 @@
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "1 website"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "20 GB SSD storage"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "2 free Microsoft 365 mailboxes"
                                 }
@@ -93,7 +93,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -104,7 +104,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$10 / Month",
                                     "backgroundColor": "black",
@@ -117,7 +117,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -143,7 +143,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Deluxe</strong>",
                             "anchor": "family",
@@ -155,7 +155,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong><strong><strong><strong><strong>A great way to get started. Get a full-featured online store with a fast setup.</strong></strong></strong></strong></strong>",
                             "fontSize": "normal",
@@ -167,31 +167,31 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "2 website"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "60 GB SSD storage"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "3 free Microsoft 365 mailboxes"
                                 }
@@ -199,7 +199,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -210,7 +210,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$15/ Month",
                                     "textColor": "white",
@@ -222,7 +222,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -248,7 +248,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Gold",
                             "anchor": "patron",
@@ -260,7 +260,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong><strong>A great way to get started. Get a full-featured online store with a fast setup.</strong></strong>",
                             "fontSize": "normal",
@@ -272,31 +272,31 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "5 website"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "120 GB SSD storage"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "5 free Microsoft 365 mailboxes"
                                 }
@@ -304,7 +304,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "style": {
@@ -320,7 +320,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$20/ Month",
                                     "textColor": "white",

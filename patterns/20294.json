@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -19,11 +19,11 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Pricing Table",
@@ -32,23 +32,23 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Create a three-column table, wide-width."
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -60,7 +60,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Bronze - $95",
@@ -71,7 +71,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -87,7 +87,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -95,14 +95,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -110,14 +110,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -125,14 +125,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -140,14 +140,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -155,20 +155,20 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/spacer",
+                                                "name": "spacer",
                                                 "attributes": {
                                                     "height": "40px"
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -178,7 +178,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Sign Up Now",
                                                             "textColor": "white"
@@ -193,10 +193,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -208,7 +208,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Silver - $295",
@@ -219,7 +219,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -235,7 +235,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -243,14 +243,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -258,14 +258,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -273,14 +273,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -288,14 +288,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -303,20 +303,20 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/spacer",
+                                                "name": "spacer",
                                                 "attributes": {
                                                     "height": "40px"
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -326,7 +326,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Sign Up Now",
                                                             "textColor": "white"
@@ -341,10 +341,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -356,7 +356,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "Gold - $495",
@@ -367,7 +367,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -383,7 +383,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -391,14 +391,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -406,14 +406,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -421,14 +421,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -436,14 +436,14 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "center",
                                                     "content": "Feature Item",
@@ -451,20 +451,20 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/separator",
+                                                "name": "separator",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "opacity": "css"
                                                 }
                                             },
                                             {
-                                                "name": "core/spacer",
+                                                "name": "spacer",
                                                 "attributes": {
                                                     "height": "40px"
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "layout": {
                                                         "type": "flex",
@@ -474,7 +474,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Sign Up Now",
                                                             "textColor": "white"
@@ -491,7 +491,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             }
         ]

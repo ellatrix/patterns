@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -18,7 +18,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "color": {
@@ -43,7 +43,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -55,13 +55,13 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "75%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "— This is Title",
                                             "style": {
@@ -85,7 +85,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "The ideal length of the text in here should be maybe a bit longer.",
                                             "fontSize": "x-large",
@@ -101,24 +101,24 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {}
                             }
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.33%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-18272a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=761ff035db8f02a4e86cdbb9d214c5a5",
                                             "sizeSlug": "full",
@@ -137,13 +137,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "66.66%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-17626a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=cc02ebe064a384563b167e1138bcf92b",
                                             "sizeSlug": "full",
@@ -160,7 +160,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -173,13 +173,13 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "33.33%"
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-18273a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=35df3a3cb4173ecd45a26193bada5766",
                                                             "sizeSlug": "full",
@@ -198,7 +198,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "width": "66.66%",
                                                     "style": {
@@ -213,7 +213,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence. Write your own copy text here.",
                                                             "style": {
@@ -224,7 +224,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "<a href=\"#0\">Show Me More →</a>",
                                                             "fontSize": "medium",

@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -21,7 +21,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-420162-jpeg-scaled-1.jpg",
                             "id": 3080,
@@ -32,7 +32,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "<strong>Flowers</strong>",
@@ -48,7 +48,7 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -58,7 +58,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "<strong>SHOP NOW</strong>",
                                             "style": {
@@ -75,7 +75,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -90,7 +90,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/cover",
+                        "name": "cover",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-420225-jpeg-scaled-1.jpg",
                             "id": 3081,
@@ -101,7 +101,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "<strong>Seaweed</strong>",
@@ -117,7 +117,7 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -127,7 +127,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "<strong>SHOP NOW</strong>",
                                             "style": {

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -11,30 +11,30 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "50px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "top"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "100%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "<strong>Follow me on Instagram</strong>",
@@ -49,7 +49,7 @@
                                 ]
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/author.png",
@@ -62,7 +62,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a placeholder for people who need some type to visualize what the actual copy might look like if it were real content.<br>",
@@ -74,10 +74,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "<strong>Follow Me on Instagram</strong>",
                                             "textColor": "white",
@@ -98,13 +98,13 @@
                                 ]
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "67px"
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/instagram.png",
@@ -118,25 +118,25 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "100%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/gallery",
+                                        "name": "gallery",
                                         "attributes": {
                                             "columns": 2,
                                             "linkTo": "none"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/pexels-andrea-piacquadio-3771106.jpg",
                                                     "id": 6348,
@@ -145,7 +145,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/small-1.jpg",
                                                     "id": 5808,
@@ -154,7 +154,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/small-2.jpg",
                                                     "id": 5807,
@@ -163,7 +163,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "url": "https://demo.wpzoom.com/foodica-patterns/wp-content/plugins/block-patterns-for-food-bloggers/patterns/images/small-3.jpg",
                                                     "id": 5805,

@@ -1,24 +1,24 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "80%"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/gallery",
+                        "name": "gallery",
                         "attributes": {
                             "linkTo": "none"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-2848918-jpeg-683x1024.jpg",
                                     "id": 485,
@@ -27,7 +27,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-2849089-jpeg-683x1024-1.jpg",
                                     "id": 486,
@@ -36,7 +36,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-2848925-jpeg-616x1024-1.jpg",
                                     "id": 487,
@@ -49,7 +49,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "bottom",
                     "width": "20%",
@@ -63,7 +63,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Designs for vases created by Noritake, a Japanese tableware company founded in 1876 under the name Morimura Gumi. They officially changed their name in 1981. These designs date back to the late 19th century.",
                             "style": {
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "fontSize": "small"
         }

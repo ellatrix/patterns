@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -15,11 +15,11 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -30,13 +30,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "50%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "right",
                                     "content": "Sublime full site editing.",
@@ -52,7 +52,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "right",
                                     "content": "—Taylor Jones",
@@ -68,7 +68,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "bottom",
                             "width": "50%",
@@ -84,21 +84,21 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Avant-Garde is a Chicago-based design studio that builds sophisticated websites for small businesses and professionals.",
                                     "textColor": "black"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "We leverage the power of the WordPress block editor to create digital experiences that look groovy, function with purpose, and get people really excited. Ka-chow!",
                                     "textColor": "black"
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -112,7 +112,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "url": "#",
                                             "text": "Learn More",
@@ -121,7 +121,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "url": "#",
                                             "text": "Our Services"
@@ -134,7 +134,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             }
         ]

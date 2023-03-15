@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/Mount-Fuji-From-Hakone-Hiroaki-Takahashi-scaled.jpg",
             "id": 665,
@@ -23,14 +23,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "top",
                     "align": "full"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "72%",
@@ -47,7 +47,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/Mount-Fuji-From-Mizukubo-Hiroaki-Takahashi-1024x652.jpg",
                                     "id": 666,
@@ -61,13 +61,13 @@
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "40px"
                                 }
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "color": {
@@ -84,13 +84,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/quote",
+                                        "name": "quote",
                                         "attributes": {
                                             "citation": "<strong>— Miyamoto Musashi</strong>"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "<em>Aspire to be like Mt. Fuji, with such a broad and solid foundation that the strongest earthquake cannot move you, and so tall that the greatest enterprises of common men seem insignificant from your lofty perspective.</em>"
                                                 }
@@ -102,20 +102,20 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "33.33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "40px"
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://s.w.org/patterns/files/2021/06/Foot-of-Mount-Ashitaka-Hiroaki-Takahashi-691x1024.jpg",
                                     "id": 664,

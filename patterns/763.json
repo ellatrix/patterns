@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/08/bird-pattern-scaled-1.jpg",
             "id": 764,
@@ -22,7 +22,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "content": "<strong>Art Nouveau:<br>Patterns</strong>",
                     "anchor": "art-nouveau-patterns",
@@ -43,7 +43,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "July 14-24, 2021",
                     "textColor": "white",

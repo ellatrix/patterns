@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/SK-A-1363-1.jpg",
             "id": 835,
@@ -17,17 +17,17 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "75%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Plan Your Visit",
                                     "anchor": "plan-your-visit",
@@ -42,13 +42,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "33.33%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">What's On</a>",
                                     "textColor": "black",
@@ -67,7 +67,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Getting Here</a>",
                                     "textColor": "black",
@@ -86,7 +86,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Accessibility</a>",
                                     "textColor": "black",
@@ -105,7 +105,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Buying Tickets</a>",
                                     "textColor": "black",
@@ -128,7 +128,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "150px"
                 }

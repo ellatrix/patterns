@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -19,16 +19,16 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Gallery ",
@@ -44,7 +44,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Gallery Three Column Masonry",
@@ -65,7 +65,7 @@
                 ]
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "gradient": "pale-ocean",
@@ -105,27 +105,27 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "top",
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/gallery",
+                                "name": "gallery",
                                 "attributes": {
                                     "columns": 1,
                                     "linkTo": "none"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-337-num.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=279e95c74c89319f73e18450016f20d8",
                                             "sizeSlug": "full",
@@ -133,7 +133,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-262-num-phaethon-lepturus-tropic-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2ae17802332cec2466acce6a9f549dca"
                                         }
@@ -143,20 +143,20 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/gallery",
+                                "name": "gallery",
                                 "attributes": {
                                     "columns": 1,
                                     "linkTo": "none"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-236-num-nycticorax-nycticorax-night-heron-or-qua-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1868293dccbd3ce8f963aabfa8d75729",
                                             "sizeSlug": "full",
@@ -164,7 +164,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-356-num-circus-cyaneus-marsh-hawk.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=46e744c57de4d1703eb73bb245672f08",
                                             "sizeSlug": "full",
@@ -176,20 +176,20 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/gallery",
+                                "name": "gallery",
                                 "attributes": {
                                     "columns": 1,
                                     "linkTo": "none"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-074-num-passerina-cyanea-indigo-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=e20dc4acd5cf6a73b17b2dab46d5d28d",
                                             "sizeSlug": "full",
@@ -197,7 +197,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-588-num.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=40aecd4d943bbfc9c7438474f65443b9",
                                             "sizeSlug": "full",

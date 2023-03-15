@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/button",
+        "name": "button",
         "attributes": {
             "text": "Call to Action"
         }

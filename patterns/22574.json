@@ -1,37 +1,37 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full"
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "100%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-636-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=a98c34085077c3ad322c1ad9ea0a509f",
                                                             "dimRatio": 70,
@@ -39,7 +39,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "<em>8. February 2022</em>",
                                                                     "style": {
@@ -50,7 +50,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "left",
                                                                     "content": "<strong>Heading One</strong>",
@@ -58,20 +58,20 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/separator",
+                                                                "name": "separator",
                                                                 "attributes": {
                                                                     "backgroundColor": "white",
                                                                     "opacity": "css"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "Etiam consequat sem ullamcorper, euismod metus sit amet, tristi justo. Vestibulum mattis, nisi ut."
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "right",
                                                                     "content": "<a href=\"#\">→</a>&nbsp;",
@@ -87,10 +87,10 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-650-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7c0a87a7b87efb058e00d1a1726cf873",
                                                             "dimRatio": 70,
@@ -98,7 +98,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "<em>28. February 2022</em>",
                                                                     "style": {
@@ -109,7 +109,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "left",
                                                                     "content": "<strong>Heading Two</strong>",
@@ -117,20 +117,20 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/separator",
+                                                                "name": "separator",
                                                                 "attributes": {
                                                                     "backgroundColor": "white",
                                                                     "opacity": "css"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "Etiam consequat sem ullamcorper, euismod metus sit amet, tristi justo. Vestibulum mattis, nisi ut."
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "right",
                                                                     "content": "<a href=\"#\">→</a>&nbsp;",
@@ -148,14 +148,14 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-619-chim.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=2430d39da7096242ecbbc05b6a5dde4d",
                                                             "dimRatio": 70,
@@ -163,7 +163,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "<em>8. February 2022</em>",
                                                                     "style": {
@@ -174,7 +174,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "left",
                                                                     "content": "<strong>Heading Three</strong>",
@@ -182,20 +182,20 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/separator",
+                                                                "name": "separator",
                                                                 "attributes": {
                                                                     "backgroundColor": "white",
                                                                     "opacity": "css"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "Etiam consequat sem ullamcorper, euismod metus sit amet, tristi justo. Vestibulum mattis, nisi ut."
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "right",
                                                                     "content": "<a href=\"#\">→</a>&nbsp;",
@@ -211,10 +211,10 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-587-num.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7d99dc51ca58055b73019e809f90c75e",
                                                             "dimRatio": 70,
@@ -222,7 +222,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "<em>28. February 2022</em>",
                                                                     "style": {
@@ -233,7 +233,7 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/heading",
+                                                                "name": "heading",
                                                                 "attributes": {
                                                                     "textAlign": "left",
                                                                     "content": "<strong>Heading Four</strong>",
@@ -241,20 +241,20 @@
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/separator",
+                                                                "name": "separator",
                                                                 "attributes": {
                                                                     "backgroundColor": "white",
                                                                     "opacity": "css"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "content": "Etiam consequat sem ullamcorper, euismod metus sit amet, tristi justo. Vestibulum mattis, nisi ut."
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "right",
                                                                     "content": "<a href=\"#\">→</a>&nbsp;",
@@ -278,7 +278,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "80px"
                 }

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://pd.w.org/2022/02/248620d3c0599f031.95641147.jpg",
             "dimRatio": 80,
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "―――",
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "We Are Creative<br><mark style=\"background-color:#000000;color:#ce1446\" class=\"has-inline-color\">DIGITAL</mark>&nbsp;Agency",
@@ -59,7 +59,7 @@
                 }
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -83,7 +83,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -92,7 +92,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "DISCOVER MORE",
                                     "textColor": "white",

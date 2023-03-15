@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-0942.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=60f5585cb162f1c0e71e8dc40cc3b738",
             "dimRatio": 50,
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -35,24 +35,24 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "top"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "33.34%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -67,7 +67,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "<a href=\"#\">Home</a> ",
@@ -77,7 +77,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -92,7 +92,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "<a href=\"#\">About</a>"
@@ -105,7 +105,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "33.34%",
@@ -122,7 +122,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "<strong>LOGO</strong> <a href=\"https://www.google.com/imgres?imgurl=https%3A%2F%2Frespinor.com%2Fwp-content%2Fuploads%2F2017%2F04%2Flogo-dummy.png&amp;imgrefurl=http%3A%2F%2Frespinor.com%2Fcompany%2Flogo-dummy%2F&amp;tbnid=MHsLg1arCkZmFM&amp;vet=12ahUKEwiC3-rJwMD4AhVsLrcAHe-eBQ4QMygJegUIARDMAQ..i&amp;docid=R38osm9dKxEqgM&amp;w=360&amp;h=120&amp;q=logo%20dummy%20png&amp;ved=2ahUKEwiC3-rJwMD4AhVsLrcAHe-eBQ4QMygJegUIARDMAQ\"></a>",
@@ -140,7 +140,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "top",
                                     "width": "33.33%",
@@ -150,11 +150,11 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -169,7 +169,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "<a href=\"#\">News</a> "
@@ -178,7 +178,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -193,7 +193,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "<a href=\"#\">Contact</a>"
@@ -210,7 +210,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -226,7 +226,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "<strong>Lorem Ipsum &amp; consectetur</strong>",
@@ -240,7 +240,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "Lorem Ipsum&nbsp;is simply dummy text.&nbsp;",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -266,13 +266,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "full"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -286,7 +286,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "<strong><em>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium volupta tum  </em></strong>",
                                     "level": 3,
@@ -303,7 +303,7 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "attributes": {
                                     "layout": {
                                         "type": "flex",
@@ -312,7 +312,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Learn more",
                                             "style": {
@@ -330,7 +330,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -342,7 +342,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
                                     "textColor": "black",
@@ -354,7 +354,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum&nbsp;is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
                                     "textColor": "black",

@@ -1,13 +1,13 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "center",
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -24,7 +24,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "Basic",
@@ -40,7 +40,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "$69",
@@ -54,34 +54,34 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "<em>Per week</em>"
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "backgroundColor": "palette-4",
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "☑ Home decorations<br>☑ Room planning<br>☒ <s>Custom furniture</s><br>☒ <s>Vases and pottery</s>"
                         }
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "20px"
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -90,7 +90,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "url": "#0",
                                     "text": "Buy now",
@@ -102,7 +102,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "backgroundColor": "luminous-vivid-amber",
@@ -117,7 +117,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "Advanced",
@@ -134,7 +134,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "$149",
@@ -150,7 +150,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "<em>Per week</em>",
@@ -158,14 +158,14 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "backgroundColor": "palette-2",
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "☑ Home decorations<br>☑ Room planning<br>☑ Custom furniture<br>☒ <s>Vases and pottery</s>",
@@ -173,13 +173,13 @@
                         }
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "20px"
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -188,7 +188,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "url": "#0",
                                     "text": "Buy now",
@@ -201,7 +201,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -218,7 +218,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "Profi",
@@ -234,7 +234,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "$299",
@@ -248,7 +248,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "<em>Per week</em>",
@@ -260,27 +260,27 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "backgroundColor": "palette-4",
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "☑ Home decorations<br>☑ Room planning<br>☑ Custom furniture<br>☑ Vases and pottery"
                         }
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "20px"
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -289,7 +289,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "url": "#0",
                                     "text": "Buy now",

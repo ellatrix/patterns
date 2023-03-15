@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -23,7 +23,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "isStackedOnMobile": false,
@@ -52,7 +52,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -68,14 +68,14 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "center",
                                                     "content": "What we do",
@@ -113,7 +113,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "isStackedOnMobile": false,
@@ -142,7 +142,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -158,7 +158,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -171,7 +171,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -190,7 +190,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -217,7 +217,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "center",
                                                             "url": "https://i.postimg.cc/d3n1b30y/Email-Blast.png",
@@ -235,7 +235,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Email Marketing",
@@ -268,7 +268,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -298,10 +298,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "learn more",
                                                                     "textColor": "white",
@@ -339,7 +339,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -358,7 +358,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -387,7 +387,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "center",
                                                             "url": "https://i.postimg.cc/bJgpJMjX/Budget-promotion.png",
@@ -405,7 +405,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "digital Marketing",
@@ -438,7 +438,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -468,10 +468,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "learn more",
                                                                     "textColor": "white",
@@ -509,7 +509,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -528,7 +528,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -555,7 +555,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/image",
+                                                        "name": "image",
                                                         "attributes": {
                                                             "align": "center",
                                                             "url": "https://i.postimg.cc/3JtMvp6G/Smartphone-Marketing.png",
@@ -577,7 +577,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": " web development",
@@ -610,7 +610,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -640,10 +640,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "learn more",
                                                                     "textColor": "white",

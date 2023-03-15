@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -12,13 +12,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "64px"
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<strong>GET IN TOUCH</strong>",
@@ -31,7 +31,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Schedule a Visit</strong>",
@@ -45,7 +45,7 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -55,7 +55,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Contact us",
                             "width": 50,
@@ -73,7 +73,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "64px"
                 }

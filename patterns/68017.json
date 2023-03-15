@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/Mushroom-27560.mp4",
                     "id": 12,
@@ -43,7 +43,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/media-text",
+                        "name": "media-text",
                         "attributes": {
                             "mediaPosition": "right",
                             "mediaId": 13,
@@ -54,7 +54,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<strong>START YOUR SHOP TODAY</strong>",
                                     "textColor": "background",
@@ -68,7 +68,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "STAND OUT WITH A ELEGANT HERO BANNER",

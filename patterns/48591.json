@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -18,7 +18,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -31,14 +31,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "30%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Nikky Bila",
                                     "textColor": "black",
@@ -53,7 +53,7 @@
                                 }
                             },
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "HOME / PORTFOLIO / Nikky Bila",
                                     "level": 6,
@@ -73,21 +73,21 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "70%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {},
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "textAlign": "left",
                                                     "content": "Portfolio",
@@ -107,7 +107,7 @@
                                 ]
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                                     "style": {
@@ -118,7 +118,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
                                     "style": {
@@ -129,7 +129,7 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -141,10 +141,10 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Client",
                                                     "textColor": "black",
@@ -160,7 +160,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Devid Wan",
                                                     "style": {
@@ -177,10 +177,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Skills",
                                                     "textColor": "black",
@@ -196,7 +196,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Branding, Design",
                                                     "style": {
@@ -213,10 +213,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Date",
                                                     "textColor": "black",
@@ -232,7 +232,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "June 19, 2022",
                                                     "style": {
@@ -249,10 +249,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Share",
                                                     "textColor": "black",
@@ -268,7 +268,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -293,7 +293,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/social-links",
+                                                        "name": "social-links",
                                                         "attributes": {
                                                             "iconColor": "black",
                                                             "iconColorValue": "#000000",
@@ -313,28 +313,28 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/social-link",
+                                                                "name": "social-link",
                                                                 "attributes": {
                                                                     "url": "#",
                                                                     "service": "facebook"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/social-link",
+                                                                "name": "social-link",
                                                                 "attributes": {
                                                                     "url": "#",
                                                                     "service": "twitter"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/social-link",
+                                                                "name": "social-link",
                                                                 "attributes": {
                                                                     "url": "#",
                                                                     "service": "instagram"
                                                                 }
                                                             },
                                                             {
-                                                                "name": "core/social-link",
+                                                                "name": "social-link",
                                                                 "attributes": {
                                                                     "url": "#",
                                                                     "service": "google"

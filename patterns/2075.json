@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/07/124517546-39e29580-ddb2-11eb-8e23-fa3309b495c2.jpg",
             "id": 2076,
@@ -11,7 +11,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -22,20 +22,20 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "verticalAlignment": "center",
                             "align": "wide"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/cover",
+                                        "name": "cover",
                                         "attributes": {
                                             "url": "https://s.w.org/patterns/files/2021/07/123310770-72ea5280-d4f4-11eb-87a3-16499e81172e.jpg",
                                             "id": 2077,
@@ -47,7 +47,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "align": "left",
                                                     "content": "<strong>Ship in Ice</strong><br>by Isaac Israel Hayes",
@@ -66,13 +66,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "textAlign": "center",
                                             "content": "<strong>404</strong>",
@@ -82,7 +82,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "<strong>We're a little lost.</strong><br>(Not shipwrecked-in-the-Arctic lost, though.)",

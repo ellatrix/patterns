@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/buttons",
+        "name": "buttons",
         "attributes": {
             "layout": {
                 "type": "flex",
@@ -9,7 +9,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "About Cervantes",
                     "style": {
@@ -24,7 +24,7 @@
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "Contact us",
                     "style": {
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "Books",
                     "style": {

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-jan19-msp_0709_8783.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6945c5434af9266e1389e693eb695dc6",
             "dimRatio": 50,
@@ -25,7 +25,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Lorem ipsum dolor sit amet",
@@ -50,7 +50,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Exclusive Digital Services?",
@@ -76,7 +76,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text.",
@@ -100,7 +100,7 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -118,7 +118,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Lets Talk",
                             "backgroundColor": "vivid-cyan-blue",

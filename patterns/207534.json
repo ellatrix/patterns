@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Latest Post",
@@ -19,13 +19,13 @@
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "50px"
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide",
@@ -37,14 +37,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "65%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/query",
+                                "name": "query",
                                 "attributes": {
                                     "queryId": 17,
                                     "query": {
@@ -66,10 +66,10 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/post-template",
+                                        "name": "post-template",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/post-featured-image",
+                                                "name": "post-featured-image",
                                                 "attributes": {
                                                     "isLink": true
                                                 }
@@ -81,13 +81,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "textColor": "palette-color-8",
                                     "style": {
@@ -98,7 +98,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/query",
+                                        "name": "query",
                                         "attributes": {
                                             "queryId": 16,
                                             "query": {
@@ -120,10 +120,10 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/post-template",
+                                                "name": "post-template",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/post-title",
+                                                        "name": "post-title",
                                                         "attributes": {
                                                             "level": 3,
                                                             "isLink": true,
@@ -138,13 +138,13 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/separator",
+                                                        "name": "separator",
                                                         "attributes": {
                                                             "backgroundColor": "white"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/post-excerpt",
+                                                        "name": "post-excerpt",
                                                         "attributes": {
                                                             "moreText": "Read More →",
                                                             "textColor": "white"
@@ -161,7 +161,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "align": "wide",
@@ -173,14 +173,14 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "35%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "textColor": "palette-color-8",
                                     "style": {
@@ -191,7 +191,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/query",
+                                        "name": "query",
                                         "attributes": {
                                             "queryId": 16,
                                             "query": {
@@ -213,10 +213,10 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/post-template",
+                                                "name": "post-template",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/post-title",
+                                                        "name": "post-title",
                                                         "attributes": {
                                                             "level": 3,
                                                             "isLink": true,
@@ -231,13 +231,13 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/separator",
+                                                        "name": "separator",
                                                         "attributes": {
                                                             "backgroundColor": "white"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/post-excerpt",
+                                                        "name": "post-excerpt",
                                                         "attributes": {
                                                             "moreText": "Read More →",
                                                             "textColor": "white"
@@ -252,13 +252,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/query",
+                                "name": "query",
                                 "attributes": {
                                     "queryId": 17,
                                     "query": {
@@ -280,10 +280,10 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/post-template",
+                                        "name": "post-template",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/post-featured-image",
+                                                "name": "post-featured-image",
                                                 "attributes": {
                                                     "isLink": true
                                                 }

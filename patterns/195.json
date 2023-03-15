@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "align": "full",
             "mediaAlt": "A green and brown rural landscape leading into a bright blue ocean and slightly cloudy sky, done in oil paints.",
@@ -13,7 +13,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "content": "<strong>Shore with Blue Sea</strong>",
                     "style": {
@@ -24,7 +24,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "Eleanor Harris&nbsp;(American, 1901-1942)",
                     "style": {
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {}
     }
 ]

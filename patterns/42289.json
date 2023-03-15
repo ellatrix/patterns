@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -24,14 +24,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "This is Title",
                                     "style": {
@@ -47,10 +47,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Write your own copy text here. This is just a demo text you should overwrite. Write your own copy text here. This is just a demo text you should overwrite.",
                                     "fontSize": "medium"
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -86,14 +86,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "isStackedOnMobile": false,
                                     "style": {
@@ -107,13 +107,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "3rem"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "black",
                                                     "textColor": "white",
@@ -130,7 +130,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "1",
@@ -149,11 +149,11 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "A Subtitle",
                                                     "level": 3,
@@ -173,7 +173,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite.",
                                                     "style": {
@@ -190,10 +190,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "isStackedOnMobile": false,
                                     "style": {
@@ -207,13 +207,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "3rem"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "black",
                                                     "textColor": "white",
@@ -230,7 +230,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "2",
@@ -249,11 +249,11 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Subtitle Text",
                                                     "level": 3,
@@ -273,7 +273,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite.",
                                                     "style": {
@@ -290,10 +290,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "isStackedOnMobile": false,
                                     "style": {
@@ -307,13 +307,13 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {
                                             "width": "3rem"
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "black",
                                                     "textColor": "white",
@@ -330,7 +330,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "3",
@@ -349,11 +349,11 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Last Subtitle",
                                                     "level": 3,
@@ -373,7 +373,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite.",
                                                     "style": {

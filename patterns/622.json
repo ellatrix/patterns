@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "50px"
         }
     },
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "textAlign": "center",
             "content": "<strong>À La Carte</strong>",
@@ -19,7 +19,7 @@
         }
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "Our menu offers a selection of artisan goods.",
@@ -27,26 +27,26 @@
         }
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "10px"
         }
     },
     {
-        "name": "core/separator",
+        "name": "separator",
         "attributes": {
             "opacity": "css"
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {},
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Tiger Grilled Shrimp — $54</strong>",
                             "level": 3,
@@ -55,7 +55,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Grilled tiger shrimp served with garlic butter, basmati rice and vegetables.",
                             "fontSize": "normal",
@@ -67,7 +67,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Grilled Wagyu Steak — $99</strong>",
                             "level": 3,
@@ -76,7 +76,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "A tasty wagyu steak with sweat potato chips and mint sauce.",
                             "fontSize": "normal",
@@ -88,7 +88,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Green Burger — $99</strong>",
                             "level": 3,
@@ -96,7 +96,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Green bread with fried chicken, filled with cheese, guacamole and coleslaw. Topped with onion.",
                             "fontSize": "normal",
@@ -110,10 +110,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Salmon Fillet — $32</strong>",
                             "level": 3,
@@ -122,7 +122,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Fresh coast salmon served with chickpeas in tomato, peppers and sour cream.",
                             "fontSize": "normal",
@@ -134,7 +134,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Fresh Tagliolini — $35</strong>",
                             "level": 3,
@@ -143,7 +143,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "This pasta is one of our most famous dishes, served with king crab and chilli pepper.",
                             "fontSize": "normal",
@@ -155,7 +155,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Hot &amp; Bold Salad — $35</strong>",
                             "level": 3,
@@ -163,7 +163,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Hot chèvre salad with endives, mustard sauce, walnuts, Port wine and pear.",
                             "fontSize": "normal",
@@ -179,7 +179,7 @@
         ]
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "50px"
         }

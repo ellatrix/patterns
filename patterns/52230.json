@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -25,7 +25,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -39,10 +39,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "wordpress",
                                     "textColor": "white",
@@ -57,7 +57,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "WordPress is open source software you can use to create a beautiful website, blog, or app.Beautiful designs, powerful features, and the freedom to build anything you want. WordPress is both free and priceless at the same time.",
                                     "textColor": "white",
@@ -69,7 +69,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<strong>Email us</strong> - simple@gmail.com",
                                     "textColor": "white",
@@ -84,13 +84,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "180px"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Quick Link",
                                     "level": 4,
@@ -106,7 +106,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Home",
                                     "textColor": "white",
@@ -119,7 +119,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "About Us",
                                     "textColor": "white",
@@ -132,7 +132,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Shop",
                                     "textColor": "white",
@@ -145,7 +145,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Team",
                                     "textColor": "white",
@@ -158,7 +158,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Blog",
                                     "textColor": "white",
@@ -171,7 +171,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Contact Us",
                                     "textColor": "white",
@@ -186,13 +186,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "180px"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Products",
                                     "level": 4,
@@ -208,7 +208,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Home",
                                     "textColor": "white",
@@ -221,7 +221,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "About Us",
                                     "textColor": "white",
@@ -234,7 +234,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Shop",
                                     "textColor": "white",
@@ -247,7 +247,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Services",
                                     "textColor": "white",
@@ -260,7 +260,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Blog",
                                     "textColor": "white",
@@ -273,7 +273,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Contact Us",
                                     "textColor": "white",
@@ -288,13 +288,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "textColor": "white"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "Subscribe Newsletter",
                                     "level": 4,
@@ -309,7 +309,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Join 1,933,300 other subscribers",
                                     "style": {
@@ -320,7 +320,7 @@
                                 }
                             },
                             {
-                                "name": "core/search",
+                                "name": "search",
                                 "attributes": {
                                     "showLabel": false,
                                     "placeholder": "Email address",
@@ -338,42 +338,42 @@
                                 }
                             },
                             {
-                                "name": "core/social-links",
+                                "name": "social-links",
                                 "attributes": {
                                     "iconColor": "white",
                                     "iconColorValue": "#ffffff"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "facebook"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "twitter"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "instagram"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "linkedin"
                                         }
                                     },
                                     {
-                                        "name": "core/social-link",
+                                        "name": "social-link",
                                         "attributes": {
                                             "url": "#",
                                             "service": "youtube"
@@ -386,7 +386,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "borderColor": "white",
@@ -409,7 +409,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center"
                         }
@@ -417,7 +417,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -430,7 +430,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "style": {
@@ -444,7 +444,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "center",
                                     "content": "Copyright © 2022 wordpress.org",

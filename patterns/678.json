@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -32,7 +32,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Single</strong>",
                             "anchor": "single",
@@ -44,7 +44,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Enrich our growing community.</strong> ",
                             "fontSize": "normal",
@@ -56,7 +56,7 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css",
                             "style": {
@@ -67,25 +67,25 @@
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "General admission and member discounts for one adult"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "One free ticket per special exhibition"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "Two single-use guest passes per year"
                                 }
@@ -93,7 +93,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -104,7 +104,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$110 / year",
                                     "textColor": "white",
@@ -124,7 +124,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -150,7 +150,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Family</strong>",
                             "anchor": "family",
@@ -162,7 +162,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Support special exhibitions.</strong>",
                             "fontSize": "normal",
@@ -174,31 +174,31 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "General admission and member discounts for two adults"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "Four free tickets per special exhibition"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "Four single-use guest passes per year"
                                 }
@@ -206,7 +206,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -217,7 +217,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$200 / year",
                                     "textColor": "white",
@@ -237,7 +237,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "style": {
                         "color": {
@@ -263,7 +263,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Patron</strong>",
                             "anchor": "patron",
@@ -275,38 +275,38 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>Take support to the next level.</strong>",
                             "fontSize": "normal"
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/list",
+                        "name": "list",
                         "attributes": {
                             "fontSize": "normal"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "General admission and member discounts for two adults"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "Five free tickets per special exhibition"
                                 }
                             },
                             {
-                                "name": "core/list-item",
+                                "name": "list-item",
                                 "attributes": {
                                     "content": "Six single-use guest passes per year"
                                 }
@@ -314,7 +314,7 @@
                         ]
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "align": "full",
                             "layout": {
@@ -325,7 +325,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "$400 / year",
                                     "textColor": "white",

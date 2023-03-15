@@ -1,12 +1,12 @@
 [
     {
-        "name": "core/quote",
+        "name": "quote",
         "attributes": {
             "citation": "Julio Cortázar"
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "In quoting others, we cite ourselves."
                 }

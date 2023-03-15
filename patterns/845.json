@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/Apollo.jpg",
             "id": 843,
@@ -18,13 +18,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "40px"
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<strong>TRAVELOGUE EP. 5</strong>",
@@ -37,13 +37,13 @@
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "2px"
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<a href=\"http://example-post\" data-type=\"URL\" data-id=\"example-post\">One small step</a>",
@@ -58,13 +58,13 @@
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "460px"
                 }
             },
             {
-                "name": "core/audio",
+                "name": "audio",
                 "attributes": {
                     "src": "https://s.w.org/patterns/files/2021/06/one-small-step-short.mp3",
                     "id": 844,

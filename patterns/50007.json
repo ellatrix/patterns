@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "<strong>BEST FEATURES</strong>",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "textAlign": "center",
             "content": "<strong>Special features we are most proud of</strong>",
@@ -20,7 +20,7 @@
         }
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "Sub-headings are very important to describe your product. I strongly advise you to explain it well so everybody understands what you are trying to say.",
@@ -32,11 +32,11 @@
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {},
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -49,21 +49,21 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Unlimited Workplaces</strong>",
                             "fontSize": "medium"
                         }
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Describing your service you provide the public with is vitally important, so your copy should include full details.",
                                             "fontSize": "small"
@@ -74,14 +74,14 @@
                         ]
                     },
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {},
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>Dedicated Cabins</strong>",
                                             "fontSize": "medium"
@@ -92,7 +92,7 @@
                         ]
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Describing your service you provide the public with is vitally important, so your copy should include full details.",
                             "fontSize": "small"
@@ -101,10 +101,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://arya.oxymade.com/wp-content/uploads/2021/09/Home-2.png",
                             "width": 251,
@@ -116,34 +116,34 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Super Speed Internet</strong>",
                             "fontSize": "medium"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Describing your service you provide the public with is vitally important, so your copy should include full details.",
                             "fontSize": "small"
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Unlimited Coffee</strong>",
                             "fontSize": "medium"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Describing your service you provide the public with is vitally important, so your copy should include full details.",
                             "fontSize": "small"

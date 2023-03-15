@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "mediaPosition": "right",
             "mediaId": 570,
@@ -24,7 +24,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -39,7 +39,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>NIGHT IN<br>SHINAGAWA</strong>",
                             "style": {
@@ -51,13 +51,13 @@
                         }
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "500px"
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Negoro Raizan<br>1922",
                             "fontSize": "extra-small"

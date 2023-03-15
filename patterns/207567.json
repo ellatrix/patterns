@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "backgroundColor": "white",
             "style": {
@@ -19,7 +19,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/site-title",
+                "name": "site-title",
                 "attributes": {
                     "textAlign": "center",
                     "fontSize": "medium",
@@ -32,19 +32,19 @@
                 }
             },
             {
-                "name": "core/site-tagline",
+                "name": "site-tagline",
                 "attributes": {
                     "textAlign": "center"
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "20px"
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -53,28 +53,28 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Watch my latest videos",
                             "width": 100
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Buy merch",
                             "width": 100
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Support me on Patreon",
                             "width": 100
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Get tickets for my show",
                             "width": 100
@@ -83,7 +83,7 @@
                 ]
             },
             {
-                "name": "core/social-links",
+                "name": "social-links",
                 "attributes": {
                     "iconColor": "black",
                     "iconColorValue": "#000000",
@@ -109,28 +109,28 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://wordpress.org/patterns/",
                             "service": "instagram"
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://wordpress.org/patterns/",
                             "service": "bandcamp"
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://wordpress.org/patterns/",
                             "service": "twitter"
                         }
                     },
                     {
-                        "name": "core/social-link",
+                        "name": "social-link",
                         "attributes": {
                             "url": "https://wordpress.org/patterns/",
                             "service": "twitch"

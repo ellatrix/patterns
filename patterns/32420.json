@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "textColor": "white",
@@ -24,7 +24,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -41,10 +41,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "backgroundColor": "luminous-vivid-amber",
                                     "style": {
@@ -64,7 +64,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -82,7 +82,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Gallery",
                                                     "style": {
@@ -95,7 +95,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Vitae ultrices consectetuer feugiat leo ridiculus eleifend bibendum.",
                                                     "style": {
@@ -112,12 +112,12 @@
                         ]
                     },
                     {
-                        "name": "core/column"
+                        "name": "column"
                     }
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -134,10 +134,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column"
+                        "name": "column"
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -152,7 +152,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Lorem ipsum dolor sit amet mattis. Penatibus hendrerit egestas commodo vel condimentum. Ultricies nulla himenaeos risus lectus gravida euismod condimentum.",
                                     "style": {
@@ -167,11 +167,11 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {}
             },
             {
-                "name": "core/gallery",
+                "name": "gallery",
                 "attributes": {
                     "linkTo": "none",
                     "align": "full",
@@ -186,31 +186,31 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0833-pasta-fusilli-prepared-for-cooking1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=6d8bcb2358053bd60bf1e0534bb31e14"
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0393-pasta-asparagus.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=7104f38452e51828c7f5c2a0d271922b"
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0406-foodiesfeed.com-pasta-photos-circles-3_low.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=923b1e445174df1e101aaa5314393ee6"
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0943-pasta-tagliatelle-asparagus-tomatoes.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=59f8072cca902a42d5bee6031e0795e1"
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0919-pasta-fusilli-prepared-for-cooking.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3777c35a83e6ac39e3505822fe2222e5"
                         }

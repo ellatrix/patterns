@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/navigation-link",
+        "name": "navigation-link",
         "attributes": {
             "label": "Example Link",
             "url": "https://example.com"

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "style": {
                 "spacing": {
@@ -17,7 +17,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<strong>Blog Post</strong>",
@@ -29,7 +29,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "<strong>Latest From Blog</strong>",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -61,13 +61,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "full"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -80,7 +80,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-04246a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=0c3ba7222b77a92751bbd4e64b56429f",
                                     "dimRatio": 0,
@@ -89,7 +89,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "placeholder": "Write title…",
@@ -99,7 +99,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -121,7 +121,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>What we are capable of usually discovered.</strong>",
                                             "textColor": "black",
@@ -144,7 +144,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Our offices are located on the traditional, unced.",
                                             "style": {
@@ -169,7 +169,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -186,7 +186,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "<strong>Read More</strong>",
                                                     "backgroundColor": "black",
@@ -210,7 +210,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "align": "full",
                                             "backgroundColor": "black",
@@ -224,7 +224,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>Medeno 13 Oct 2022</strong>",
                                             "style": {
@@ -242,7 +242,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -255,7 +255,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-39207a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9f8581de1bb6e7724eabda3aaacadb80",
                                     "dimRatio": 0,
@@ -264,7 +264,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "placeholder": "Write title…",
@@ -274,7 +274,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -296,7 +296,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>What Walking Helper Heal And Strains</strong>.",
                                             "textColor": "black",
@@ -319,7 +319,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Our offices are located on the traditional, unced.",
                                             "style": {
@@ -344,7 +344,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -361,7 +361,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "<strong>Read More</strong>",
                                                     "backgroundColor": "black",
@@ -385,7 +385,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "align": "full",
                                             "backgroundColor": "black",
@@ -399,7 +399,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>Medeno 13 Oct 2022</strong>",
                                             "style": {
@@ -417,7 +417,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -430,7 +430,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-41559a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=707e793acb720713bec528942913147e",
                                     "dimRatio": 0,
@@ -439,7 +439,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "placeholder": "Write title…",
@@ -449,7 +449,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -471,7 +471,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>Six Tips For Boosting Your Safe System.</strong>",
                                             "textColor": "black",
@@ -494,7 +494,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Our offices are located on the traditional, unced.",
                                             "style": {
@@ -519,7 +519,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -536,7 +536,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "<strong>Read More</strong>",
                                                     "backgroundColor": "black",
@@ -560,7 +560,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/separator",
+                                        "name": "separator",
                                         "attributes": {
                                             "align": "full",
                                             "backgroundColor": "black",
@@ -574,7 +574,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "<strong>Medeno 13 Oct 2022</strong>",
                                             "style": {

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -21,7 +21,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/jazz.jpg",
                     "id": 137,
@@ -45,7 +45,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "<em>Fancy Top Title</em>",
@@ -58,7 +58,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "<strong>THIS IS A SIMPLE BANNER</strong>",
@@ -76,7 +76,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
@@ -88,7 +88,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -97,7 +97,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Shop Now",
                                     "backgroundColor": "background",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -139,7 +139,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/cover",
+                "name": "cover",
                 "attributes": {
                     "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/fashion-1000x530-1.jpg",
                     "id": 150,
@@ -163,7 +163,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "<em>Fancy Top Title</em>",
@@ -176,7 +176,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "<strong>THIS IS A SIMPLE BANNER</strong>",
@@ -194,7 +194,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "align": "center",
                             "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
@@ -206,7 +206,7 @@
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex",
@@ -215,7 +215,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Shop Now",
                                     "backgroundColor": "background",

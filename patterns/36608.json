@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -27,7 +27,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "color": {
@@ -56,7 +56,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "60%",
@@ -75,7 +75,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -100,7 +100,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem Ipsum",
                                             "level": 6,
@@ -120,7 +120,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Lorem Ipsum Emit Doller",
                                             "style": {
@@ -149,7 +149,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour. Lorem Ipsum has been the industry's standard dummy text.",
                                             "style": {
@@ -174,7 +174,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -188,7 +188,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Shop Now",
                                                     "textColor": "white",
@@ -220,7 +220,7 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center",
                             "width": "40%",
@@ -238,7 +238,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "right",
                                     "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdwatercolorfruitbatch1-94-gloy-a_1_2.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=d2d509805a9b4c5e1ed033feffde2289",

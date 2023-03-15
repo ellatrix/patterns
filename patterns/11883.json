@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "style": {
                 "spacing": {
@@ -10,7 +10,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": " <strong>–everything you need to know–</strong>",
@@ -24,7 +24,7 @@
                 }
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -44,7 +44,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "<strong>25</strong>",
                             "style": {
@@ -56,7 +56,7 @@
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "left",
                             "content": "Ways to improve<br>your website",

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "content": "Code is Poetry"
         }

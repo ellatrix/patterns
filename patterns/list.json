@@ -1,34 +1,34 @@
 [
     {
-        "name": "core/list",
+        "name": "list",
         "attributes": {},
         "innerBlocks": [
             {
-                "name": "core/list-item",
+                "name": "list-item",
                 "attributes": {
                     "content": "Alice."
                 }
             },
             {
-                "name": "core/list-item",
+                "name": "list-item",
                 "attributes": {
                     "content": "The White Rabbit."
                 }
             },
             {
-                "name": "core/list-item",
+                "name": "list-item",
                 "attributes": {
                     "content": "The Cheshire Cat."
                 }
             },
             {
-                "name": "core/list-item",
+                "name": "list-item",
                 "attributes": {
                     "content": "The Mad Hatter."
                 }
             },
             {
-                "name": "core/list-item",
+                "name": "list-item",
                 "attributes": {
                     "content": "The Queen of Hearts."
                 }

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "minHeight": 100,
             "minHeightUnit": "vh",
@@ -9,13 +9,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "80px"
                 }
             },
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "align": "center",
                     "url": "https://s.w.org/patterns/files/2021/06/Solar-Eclipse.jpg",
@@ -27,7 +27,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Solar Eclipse</strong>",
@@ -42,13 +42,13 @@
                 }
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "60px"
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "layout": {
                         "type": "flex",
@@ -58,7 +58,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Watch my videos",
                             "width": 100,
@@ -74,7 +74,7 @@
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Buy prints of my work",
                             "width": 100,
@@ -90,7 +90,7 @@
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "My wish list",
                             "width": 100,
@@ -106,7 +106,7 @@
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Follow me on Twitter",
                             "width": 100,
@@ -122,7 +122,7 @@
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Visit my Instagram",
                             "width": 100,
@@ -140,7 +140,7 @@
                 ]
             },
             {
-                "name": "core/spacer",
+                "name": "spacer",
                 "attributes": {
                     "height": "90px"
                 }

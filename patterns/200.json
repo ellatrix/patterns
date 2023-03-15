@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -12,10 +12,10 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong><a href=\"http://wordpress.org\">Virtual Tour ↗</a></strong>",
                             "level": 3,
@@ -28,7 +28,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Get a virtual tour of the museum. Ideal for schools and events."
                         }
@@ -36,10 +36,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong><a href=\"https://wordpress.org\">Current Shows ↗</a></strong>",
                             "level": 3,
@@ -52,7 +52,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Stay updated and see our current exhibitions here."
                         }
@@ -60,10 +60,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong><a href=\"https://wordpress.org\">Useful Info ↗</a></strong>",
                             "level": 3,
@@ -76,7 +76,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Get to know our opening times, ticket prices and discounts."
                         }

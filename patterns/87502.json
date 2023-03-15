@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-3545833a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=180f8bae996d28a805136b6a7edada87",
             "dimRatio": 30,
@@ -14,7 +14,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "Nothing succeeds like success",
@@ -38,7 +38,7 @@
                 }
             },
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing Lorem Ipsum    ",
@@ -53,7 +53,7 @@
                 }
             },
             {
-                "name": "core/buttons",
+                "name": "buttons",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -68,7 +68,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "About Us ",
                             "backgroundColor": "white",
@@ -87,7 +87,7 @@
                         }
                     },
                     {
-                        "name": "core/button",
+                        "name": "button",
                         "attributes": {
                             "text": "Contact Us ",
                             "textColor": "white",

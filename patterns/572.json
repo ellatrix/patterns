@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/media-text",
+        "name": "media-text",
         "attributes": {
             "mediaId": 569,
             "mediaUrl": "https://s.w.org/patterns/files/2021/06/meteor-shower-768x1024.jpg",
@@ -16,7 +16,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -31,7 +31,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>Meteor Shower</strong>",
                             "style": {
@@ -43,7 +43,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "I looked up at the night sky to find the stars performing a remarkable silent ballet. I watched alone for a few moments before waking my partner. The two of us quickly pulled on our slippers and walked into the backyard for a better view.",
                             "fontSize": "small",

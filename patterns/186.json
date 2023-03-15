@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/images/core/5.8/art-01.jpg",
             "hasParallax": true,
@@ -13,7 +13,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "content": "<strong><em>Overseas:</em></strong><br><strong><em>1500 — 1960</em></strong>",
                     "style": {
@@ -25,19 +25,19 @@
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "60%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "An exhibition about the different representations of the ocean throughout time, between the sixteenth and the twentieth century. Taking place in our Open Room in <em>Floor 2</em>.",
                                     "style": {
@@ -48,10 +48,10 @@
                                 }
                             },
                             {
-                                "name": "core/buttons",
+                                "name": "buttons",
                                 "innerBlocks": [
                                     {
-                                        "name": "core/button",
+                                        "name": "button",
                                         "attributes": {
                                             "text": "Visit",
                                             "style": {
@@ -67,7 +67,7 @@
                         ]
                     },
                     {
-                        "name": "core/column"
+                        "name": "column"
                     }
                 ]
             }

@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "full",
             "style": {
@@ -14,11 +14,11 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {}
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "382px",
                     "style": {
@@ -29,7 +29,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-mar19-1812-1868.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=5813a61381054a8977b777675d9b418f",
                             "sizeSlug": "full",
@@ -49,7 +49,7 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "width": "618px",
                     "backgroundColor": "black",
@@ -57,7 +57,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "backgroundColor": "white",
                             "style": {
@@ -77,7 +77,7 @@
                         }
                     },
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -92,7 +92,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "— What We Do",
                                     "style": {
@@ -116,7 +116,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Creative Design.",
                                     "fontSize": "x-large",
@@ -130,7 +130,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. This is just a demo text you should overwrite.",
                                     "style": {
@@ -144,19 +144,19 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "Just a short sentence. Write your own copy text here. This is just a demo text you should overwrite. Just a short sentence."
                                 }
                             },
                             {
-                                "name": "core/spacer",
+                                "name": "spacer",
                                 "attributes": {
                                     "height": "50px"
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#0\">Continue Reading →</a>",
                                     "style": {
@@ -172,13 +172,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "backgroundColor": "black"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "backgroundColor": "white",
                             "style": {

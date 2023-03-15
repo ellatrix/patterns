@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -15,7 +15,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "align": "left",
                     "url": "https://i.postimg.cc/tTpXR1bb/star-bg.webp",
@@ -26,7 +26,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>Creative Team</strong>",
@@ -42,7 +42,7 @@
                 }
             },
             {
-                "name": "core/heading",
+                "name": "heading",
                 "attributes": {
                     "textAlign": "center",
                     "content": "<strong>We are a Professional&nbsp;Creative&nbsp;Team</strong>",
@@ -57,7 +57,7 @@
                 }
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "center",
                     "style": {
@@ -70,13 +70,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "url": "https://i.postimg.cc/BQKyDcjn/member6.jpg",
                                     "alt": "Team Member",
@@ -93,13 +93,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/43gTn2wG/member2.jpg",
@@ -115,7 +115,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/j523jzVK/member3.jpg",
@@ -133,13 +133,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/sDLjfJtf/member1.jpg",
@@ -157,13 +157,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/Hs1G6hDy/member4.jpg",
@@ -179,7 +179,7 @@
                                 }
                             },
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/BQ23sGcp/member7.jpg",
@@ -197,13 +197,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "center"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/image",
+                                "name": "image",
                                 "attributes": {
                                     "align": "center",
                                     "url": "https://i.postimg.cc/d0LSs2cF/Pages-about-3.jpg",
@@ -223,7 +223,7 @@
                 ]
             },
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "align": "right",
                     "url": "https://i.postimg.cc/tTpXR1bb/star-bg.webp",

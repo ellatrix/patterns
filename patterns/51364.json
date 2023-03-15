@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "style": {
                 "spacing": {
@@ -15,13 +15,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "<strong>The simplified solution for freelancers </strong>",
                             "style": {
@@ -32,13 +32,13 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Beautiful designs, powerful features, and the freedom to build anything you want. WordPress is both free and priceless at the same time."
                         }
                     },
                     {
-                        "name": "core/buttons",
+                        "name": "buttons",
                         "attributes": {
                             "layout": {
                                 "type": "flex"
@@ -46,7 +46,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/button",
+                                "name": "button",
                                 "attributes": {
                                     "text": "Learn more",
                                     "textColor": "white",
@@ -76,10 +76,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://core.oxyninja.com/wp-content/uploads/2020/04/Black-Man-_-Black-Woman-Using-Laptop-F.svg",
                             "width": 387,

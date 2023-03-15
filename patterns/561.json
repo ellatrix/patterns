@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-495947-jpeg-scaled.jpg",
             "id": 863,
@@ -11,7 +11,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "wide",
                     "backgroundColor": "white",
@@ -31,13 +31,13 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "33.33%",
@@ -45,7 +45,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "align": "center",
                                             "url": "https://s.w.org/patterns/files/2021/06/dracaena-updated-1024x1024.jpg",
@@ -59,14 +59,14 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "width": "66.66%"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "<strong>A day in nature</strong>",
                                             "style": {
@@ -80,7 +80,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "The word&nbsp;<em>nature</em>&nbsp;is borrowed from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Old_French\">Old French</a>&nbsp;<em>nature</em>&nbsp;and is derived from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Latin\">Latin</a>&nbsp;word&nbsp;<em>natura</em>, or \"essential qualities, innate disposition\", and in ancient times, literally meant \"birth\".",
                                             "fontSize": "medium",
@@ -95,10 +95,10 @@
                                         }
                                     },
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "Read More",
                                                     "textColor": "white",

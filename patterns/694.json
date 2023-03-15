@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide",
             "style": {
@@ -16,13 +16,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "backgroundColor": "black"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-459455-jpeg-2-scaled-e1623939655993-1024x786.jpg",
                             "alt": "A japanese painting of a bird in a river.",
@@ -32,7 +32,7 @@
                         }
                     },
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -46,7 +46,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "left",
                                     "content": "My Story",
@@ -61,7 +61,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "Learn how I became an artist, and how I developed this particular style.",
@@ -70,7 +70,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Read my story →</a>",
                                     "textColor": "white",
@@ -90,13 +90,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "backgroundColor": "black"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-459357-jpeg-2-scaled-e1623939983253-1024x785.jpg",
                             "alt": "Japanese painting of flora on a river.",
@@ -106,7 +106,7 @@
                         }
                     },
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -120,7 +120,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "left",
                                     "content": "Get in Touch",
@@ -135,7 +135,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "Want to show my art in your gallery? Send me an email and we'll chat.",
@@ -144,7 +144,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Get in touch →</a>",
                                     "textColor": "white",
@@ -164,13 +164,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "backgroundColor": "black"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-461096-jpeg-2-scaled-e1623939743434-1024x786.jpg",
                             "alt": "Japanese painting of birds in the shore.",
@@ -180,7 +180,7 @@
                         }
                     },
                     {
-                        "name": "core/group",
+                        "name": "group",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -194,7 +194,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "left",
                                     "content": "Follow Me",
@@ -209,7 +209,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "left",
                                     "content": "Love my work? Follow me online to see new paintings first.",
@@ -218,7 +218,7 @@
                                 }
                             },
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "content": "<a href=\"#\">Follow me →</a>",
                                     "textColor": "white",

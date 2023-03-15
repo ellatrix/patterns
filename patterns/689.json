@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "style": {
                 "color": {
@@ -10,13 +10,13 @@
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "align": "center",
                             "url": "https://s.w.org/patterns/files/2021/06/boat-etching-cropped-1024x1024-1.png",
@@ -28,19 +28,19 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "center"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "10px"
                         }
                     },
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "textAlign": "center",
                             "content": "<strong>Follow my adventures</strong>",
@@ -58,13 +58,13 @@
                         }
                     },
                     {
-                        "name": "core/separator",
+                        "name": "separator",
                         "attributes": {
                             "opacity": "css"
                         }
                     },
                     {
-                        "name": "core/social-links",
+                        "name": "social-links",
                         "attributes": {
                             "customIconColor": "#222222",
                             "iconColorValue": "#222222",
@@ -75,21 +75,21 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/social-link",
+                                "name": "social-link",
                                 "attributes": {
                                     "url": "https://myemail.com",
                                     "service": "mail"
                                 }
                             },
                             {
-                                "name": "core/social-link",
+                                "name": "social-link",
                                 "attributes": {
                                     "url": "http://twitter.com/twitter",
                                     "service": "twitter"
                                 }
                             },
                             {
-                                "name": "core/social-link",
+                                "name": "social-link",
                                 "attributes": {
                                     "url": "http://facebook.com/facebook",
                                     "service": "facebook"
@@ -98,7 +98,7 @@
                         ]
                     },
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "10px"
                         }

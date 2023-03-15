@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "content": "<strong>The voyage had begun, and had begun happily with a soft blue sky, and a calm sea.</strong>",
             "style": {
@@ -12,14 +12,14 @@
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {},
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "They followed her on to the deck. All the smoke and the houses had disappeared, and the ship was out in a wide space of sea very fresh and clear though pale in the early light. They had left London sitting on its mud. A very thin line of shadow tapered on the horizon, scarcely thick enough to stand the burden of Paris, which nevertheless rested upon it. They were free of roads, free of mankind, and the same exhilaration at their freedom ran through them all.",
                             "style": {
@@ -32,10 +32,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "The ship was making her way steadily through small waves which slapped her and then fizzled like effervescing water, leaving a little border of bubbles and foam on either side. The colourless October sky above was thinly clouded as if by the trail of wood-fire smoke, and the air was wonderfully salt and brisk. Indeed it was too cold to stand still. Mrs. Ambrose drew her arm within her husband's, and as they moved off it could be seen from the way in which her sloping cheek turned up to his that she had something private to communicate.",
                             "style": {

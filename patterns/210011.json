@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -25,7 +25,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -49,7 +49,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "style": {
                                 "spacing": {
@@ -65,7 +65,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "align": "full",
                                     "style": {
@@ -90,7 +90,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -113,7 +113,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -129,7 +129,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "textAlign": "center",
                                                             "content": "Our Portfolio",
@@ -161,7 +161,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "align": "center",
                                                             "content": "ㅡ",
@@ -199,7 +199,7 @@
                                 ]
                             },
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "style": {
                                         "spacing": {
@@ -223,7 +223,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -241,7 +241,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "<span style=\"text-decoration: underline\">All</span>",
                                                     "style": {
@@ -268,7 +268,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "WEB DEVELOPMENT",
                                                     "style": {
@@ -295,7 +295,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "GAME DEVELOPMENT",
                                                     "style": {
@@ -322,7 +322,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "APP DEVELOPMENT",
                                                     "style": {
@@ -357,7 +357,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -381,10 +381,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/07/62862be5b88d945e4.75059382-2048x1536.jpg",
                                     "dimRatio": 70,
@@ -395,7 +395,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -413,7 +413,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -437,7 +437,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -461,7 +461,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -490,7 +490,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "WEB DEVELOPMENT",
@@ -523,10 +523,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/02/42161fb4de973d9f4.54998251-2048x1536.jpeg",
                                     "dimRatio": 70,
@@ -537,7 +537,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -555,7 +555,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -579,7 +579,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -603,7 +603,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -632,7 +632,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "GAME DEVELOPMENT",
@@ -665,10 +665,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/08/44362edf0990bd3e9.87234019-2048x1536.jpg",
                                     "dimRatio": 70,
@@ -679,7 +679,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -697,7 +697,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -721,7 +721,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -745,7 +745,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -774,7 +774,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "APP DEVELOPMENT",
@@ -809,7 +809,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -833,10 +833,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/02/202621c058bb76f44.55884478-2048x1536.jpg",
                                     "dimRatio": 70,
@@ -847,7 +847,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -865,7 +865,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -889,7 +889,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -913,7 +913,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -942,7 +942,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "GAME DEVELOPMENT",
@@ -975,10 +975,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/08/44362edf0990bd3e9.87234019-2048x1536.jpg",
                                     "dimRatio": 70,
@@ -989,7 +989,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -1007,7 +1007,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -1031,7 +1031,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -1055,7 +1055,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -1084,7 +1084,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "APP DEVELOPMENT",
@@ -1117,10 +1117,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/cover",
+                                "name": "cover",
                                 "attributes": {
                                     "url": "https://pd.w.org/2022/07/62862be5b88d945e4.75059382-2048x1536.jpg",
                                     "dimRatio": 70,
@@ -1131,7 +1131,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/buttons",
+                                        "name": "buttons",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -1149,7 +1149,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "👁",
                                                     "backgroundColor": "white",
@@ -1173,7 +1173,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/button",
+                                                "name": "button",
                                                 "attributes": {
                                                     "text": "🔗",
                                                     "backgroundColor": "white",
@@ -1197,7 +1197,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "Lorem Ipsum Dolor Sit",
@@ -1226,7 +1226,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "align": "center",
                                             "content": "WEB DEVELOPMENT",

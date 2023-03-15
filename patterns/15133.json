@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/heading",
+        "name": "heading",
         "attributes": {
             "content": "Get In Touch",
             "level": 1,
@@ -14,20 +14,20 @@
         }
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "70px"
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "verticalAlignment": "top",
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "top",
                     "width": "50%",
@@ -41,7 +41,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "We are here to help you with any inquiry. Call us or visit us.",
                             "style": {
@@ -52,7 +52,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "The company values customer support satisfaction. No question has been left unanswered. We resolve everything!"
                         }
@@ -60,13 +60,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "top"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Store",
                             "fontSize": "medium",
@@ -80,7 +80,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Dublin Street 123<br>Cork, co. Cork<br>98765 Ireland<br>+800 123 456"
                         }
@@ -88,13 +88,13 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "attributes": {
                     "verticalAlignment": "top"
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/heading",
+                        "name": "heading",
                         "attributes": {
                             "content": "Office",
                             "fontSize": "medium",
@@ -108,7 +108,7 @@
                         }
                     },
                     {
-                        "name": "core/paragraph",
+                        "name": "paragraph",
                         "attributes": {
                             "content": "Cork Street 123<br>Dublin, co. Dublin<br>98765 Ireland<br>+800 123 456"
                         }
@@ -118,13 +118,13 @@
         ]
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "70px"
         }
     },
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdmaps-beinecke-04-jite-nam_1.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b22c88d98744d8a9137115bfc0edd33e",
             "dimRatio": 0,
@@ -145,7 +145,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "align": "center",
                     "fontSize": "large"

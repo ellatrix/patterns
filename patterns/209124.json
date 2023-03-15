@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -24,7 +24,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "align": "wide",
                     "style": {
@@ -48,10 +48,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -72,7 +72,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://pd.w.org/2022/02/880621b5abddc3020.89036280-2048x1536.jpg",
                                             "sizeSlug": "full",
@@ -88,7 +88,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -108,7 +108,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -121,7 +121,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Dec 09, 2022",
                                                             "style": {
@@ -144,7 +144,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "3 comments",
                                                             "style": {
@@ -170,7 +170,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Business Meeting At California",
                                                     "level": 4,
@@ -195,7 +195,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
                                                     "style": {
@@ -223,7 +223,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -242,7 +242,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",
@@ -276,10 +276,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -300,7 +300,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd19-3-45553a.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ab8ec5c07345ca93a4f0eccc4a3b6cb3",
                                             "sizeSlug": "full",
@@ -318,7 +318,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -337,7 +337,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -350,7 +350,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Dec 09, 2022",
                                                             "style": {
@@ -373,7 +373,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "3 comments",
                                                             "style": {
@@ -399,7 +399,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Business Meeting At California",
                                                     "level": 4,
@@ -424,7 +424,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
                                                     "style": {
@@ -452,10 +452,10 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",
@@ -489,10 +489,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "cyan-bluish-gray",
                                     "style": {
@@ -510,7 +510,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/image",
+                                        "name": "image",
                                         "attributes": {
                                             "url": "https://pd.w.org/2021/05/97060b09513e73a89.38852584-2048x1536.jpeg",
                                             "sizeSlug": "full",
@@ -526,7 +526,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -545,7 +545,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "attributes": {
                                                     "style": {
                                                         "spacing": {
@@ -558,7 +558,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Dec 09, 2022",
                                                             "style": {
@@ -581,7 +581,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "3 comments",
                                                             "style": {
@@ -607,7 +607,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/heading",
+                                                "name": "heading",
                                                 "attributes": {
                                                     "content": "Business Meeting At California",
                                                     "level": 4,
@@ -632,7 +632,7 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/paragraph",
+                                                "name": "paragraph",
                                                 "attributes": {
                                                     "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
                                                     "style": {
@@ -660,10 +660,10 @@
                                                 }
                                             },
                                             {
-                                                "name": "core/buttons",
+                                                "name": "buttons",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/button",
+                                                        "name": "button",
                                                         "attributes": {
                                                             "text": "Read More",
                                                             "textColor": "white",

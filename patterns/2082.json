@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "textColor": "black",
             "style": {
@@ -11,17 +11,17 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "85%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "content": "SUMMER READING LIST ",
                                     "anchor": "summer-reading-list",
@@ -38,13 +38,13 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "width": "15%"
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/paragraph",
+                                "name": "paragraph",
                                 "attributes": {
                                     "align": "right",
                                     "content": "104<strong>°F</strong><br>40<strong>°C</strong>",
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "name": "core/image",
+                "name": "image",
                 "attributes": {
                     "url": "https://s.w.org/patterns/files/2021/07/124516560-f6872780-ddaf-11eb-8426-5b8f665076b5-829x1024.png",
                     "id": 2083,
@@ -74,7 +74,7 @@
                 }
             },
             {
-                "name": "core/calendar"
+                "name": "calendar"
             }
         ]
     }

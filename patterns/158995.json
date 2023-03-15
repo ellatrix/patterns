@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "style": {
@@ -20,7 +20,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -43,7 +43,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide",
                             "style": {
@@ -64,7 +64,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "style": {
@@ -81,7 +81,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Subscribe to our newsletter",
                                             "textColor": "white",
@@ -96,7 +96,7 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center",
                                     "style": {
@@ -113,7 +113,7 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/search",
+                                        "name": "search",
                                         "attributes": {
                                             "label": "Search",
                                             "showLabel": false,
@@ -141,7 +141,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -165,7 +165,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide",
                             "style": {
@@ -174,13 +174,13 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "500px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "layout": {
                                                 "type": "constrained"
@@ -188,7 +188,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/image",
+                                                "name": "image",
                                                 "attributes": {
                                                     "align": "left",
                                                     "url": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2014_205_15_001",
@@ -209,7 +209,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Lorem Ipsum is simply dummy text of the printing and type <br>setting industry. Lorem Ipsum has been the industry's <br>standard dummy text. Contrary to popular belief, Lorem <br>Ipsum is not simply random text.",
                                             "textColor": "white",
@@ -223,13 +223,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "200px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Company",
                                             "level": 4,
@@ -245,7 +245,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Home",
                                             "textColor": "white",
@@ -258,7 +258,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "About Us",
                                             "textColor": "white",
@@ -271,7 +271,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Services",
                                             "textColor": "white",
@@ -284,7 +284,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Blog",
                                             "textColor": "white",
@@ -297,7 +297,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Contact Us",
                                             "textColor": "white",
@@ -312,13 +312,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "width": "210px"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/heading",
+                                        "name": "heading",
                                         "attributes": {
                                             "content": "Contact us",
                                             "level": 4,
@@ -334,7 +334,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "456 Li Contrary, Text<br><br>+123-456-7890",
                                             "textColor": "white",
@@ -347,7 +347,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "sample@gmail.com",
                                             "textColor": "white",
@@ -360,7 +360,7 @@
                                         }
                                     },
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Opening Hours: 09:00 AM - 06:00 PM",
                                             "textColor": "white",
@@ -379,7 +379,7 @@
                 ]
             },
             {
-                "name": "core/group",
+                "name": "group",
                 "attributes": {
                     "align": "full",
                     "style": {
@@ -401,7 +401,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/columns",
+                        "name": "columns",
                         "attributes": {
                             "align": "wide",
                             "style": {
@@ -422,13 +422,13 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/paragraph",
+                                        "name": "paragraph",
                                         "attributes": {
                                             "content": "Copyright 2022 | All Right Reserved",
                                             "textColor": "white",
@@ -442,13 +442,13 @@
                                 ]
                             },
                             {
-                                "name": "core/column",
+                                "name": "column",
                                 "attributes": {
                                     "verticalAlignment": "center"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/group",
+                                        "name": "group",
                                         "attributes": {
                                             "style": {
                                                 "spacing": {
@@ -473,7 +473,7 @@
                                         },
                                         "innerBlocks": [
                                             {
-                                                "name": "core/social-links",
+                                                "name": "social-links",
                                                 "attributes": {
                                                     "iconColor": "white",
                                                     "iconColorValue": "#ffffff",
@@ -497,28 +497,28 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/social-link",
+                                                        "name": "social-link",
                                                         "attributes": {
                                                             "url": "#",
                                                             "service": "facebook"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/social-link",
+                                                        "name": "social-link",
                                                         "attributes": {
                                                             "url": "#",
                                                             "service": "twitter"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/social-link",
+                                                        "name": "social-link",
                                                         "attributes": {
                                                             "url": "#",
                                                             "service": "instagram"
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/social-link",
+                                                        "name": "social-link",
                                                         "attributes": {
                                                             "url": "#",
                                                             "service": "youtube"

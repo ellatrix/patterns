@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/cover",
+        "name": "cover",
         "attributes": {
             "url": "https://s.w.org/images/core/5.3/Windbuchencom.jpg",
             "dimRatio": 40,
@@ -8,7 +8,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/paragraph",
+                "name": "paragraph",
                 "attributes": {
                     "content": "<strong>Snow Patrol</strong>",
                     "align": "center",

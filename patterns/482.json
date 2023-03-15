@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "<em>Introducing</em>",
@@ -16,7 +16,7 @@
         }
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "Ukiyo-e Prints",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "name": "core/paragraph",
+        "name": "paragraph",
         "attributes": {
             "align": "center",
             "content": "Printed in Tokyo, Japan and made of <br>100% organic cotton rag paper. <br>Available for a limited time.",
@@ -47,13 +47,13 @@
         }
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "30px"
         }
     },
     {
-        "name": "core/buttons",
+        "name": "buttons",
         "attributes": {
             "layout": {
                 "type": "flex",
@@ -63,7 +63,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/button",
+                "name": "button",
                 "attributes": {
                     "text": "Shop Now",
                     "style": {
@@ -79,28 +79,28 @@
         ]
     },
     {
-        "name": "core/spacer",
+        "name": "spacer",
         "attributes": {
             "height": "60px"
         }
     },
     {
-        "name": "core/columns",
+        "name": "columns",
         "attributes": {
             "align": "wide"
         },
         "innerBlocks": [
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/spacer",
+                        "name": "spacer",
                         "attributes": {
                             "height": "90px"
                         }
                     },
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-525466-jpeg-684x1024-1.jpg",
                             "alt": "Japanese woodblock print of shapes by Taguchi Tomoki",
@@ -112,10 +112,10 @@
                 ]
             },
             {
-                "name": "core/column",
+                "name": "column",
                 "innerBlocks": [
                     {
-                        "name": "core/image",
+                        "name": "image",
                         "attributes": {
                             "url": "https://s.w.org/patterns/files/2021/06/image-from-rawpixel-id-525439-jpeg-684x1024-1.jpg",
                             "alt": "Japanese woodblock print of shapes by Taguchi Tomoki",

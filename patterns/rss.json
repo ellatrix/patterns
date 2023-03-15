@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/rss",
+        "name": "rss",
         "attributes": {
             "feedURL": "https://wordpress.org"
         }

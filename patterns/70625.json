@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "background",
@@ -17,7 +17,7 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "verticalAlignment": "top",
                     "align": "full",
@@ -37,7 +37,7 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "attributes": {
                             "verticalAlignment": "top",
                             "width": "100%",
@@ -51,7 +51,7 @@
                         },
                         "innerBlocks": [
                             {
-                                "name": "core/heading",
+                                "name": "heading",
                                 "attributes": {
                                     "textAlign": "center",
                                     "content": "Our Works",
@@ -67,16 +67,16 @@
                                 }
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "background",
                                                     "style": {
@@ -92,7 +92,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://wordpressdemo.project-demo.info/wp-content/uploads/2022/05/portfolio-63-985x1024.jpg",
                                                             "id": 161,
@@ -106,7 +106,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Face Serum</strong>",
@@ -123,7 +123,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "background",
                                                     "style": {
@@ -139,7 +139,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0695.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=eac84452c1dd720e33dccc0fb8784337",
                                                             "dimRatio": 30,
@@ -154,7 +154,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Flawless</strong>",
@@ -173,10 +173,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -195,7 +195,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0704.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=472d6be93198ab4d70ece80723ff933c",
                                                             "dimRatio": 30,
@@ -209,7 +209,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Love Nature</strong>",
@@ -226,7 +226,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -245,7 +245,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd36-2-ksc-07pp2987.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=4418f5da680e4a22ac0df065708dd1b3",
                                                             "dimRatio": 30,
@@ -259,7 +259,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Space shuttle</strong>",
@@ -278,10 +278,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -300,7 +300,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd-36-2-ksc-08pd3160_orig.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=851687b9be01e964a3e48bfd2cadceb3",
                                                             "dimRatio": 30,
@@ -314,7 +314,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>A Water Lilly</strong>",
@@ -331,7 +331,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -350,7 +350,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markuss-1076.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=363ee621c278b6aefb0a9dfdce8c4549",
                                                             "dimRatio": 30,
@@ -364,7 +364,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Water Flow</strong>",
@@ -381,7 +381,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -400,7 +400,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd17-074-num-passerina-cyanea-indigo-bird.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=e20dc4acd5cf6a73b17b2dab46d5d28d",
                                                             "dimRatio": 40,
@@ -414,7 +414,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Indigo Bird</strong>",
@@ -435,16 +435,16 @@
                                 ]
                             },
                             {
-                                "name": "core/columns",
+                                "name": "columns",
                                 "attributes": {
                                     "align": "full"
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "background",
                                                     "style": {
@@ -460,7 +460,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0374.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3fbbac7f0d45d14e22d0d3d888b238c8",
                                                             "dimRatio": 30,
@@ -475,7 +475,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>A Bike</strong>",
@@ -492,7 +492,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "background",
                                                     "style": {
@@ -508,7 +508,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a019-jakubk-0489-water-lemon-mint.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=9702b0c5af29dda9d7fc11bdf6574081",
                                                             "dimRatio": 30,
@@ -523,7 +523,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Water With Lemon</strong>",
@@ -542,10 +542,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -564,7 +564,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0612.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=09dd895eacb55fb515bac8b27c9458c3",
                                                             "dimRatio": 30,
@@ -578,7 +578,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Raspberries</strong>",
@@ -595,7 +595,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -614,7 +614,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-18019419.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=49f205922aaa03de4560c7f0227487fb",
                                                             "dimRatio": 30,
@@ -628,7 +628,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Pine Tree</strong>",
@@ -645,7 +645,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -664,7 +664,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a010-markusspiske-nov18-10484_003-032_100mm_kodak_color_400.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=680762a921fef9c2fa50097ddcf9679c",
                                                             "dimRatio": 30,
@@ -678,7 +678,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Pine Cone</strong>",
@@ -697,10 +697,10 @@
                                         ]
                                     },
                                     {
-                                        "name": "core/column",
+                                        "name": "column",
                                         "innerBlocks": [
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -719,7 +719,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-635-ray.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=758fe6c5d49e5965a5b132380a9e1642",
                                                             "dimRatio": 30,
@@ -733,7 +733,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Bower-Bird</strong>",
@@ -750,7 +750,7 @@
                                                 ]
                                             },
                                             {
-                                                "name": "core/group",
+                                                "name": "group",
                                                 "attributes": {
                                                     "backgroundColor": "white",
                                                     "style": {
@@ -769,7 +769,7 @@
                                                 },
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/cover",
+                                                        "name": "cover",
                                                         "attributes": {
                                                             "url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/-a010-markuss-0731.jpg?w=1200&h=1200&fit=clip&crop=default&dpr=1&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=fe817a934cc1e630124d79464088b27f",
                                                             "dimRatio": 30,
@@ -783,7 +783,7 @@
                                                         },
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/paragraph",
+                                                                "name": "paragraph",
                                                                 "attributes": {
                                                                     "align": "center",
                                                                     "content": "<strong>Christmas</strong>",

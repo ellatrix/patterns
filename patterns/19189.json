@@ -1,6 +1,6 @@
 [
     {
-        "name": "core/group",
+        "name": "group",
         "attributes": {
             "align": "full",
             "backgroundColor": "black",
@@ -22,14 +22,14 @@
         },
         "innerBlocks": [
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {},
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -51,14 +51,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Digital Strategy",
                                                             "style": {
@@ -72,7 +72,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "style": {
@@ -85,10 +85,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "luminous-vivid-amber",
@@ -122,10 +122,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "backgroundColor": "luminous-vivid-amber",
@@ -147,14 +147,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "UX Designs",
                                                             "textColor": "black",
@@ -169,7 +169,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "textColor": "black",
@@ -183,10 +183,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "black",
@@ -220,10 +220,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -245,14 +245,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Web Design",
                                                             "style": {
@@ -266,7 +266,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "style": {
@@ -279,10 +279,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "luminous-vivid-amber",
@@ -318,7 +318,7 @@
                 ]
             },
             {
-                "name": "core/columns",
+                "name": "columns",
                 "attributes": {
                     "style": {
                         "spacing": {
@@ -330,10 +330,10 @@
                 },
                 "innerBlocks": [
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -355,14 +355,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Social Media",
                                                             "style": {
@@ -376,7 +376,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "style": {
@@ -389,10 +389,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "luminous-vivid-amber",
@@ -426,10 +426,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -451,14 +451,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "SEO Booster",
                                                             "style": {
@@ -472,7 +472,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "style": {
@@ -485,10 +485,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "luminous-vivid-amber",
@@ -522,10 +522,10 @@
                         ]
                     },
                     {
-                        "name": "core/column",
+                        "name": "column",
                         "innerBlocks": [
                             {
-                                "name": "core/group",
+                                "name": "group",
                                 "attributes": {
                                     "borderColor": "white",
                                     "style": {
@@ -547,14 +547,14 @@
                                 },
                                 "innerBlocks": [
                                     {
-                                        "name": "core/columns",
+                                        "name": "columns",
                                         "attributes": {},
                                         "innerBlocks": [
                                             {
-                                                "name": "core/column",
+                                                "name": "column",
                                                 "innerBlocks": [
                                                     {
-                                                        "name": "core/heading",
+                                                        "name": "heading",
                                                         "attributes": {
                                                             "content": "Design Concept",
                                                             "style": {
@@ -568,7 +568,7 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/paragraph",
+                                                        "name": "paragraph",
                                                         "attributes": {
                                                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id arcu luctus dolore magna.",
                                                             "style": {
@@ -581,10 +581,10 @@
                                                         }
                                                     },
                                                     {
-                                                        "name": "core/buttons",
+                                                        "name": "buttons",
                                                         "innerBlocks": [
                                                             {
-                                                                "name": "core/button",
+                                                                "name": "button",
                                                                 "attributes": {
                                                                     "text": "Read More",
                                                                     "backgroundColor": "luminous-vivid-amber",
